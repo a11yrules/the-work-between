@@ -178,7 +178,8 @@ a {
   }
 
   span {
-    color: light-dark($green-logo, lighten($green-logo, 30%));
+    //color: light-dark($green-logo, lighten($green-logo, 30%));//
+    color: $green-logo;
     font-weight: 800;
     letter-spacing: .05em;
   }
