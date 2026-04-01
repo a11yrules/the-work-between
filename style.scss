@@ -178,7 +178,7 @@ a {
   }
 
   span {
-    color: light-dark(lighten($blue-logo, 15%), lighten($blue-logo, 30%));
+    color: light-dark(lighten($green-logo, 15%), lighten($green-logo, 30%));
     font-weight: 800;
     letter-spacing: .05em;
   }
@@ -827,7 +827,7 @@ details {
 }
 
 .cta-light {
-  @include colors(light-dark(transparent), light-dark($blue-logo, lighten($blue-logo, 30%)));
+  @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
   &:focus,
   &:hover {
