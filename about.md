@@ -4,40 +4,58 @@ title: About
 permalink: /about/
 ---
 
-## Original podcast
+**The Work Between** is a podcast about creative practice, identity, and the space where they shape each other. Host Nic Steenhout talks with disabled creators, artists, and makers — painters, quilters, musicians, sculptors, photographers, and more. These aren't inspiration stories. They're honest conversations about how people actually make things, and how disability and creative work influence each other in real, sometimes complicated ways.
 
-There is a lot of information about how to make the web accessible. There isn’t so much information about the people working to make the web accessible. Over the years that I’ve been involved with web accessibility, I have met a lot of very interesting people. I wanted to learn more about them, and meet new people involved in one way or another with web accessibility.
+---
 
-The A11y Rules Podcast is the result of this desire.
+## Why this show
 
-## The Sound Bites
+I'm interested in disability identity. I'm also interested in the creative process. I've listened to podcasts about both. But I don't want to just listen — I want to be part of those conversations. And I want to share them.
 
-Hear it in their own words – disabled people talking about the barriers they encounter on the web. These episodes are typically 5 to 10 minutes. We cover topics that are often not spoken about much but that make a difference to disabled visitors to your site or users of your apps.
+This is how my first podcast started. I created and hosted over 160 episodes across two series — the A11y Rules Podcast and A11y Rules Soundbites — having conversations about web accessibility. This show follows that same impulse, just pointed in a different direction.
 
-As someone told me recently: 
+A lot of media about disabled artists follows a familiar script. The focus is on overcoming. The work becomes proof of resilience. The circumstances become the story.
 
-<blockquote>Once you hear it, you can't unhear it. Learning the real world impact of inaccessibility from disabled people reaffirmed the importance of accessibility.</blockquote>
+Those stories aren't wrong. But they're incomplete.
 
-## Nic Steenhout
+I'm interested in something else — conversations that take both the work and the identity seriously, without reducing either one to a lesson.
 
-Nicolas Steenhout in a few words:
+That's what the title points to.
 
-* I've been speaking about and training on accessibility for over 25 years.
-* I've collaborated with various organizations, from local government to large corporations.
-* I have a pragmatic, down-to-earth approach.
-* I've worked on three continents.
-* I created and hosted over 160 episodes between 2 podcast series, since 2017.
-  
+Not "work and disability" as separate topics. The work *between* — the relationship itself. The space where creative practice and personal circumstances shape each other. Not always neatly. Not always in one direction.
 
-<h2 id="numeronym">A11y Rules Podcast Network - name</h2>
+This podcast explores that space.
 
-The "word" Ally stands for accessibility. It is a numeric abbreviation, or numeronym. The idea is that you take the first and last letter of a word and count how many letters are in between. Accessibility has 11 characters between the A and the Y. So we get A-11-y. Or a11y. A11y is pronounced "accessibility".
+How do disabled artists think about their practice? What gets shaped? What gets challenged? What stays unresolved?
 
-There is controversy in both disability and digital accessibility communities about the use of the a11y numeronym. I can't argue against people who say it is not friendly. Some even say it's not accessible! And they have a point. [Jonathan Mosen goes as far as saying it is harmful](https://mosen.org/a11yharm/).
+These are conversations about process, identity, and making things — without trying to tidy them up.
 
-Originally, the numeronym started being used on Twitter (a long long time before that platform was known as X). At the time, we had a 140 character limit. Every character counted. It made a big difference being able to "shave" 11 characters. Talks of "it's not accessible", "it's not inclusive", or "it's harmful" started surfacing after I started this show in 2017. I was not aware of any significant controversy back then.
+## About me
 
-I won't change the name of the shows. They remain "The A11y Rules Podcast", or part of "The A11y Rules Podcast Network".
+I'm a disabled accessibility consultant, speaker, and trainer. I have over 25 years of experience in both physical and digital accessibility. I've spent most of that time focused on removing barriers — training thousands of people on web accessibility, working on the Web Content Accessibility Guidelines Education and Outreach team, consulting with governments and corporations across three continents.
 
-I also don't use the numeronym in communications or social media anymore. 
+That work matters. But it's not the whole story of what I do.
 
+I've also been making things for most of my life. Photography. Quilting. Leather work. Cooking. Drawing. Creating has always been part of how I understand the world.
+
+My introduction to disability rights came through the independent living movement. I learned under Diane Coleman at Progress Center for Independent Living in Illinois. Diane was my mentor in disability rights. She later founded Not Dead Yet. Diane taught me a core principle: Disabled people know what we need. We make our own decisions. We control our own lives.
+
+Through that work, I met many disabled people, including creators and artists, who were making things alongside everything else in their lives. Not as "inspiration." Just as part of who they are.
+
+At the time, I didn't fully connect those dots. This podcast is, in part, me coming back to that.
+
+I'm disabled. I'm a wheelchair user. I have audio processing issues. I have arthritis. I have a (now retired) service dog named Chambly. These aren't incidental details — they're part of how I move through the world and how I think about access, both in the built environment and the digital one.
+
+I bring a pragmatic, down-to-earth approach. I'm not looking for neat stories or easy conclusions. I'm interested in honest conversations about how creative work and identity intersect — and what happens in between.
+
+## What you'll get
+
+You'll hear conversations that:
+* Focus on the work as much as the person — what someone makes, how they make it, what challenges them in the process
+* Take disability seriously without making it the whole story
+* Ask about creative decisions, not about overcoming obstacles
+* Leave space for ambivalence, contradiction, and things that don't resolve neatly
+
+You won't hear "How did you overcome your disability to create art?" You will hear "What's your process? What works? What doesn't? How do you think about your practice?"
+
+If that's what you're looking for, you're in the right place.
