@@ -44,6 +44,8 @@ Through that work, I met many disabled people, including creators and artists, w
 
 At the time, I didn't fully connect those dots. This podcast is, in part, me coming back to that.
 
+That same idea — that disabled people define our own lives — is what drives this podcast: conversations where artists speak for themselves about their work, instead of being framed as someone else’s story.
+
 I'm disabled. I'm a wheelchair user. I have audio processing issues. I have arthritis. I have a (now retired) service dog named Chambly. These aren't incidental details — they're part of how I move through the world and how I think about access, both in the built environment and the digital one.
 
 I bring a pragmatic, down-to-earth approach. I'm not looking for neat stories or easy conclusions. I'm interested in honest conversations about how creative work and identity intersect — and what happens in between.
@@ -58,4 +60,4 @@ You'll hear conversations that:
 
 You won't hear "How did you overcome your disability to create art?" You will hear "What's your process? What works? What doesn't? How do you think about your practice? Does your approach to art changes how you perceive yourself?"
 
-If that's what you're looking for, you're in the right place.
+If that's what you're looking for, you're in the right place. Start with the latest episode, or pick one that catches your interest — and see what shows up in the work between.
