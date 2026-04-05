@@ -4,7 +4,7 @@ title: ""
 type: podcast
 summary: ""
 
-permalink: /podcast/e01-interview-with-robert-jolly-part-1/
+permalink: /episodes/
 # Podcast Episode Metadata
 episode_type: full
 episode_number: 01
@@ -18,10 +18,16 @@ duration: "PT28M19S"
 duration_formatted: "28:19"
 
 # Series
-series: "A11y Rules Podcast"
+series: "The Work Between"
 
 # Episode Artwork
+cover_art: /assets/images/episodes/episode-01-cover.jpg
 
+topics: ["", ""]
+
+guest: ""
+
+date: 2024-01-15
 
 # Author/Host
 author: "Nic Steenhout"
@@ -30,7 +36,7 @@ author: "Nic Steenhout"
 explicit: false
 
 # Categories/Tags
-categories: original
+
 tags: 
 ---
 
