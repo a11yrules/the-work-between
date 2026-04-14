@@ -43,8 +43,15 @@
       <header id="navbar" class="container masthead">
         <div class="site-info">
            <a href="{{ '/' | relative_url }}">
-               <!--{% include logo.html %}-->
-               <img src="img/The Work Between podcast cover.svg" alt="">
+               <!--<img src="img/podcast-cover-art.jpg" alt="">-->
+               <img 
+  srcset="img/podcast-cover-art-512.jpg 512w,
+  img/podcast-cover-art-768.jpg 768w,
+  img/podcast-cover-art-1024.jpg 1024w"
+  sizes="(max-width: 768px) 100vw, 1024px"
+  src="img/podcast-cover-art-1024.jpg"
+  alt=""
+/>
             <span>The Work Between<br>Podcast</span>
               </a>
         </div>
