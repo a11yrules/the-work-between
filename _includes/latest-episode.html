@@ -2,7 +2,7 @@
 {% if latest %}
   {% if latest.cover_art %}
   <figure class="episode-cover-art">
-    <img src="{{ latest.cover_art | relative_url }}" alt="Cover art for {{ latest.title }}" width="400" height="400">
+    <img src="{{ latest.cover_art | relative_url }}" alt="" width="400" height="400">
   </figure>
   {% endif %}
   <h3><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h3>
