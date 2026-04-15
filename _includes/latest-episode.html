@@ -1,0 +1,24 @@
+{% assign latest = site.posts | where: "type", "podcast" | first %}
+{% if latest %}
+  {% if latest.cover_art %}
+  <figure class="episode-cover-art">
+    <img src="{{ latest.cover_art | relative_url }}" alt="" width="400" height="400">
+  </figure>
+  {% endif %}
+  <h3><a href="{{ latest.url | relative_url }}">{{ latest.title }}</a></h3>
+  {% if latest.guest %}<p class="about-latest"><strong>Guest:</strong> {{ latest.guest }}</p>{% endif %}
+  {% if latest.summary %}<p class="about-latest">{{ latest.summary }}</p>{% endif %}
+
+  {% if latest.audio_url %}
+  <div class="audio-container">
+    <audio data-able-player preload="none" data-heading-level="3" data-speed-icons="animals" data-root-path="{{ '/assets/ableplayer/' | relative_url }}">
+      <source type="{{ latest.audio_type | default: 'audio/mpeg' }}" src="{{ latest.audio_url }}"/>
+    </audio>
+  </div>
+  {% endif %}
+
+  <p class="episode-meta-inline">
+    {% if latest.date %}Published: {{ latest.date | date: "%B %d, %Y" }}{% endif %}
+    {% if latest.duration_formatted %} &middot; Duration: {{ latest.duration_formatted }}{% endif %}
+  </p>
+{% endif %}
