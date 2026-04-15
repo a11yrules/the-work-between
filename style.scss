@@ -154,6 +154,11 @@ a {
     color: light-dark($white, $white);
     text-decoration: none;
 
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
     span {
       display: inline-block;
       padding-inline-start: 1.2rem;

@@ -45,11 +45,11 @@
            <a href="{{ '/' | relative_url }}">
                <!--<img src="img/podcast-cover-art.jpg" alt="">-->
                <img 
-  srcset="img/podcast-cover-art-512.jpg 512w,
-  img/podcast-cover-art-768.jpg 768w,
-  img/podcast-cover-art-1024.jpg 1024w"
-  sizes="(max-width: 768px) 100vw, 1024px"
-  src="img/podcast-cover-art-1024.jpg"
+  srcset="{{ '/img/podcast-cover-art-512.jpg' | relative_url }} 512w,
+  {{ '/img/podcast-cover-art-768.jpg' | relative_url }} 768w,
+  {{ '/img/podcast-cover-art-1024.jpg' | relative_url }} 1024w"
+  sizes="(max-width: 480px) 100px, 25vw"
+  src="{{ '/img/podcast-cover-art-512.jpg' | relative_url }}"
   alt=""
 />
             <span>The Work Between<br>Podcast</span>
