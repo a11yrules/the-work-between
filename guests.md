@@ -4,6 +4,7 @@ title: Guests
 permalink: /guests/
 ---
 
+<div class="container">
 
 <h1>Guests</h1>
 
@@ -61,3 +62,5 @@ permalink: /guests/
   </section>
   {% endif %}
 {% endfor %}
+
+</div>
