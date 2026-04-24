@@ -1020,3 +1020,39 @@ nav[aria-label="Jump to letter"] li:after{
         content: none;
     }
 }
+/* Podcast aggregator logos on homepage*/
+.podcast-platforms {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.podcast-platforms li {
+  flex: 1 1 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.podcast-platforms li img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+}
+
+@media (max-width: 480px) {
+  .podcast-platforms {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .podcast-platforms li img {
+    width: 60px;
+    height: 60px;
+  }
+}
