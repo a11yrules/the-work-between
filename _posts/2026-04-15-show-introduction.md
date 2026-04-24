@@ -7,7 +7,7 @@ summary: "The Work Between is an interview podcast with disabled artists and cre
 permalink: /episodes/
 # Podcast Episode Metadata
 episode_type: full
-episode_number: 01
+episode_number: 00
 
 # Audio Information
 audio_url: 
