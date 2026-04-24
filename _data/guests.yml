@@ -1,7 +1,8 @@
 
-- first_name: Sina
-  last_name: Bahram
-  image: /img/guest/sina-bahram.jpg
-  bio: "Sina runs an accessibility firm called Prime Access Consulting. We do a lot of work with organizations especially in the cultural heritage sectors, like museums, and non-profits oriented around that space but also with start-ups and universities and larger companies on digital accessibility, whether that's web accessibility, iPhone apps, digital interactives that involve large touch interfaces in museums, and applying the principles of inclusive and universal design to that so those types of experiences and technologies are available to the widest possible audience."
-  url: /podcast-dev/guest/sina-bahram/
 
+
+- first_name: Nic
+  last_name: Steenhout
+  image: /img/guest/nicolas-steenhout-03.png
+  bio: "Nic Steenhout is the host and creator of The Work Between. A quilter, bird photographer, and sketcher, he brings his own creative practice to every conversation on the show. He has spent more than 25 years working in web accessibility as a speaker, trainer, and consultant. He has worked with disabled people, non-profits, government organizations, and corporations across three continents. He also hosts A11y Rules, a podcast dedicated to web accessibility. Nic lives and works in British Columbia."
+  url: /podcast-dev/guest/nic-steenhout/

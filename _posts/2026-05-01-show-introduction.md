@@ -25,9 +25,9 @@ cover_art: /assets/images/episodes/episode-01-cover.jpg
 
 topics: ["", ""]
 
-guest: ""
+guest: "Nic Steenhout"
 
-date: 2026-04-15
+date: 2026-05-01
 
 # Author/Host
 author: "Nic Steenhout"
