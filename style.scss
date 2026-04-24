@@ -903,7 +903,16 @@ details {
             align-items: center;
             justify-content: center;
             text-align: center;
-            
+
+            a {
+              color: light-dark($white, $silver);
+
+              &:hover,
+              &:focus {
+                outline: 3px solid light-dark($white, $silver);
+                text-decoration: underline;
+              }
+            }
         }
         .about-latest {
           color: light-dark($contrast2);
