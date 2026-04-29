@@ -1041,7 +1041,7 @@ nav[aria-label="Jump to letter"] li:after{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   gap: 1rem;
 }
 
@@ -1049,7 +1049,7 @@ nav[aria-label="Jump to letter"] li:after{
   flex: 1 1 80px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .podcast-platforms li img {
