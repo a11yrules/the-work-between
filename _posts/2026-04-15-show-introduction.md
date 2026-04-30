@@ -52,10 +52,13 @@ tags:
 </audio>
 
 </div>
-
+<details>
+    <summary><h2>Timed Transcript</h2></summary>
+    <div id="timed-transcript-content"></div>
+</details>
 
 <details>
-    <summary><h2>Transcript</h2></summary>
+    <summary><h2>Static Transcript</h2></summary>
     <p>Hi. I'm Nic Steenhout, and this is The Work Between.</p>
 <p>Before I get into what the show is, I want to say whose land it's made on. This podcast is recorded on the traditional, ancestral, and unceded territory of the Stó:lō Coast Salish peoples: The People of the River, whose presence in the Fraser Valley stretches back thousands of years. I name this territory because it belongs with what this show is about. The ways we decide whose lives are valued, whose work is taken seriously, and whose experiences are treated as problems to be managed. Those decisions shape everything. This show sits inside that. This is, was, and always will be First Nations land. That's not a formality. It's consistent with everything I and this show stand for.</p>
 
@@ -92,10 +95,7 @@ tags:
 
 </details>
 
-<details>
-    <summary><h2>Timed Transcript</h2></summary>
-    <div id="timed-transcript-content"></div>
-</details>
+
 
 ## Show Notes
 
