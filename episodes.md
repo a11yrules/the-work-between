@@ -10,7 +10,7 @@ permalink: /episodes/
 {% for post in site.posts %}
   <li>
     {% if post.cover_art %}
-      <img src="{{ post.cover_art | relative_url }}" alt="Cover art for {{ post.title }}">
+      <img src="{{ post.local_cover_art | relative_url }}" alt="Cover art for {{ post.title }}">
     {% endif %}
     <div>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
