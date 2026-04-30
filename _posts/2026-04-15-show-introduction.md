@@ -12,6 +12,7 @@ episode_number: 00
 # Audio Information
 audio_url: 
 audio_type: "audio/mpeg"
+transcript_vtt: /assets/transcripts/the-work-between-introduction.vtt
 
 # Duration
 duration: "PT6M06S"
@@ -47,7 +48,7 @@ tags:
 <h2>Listen to the episode</h2>
 <audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="/podcast-dev/assets/ableplayer/" data-transcript-div="timed-transcript-content">
   <source type="audio/mpeg" src="{{ page.audio_url }}"/>
-  <track kind="captions" src="/assets/transcripts/the-work-between-introduction.vtt" srclang="en" label="English captions"/>
+  <track kind="captions" src="{{ page.transcript_vtt }}" srclang="en" label="English captions"/>
 </audio>
 
 </div>
