@@ -4,7 +4,7 @@ title: "Introduction to The Work Between"
 type: podcast
 summary: "The Work Between is an interview podcast with disabled artists and creators. We will be discussing their creative processes and explore the intersection of creativity and disability, and asking how that intersection shapes identity."
 
-permalink: /episodes/
+permalink: /episodes/the-work-between-introduction/
 # Podcast Episode Metadata
 episode_type: full
 episode_number: 00
@@ -14,14 +14,15 @@ audio_url:
 audio_type: "audio/mpeg"
 
 # Duration
-duration: "PT28M19S"
-duration_formatted: "28:19"
+duration: "PT6M06S"
+duration_formatted: "6:06"
 
 # Series
 series: "The Work Between"
 
 # Episode Artwork
-cover_art: /assets/images/episodes/episode-01-cover.jpg
+cover_art: /img/covers/introduction-episode-cover-3000.jpg
+local_cover_art: /img/covers/introduction-episode-cover-800.jpg
 
 topics: ["", ""]
 
