@@ -1005,6 +1005,12 @@ nav[aria-label="Jump to letter"] li:after{
 }
 
 
+.episode-cover-art {
+  display: flex;
+  justify-content: center;
+  margin-block: 2vh;
+}
+
 .episode-meta ul {
     display: flex;
     flex-wrap: wrap; /* Allows wrapping on smaller screens */
