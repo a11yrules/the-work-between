@@ -388,15 +388,6 @@ a {
 /* individual posts */
 
 .post {
-  h1 {
-    padding-block: 14vh 2vh;
-    color: light-dark($contrast3);
-    font-size: calc(clamp(2rem, 4vw + 2rem, 4rem));
-    font-weight: 800;
-    line-height: 1;
-    text-align: center;
-  }
-
   .date {
     font-style: oblique;
     text-align: center;
@@ -472,7 +463,7 @@ a {
     padding-block: 3vh 1.8vh;
   }
 
-  img {
+  img:not(.episode-list-cover) {
     display: block;
     @include img-responsive;
   }
