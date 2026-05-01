@@ -333,13 +333,12 @@ a {
   width: 100vw;
 }
 
-#heading-about {
+.page-heading {
   display: flex;
   background-color: light-dark($contrast1);
   color: light-dark($contrast2);
   
   h1 {
-    /*padding-block: 12vh;*/
     line-height: 1.25;
     text-align: center;
   }
