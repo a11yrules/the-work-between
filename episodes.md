@@ -1,10 +1,8 @@
 ---
-layout: default
+layout: page
 title: Episode list
 permalink: /episodes/
 ---
-
-<h1>Episode list</h1>
 
 <ul>
 {% for post in site.posts %}

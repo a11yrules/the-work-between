@@ -1,12 +1,8 @@
 ---
-layout: default
+layout: page
 title: Guests
 permalink: /guests/
 ---
-
-<div class="container">
-
-<h1>Guests</h1>
 
 {% comment %} Build alphabetical navigation {% endcomment %}
 <nav aria-label="Jump to letter">
@@ -62,5 +58,3 @@ permalink: /guests/
   </section>
   {% endif %}
 {% endfor %}
-
-</div>

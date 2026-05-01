@@ -3,8 +3,10 @@ layout: default
 ---
 
 <article class="post">
+  <div class="page-heading">
+    <h1 class="container">{{ page.title }}</h1>
+  </div>
   <div class="container">
-    <h1>{{ page.title }}</h1>
     {% if page.local_cover_art %}
     <div class="episode-cover-art">
       <img src="{{ page.local_cover_art | relative_url }}" alt="Watercolor cover art for {{ page.title }}">
@@ -20,7 +22,7 @@ layout: default
         {% endif %}
       </p>
     </div>
-    </div>
+  </div>
 
   <div class="entry container">
     <div id="summary">
