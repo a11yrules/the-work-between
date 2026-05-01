@@ -990,23 +990,18 @@ nav[aria-label="Jump to letter"] li:after{
 
 /* inline episode info list styling */
 
-.episode-cover-art {
-  margin: 0 auto 1.5rem;
-  width: 100%;
-  max-width: 280px;
+.episode-list-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
 
-  img {
-    display: block;
-    width: 100%;
-    height: auto;
-    border-radius: 8px;
-    object-fit: cover;
-  }
-
-  /* On small screens let the art fill more of the column */
-  @media (max-width: 767px) {
-    max-width: 60vw;
-  }
+.episode-list-cover {
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 
