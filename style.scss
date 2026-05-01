@@ -901,7 +901,7 @@ details {
             display: flex;
             flex-direction: column;
             align-items: center;
-            justify-content: center;
+            justify-content: flex-start;
             text-align: center;
 
             a {
@@ -1047,7 +1047,7 @@ nav[aria-label="Jump to letter"] li:after{
 }
 
 .podcast-platforms li {
-  flex: 1 1 80px;
+  flex: 0 0 100px;
   display: flex;
   justify-content: center;
   align-items: flex-start;
