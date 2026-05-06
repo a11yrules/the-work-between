@@ -12,6 +12,7 @@ episode_number: 01
 # Audio Information
 audio_url: 
 audio_type: "audio/mpeg"
+file_size: # file size in bytes (required for podcast aggregators)
 
 # Duration
 duration: "PT28M19S"

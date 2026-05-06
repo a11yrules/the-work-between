@@ -29,12 +29,19 @@ footer-links:
   instagram: 
   linkedin: nicolassteenhout
   pinterest:
-  rss: # just type anything here for a working RSS 
+  rss: true
   twitter: 
   stackoverflow: 
   youtube: user/nicolassteenhout
   googleplus: 
   bluesky: 
+
+# Podcast-specific settings
+podcast_artwork: /img/covers/podcast-cover-art-1024.jpg
+podcast_category: "Society & Culture"
+podcast_language: en
+podcast_explicit: false
+podcast_type: episodic
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
