@@ -33,7 +33,7 @@
     
     <!-- Audio/Podcast Specific Meta Tags -->
     {% if page.audio_url %}
-    <meta property="og:audio" content="{{ page.audio_url }}">
+    <meta property="og:audio" content="https://op3.dev/e/{{ page.audio_url }}">
     <meta property="og:audio:type" content="{{ page.audio_type | default: 'audio/mpeg' }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Podcast Feed" href="{{ site.url }}{{ site.baseurl }}/podcast.rss">
     {% endif %}

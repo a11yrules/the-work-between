@@ -52,7 +52,7 @@ layout: null
       <itunes:summary>{{ post.summary | default: post.excerpt | strip_html | xml_escape }}</itunes:summary>
 
       {% if post.audio_url %}
-      <enclosure url="{{ post.audio_url }}" length="{{ post.file_size | default: 0 }}" type="{{ post.audio_type | default: 'audio/mpeg' }}"/>
+      <enclosure url="https://op3.dev/e/{{ post.audio_url }}" length="{{ post.file_size | default: 0 }}" type="{{ post.audio_type | default: 'audio/mpeg' }}"/>
       {% endif %}
 
       {% if post.duration_formatted %}
