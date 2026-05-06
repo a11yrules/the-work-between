@@ -46,7 +46,7 @@ tags:
 
 <h2>Listen to the episode</h2>
 <audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="/podcast-dev/assets/ableplayer/">
-  <source type="audio/mpeg" src="{{ page.audio_url }}"/>
+  <source type="audio/mpeg" src="https://op3.dev/e/{{ page.audio_url }}"/>
 </audio>
 
 </div>

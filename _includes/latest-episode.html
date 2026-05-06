@@ -12,7 +12,7 @@
   {% if latest.audio_url %}
   <div class="audio-container">
     <audio data-able-player preload="none" data-heading-level="3" data-speed-icons="animals" data-root-path="{{ '/assets/ableplayer/' | relative_url }}">
-      <source type="{{ latest.audio_type | default: 'audio/mpeg' }}" src="{{ latest.audio_url }}"/>
+      <source type="{{ latest.audio_type | default: 'audio/mpeg' }}" src="https://op3.dev/e/{{ latest.audio_url }}"/>
     </audio>
   </div>
   {% endif %}
