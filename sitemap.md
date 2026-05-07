@@ -9,10 +9,15 @@ permalink: /sitemap/
 ## Pages
  
  * <a href="https://theworkbetween.show">Homepage</a>
- * <a href="/meet-nic/">Meet Nic</a>
- 
+ * <a href="/episodes/">Episodes</a>
+ * <a href="/guests/">Guests</a>
+ * <a href="/subscribe/">Subscribe</a>
+ * <a href="/about/">About</a>
+ * <a href="/editorial-stance/">Editorial Stance</a>
  * <a href="/accessibility/">Accessibility statement</a>
  * <a href="/sitemap/" aria-current="true">Sitemap</a>
+ * <a href="/tou/">Terms of Use</a>
+ * <a href="/privacy">Privacy</a>
    
 ## Episodes
 
