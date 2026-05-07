@@ -17,7 +17,7 @@ permalink: /sitemap/
  * <a href="/accessibility/">Accessibility statement</a>
  * <a href="/sitemap/" aria-current="true">Sitemap</a>
  * <a href="/tou/">Terms of Use</a>
- * <a href="/privacy">Privacy</a>
+ * <a href="/privacy">Privacy policy</a>
    
 ## Episodes
 
