@@ -51,8 +51,9 @@ layout: null
       <description>{{ post.summary | default: post.excerpt | strip_html | xml_escape }}</description>
       <itunes:summary>{{ post.summary | default: post.excerpt | strip_html | xml_escape }}</itunes:summary>
 
-      {% if post.audio_url %}
-      <enclosure url="https://op3.dev/e/{{ post.audio_url }}" length="{{ post.file_size | default: 0 }}" type="{{ post.audio_type | default: 'audio/mpeg' }}"/>
+      {% if post.audio_url or post.audio_file %}
+      {% capture tracked_audio_url %}{% include podcast-audio-url.html audio_file=post.audio_file audio_url=post.audio_url tracked=true %}{% endcapture %}
+      <enclosure url="{{ tracked_audio_url | strip }}" length="{{ post.file_size | default: 0 }}" type="{{ post.audio_type | default: 'audio/mpeg' }}"/>
       {% endif %}
 
       {% if post.duration_formatted %}

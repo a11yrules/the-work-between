@@ -10,7 +10,7 @@ episode_type: full
 episode_number: 01
 
 # Audio Information
-audio_url: 
+audio_file:
 audio_type: "audio/mpeg"
 file_size: # file size in bytes (required for podcast aggregators)
 
@@ -41,17 +41,6 @@ explicit: false
 tags: 
 ---
 
-
-<div class="audio-container">
-
-<h2>Listen to the episode</h2>
-<audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="/podcast-dev/assets/ableplayer/">
-  <source type="audio/mpeg" src="https://op3.dev/e/{{ page.audio_url }}"/>
-</audio>
-
-</div>
-
-
 <details>
     <summary><h2>Transcript</h2></summary>
     
@@ -61,4 +50,3 @@ tags:
 ## Show Notes
 
 * 
-
