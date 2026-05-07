@@ -8,7 +8,7 @@ permalink: /sitemap/
  
 ## Pages
  
- * <a href="https://theworkbetween.show">Homepage</a>
+ * <a href="{{ '/' | relative_url }}">Homepage</a>
  * <a href="/episodes/">Episodes</a>
  * <a href="/guests/">Guests</a>
  * <a href="/subscribe/">Subscribe</a>
