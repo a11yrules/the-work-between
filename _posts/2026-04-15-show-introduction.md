@@ -39,7 +39,7 @@ author: "Nic Steenhout"
 # Content Rating
 explicit: false
 
-show-notes: /show-notes/show-00.html
+show-notes: /show-notes/show-00.md
 # Categories/Tags
 
 tags: 
