@@ -10,7 +10,7 @@ episode_type: full
 episode_number: 00
 
 # Audio Information
-audio_url: 
+audio_url: 00-show-intro-v1.mp3
 audio_type: "audio/mpeg"
 file_size: # file size in bytes (required for podcast aggregators)
 transcript_vtt: /assets/transcripts/the-work-between-introduction.vtt
