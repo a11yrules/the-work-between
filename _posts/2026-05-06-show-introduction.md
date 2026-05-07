@@ -17,8 +17,8 @@ transcript_vtt: /assets/transcripts/the-work-between-introduction.vtt
 transcript: transcripts/show-00.html
 
 # Duration
-duration: "PT6M06S"
-duration_formatted: "6:06"
+duration: "PT6M25S"
+duration_formatted: "6:25"
 
 # Series
 series: "The Work Between"
