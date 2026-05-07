@@ -24,12 +24,13 @@ layout: default
     </div>
   </div>
 
-  <div class="entry container">
-    <div id="summary">
-      <div class="summary">
-        <h2>Summary</h2>
-        <p>{{ page.summary }}</p>
-      </div>
+    <div class="entry container">
+      {% capture tracked_audio_url %}{% include podcast-audio-url.html audio_file=page.audio_file audio_url=page.audio_url tracked=true %}{% endcapture %}
+      <div id="summary">
+        <div class="summary">
+          <h2>Summary</h2>
+          <p>{{ page.summary }}</p>
+        </div>
     </div>
       
             <div class="episode-meta">
@@ -58,6 +59,18 @@ layout: default
                 
                 </ul>
             </div>
+
+    {% if tracked_audio_url != "" %}
+    <div class="audio-container">
+      <h2>Listen to the episode</h2>
+      <audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="{{ '/assets/ableplayer/' | relative_url }}"{% if page.transcript_vtt %} data-transcript-div="timed-transcript-content"{% endif %}>
+        <source type="{{ page.audio_type | default: 'audio/mpeg' }}" src="{{ tracked_audio_url | strip }}"/>
+        {% if page.transcript_vtt %}
+        <track kind="captions" src="{{ page.transcript_vtt }}" srclang="en" label="English transcript"/>
+        {% endif %}
+      </audio>
+    </div>
+    {% endif %}
       
     {{ content }}
   </div>

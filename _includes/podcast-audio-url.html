@@ -1,0 +1,37 @@
+{%- assign audio_source = "" -%}
+{%- assign spaces_base = site.spaces_base | default: "" -%}
+{%- unless spaces_base == "" or spaces_base contains "://" -%}
+  {%- assign spaces_base = "https://" | append: spaces_base -%}
+{%- endunless -%}
+{%- unless spaces_base == "" -%}
+  {%- assign last_character = spaces_base | slice: -1, 1 -%}
+  {%- unless last_character == "/" -%}
+    {%- assign spaces_base = spaces_base | append: "/" -%}
+  {%- endunless -%}
+{%- endunless -%}
+{%- if include.audio_file -%}
+  {%- assign audio_file = include.audio_file -%}
+  {%- assign first_character = audio_file | slice: 0, 1 -%}
+  {%- if first_character == "/" -%}
+    {%- assign audio_file = audio_file | remove_first: "/" -%}
+  {%- endif -%}
+  {%- assign audio_source = spaces_base | append: audio_file -%}
+{%- elsif include.audio_url -%}
+  {%- assign first_character = include.audio_url | slice: 0, 1 -%}
+  {%- if include.audio_url contains "://" or first_character == "/" -%}
+    {%- assign audio_source = include.audio_url -%}
+  {%- elsif spaces_base != "" -%}
+    {%- assign audio_source = spaces_base | append: include.audio_url -%}
+  {%- else -%}
+    {%- assign audio_source = include.audio_url -%}
+  {%- endif -%}
+{%- endif -%}
+{%- if include.tracked and audio_source != "" -%}
+  {%- assign op3_prefix = site.op3_prefix | default: "" -%}
+  {%- unless op3_prefix == "" or audio_source contains op3_prefix -%}
+    {%- assign audio_source = op3_prefix | append: audio_source -%}
+  {%- endunless -%}
+  {{- audio_source -}}
+{%- else -%}
+  {{- audio_source -}}
+{%- endif -%}

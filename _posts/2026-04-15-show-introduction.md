@@ -10,7 +10,7 @@ episode_type: full
 episode_number: 00
 
 # Audio Information
-audio_url: 00-show-intro-v1.mp3
+audio_file: 00-show-intro-v1.mp3
 audio_type: "audio/mpeg"
 file_size: # file size in bytes (required for podcast aggregators)
 transcript_vtt: /assets/transcripts/the-work-between-introduction.vtt
@@ -45,16 +45,6 @@ show-notes: /show-notes/show-00.html
 tags: 
 ---
 
-
-<div class="audio-container">
-
-<h2>Listen to the episode</h2>
-<audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="/podcast-dev/assets/ableplayer/" data-transcript-div="timed-transcript-content">
-  <source type="audio/mpeg" src="https://op3.dev/e/{{ page.audio_url }}"/>
-  <track kind="captions" src="{{ page.transcript_vtt }}" srclang="en" label="English transcript"/>
-</audio>
-
-</div>
 <details>
     <summary><h2>Timed Transcript</h2></summary>
     <div id="timed-transcript-content"></div>
@@ -72,5 +62,4 @@ tags:
 {% if page.show-notes %}
   {% include {{ page.show-notes }} %}
 {% endif %}
-
 
