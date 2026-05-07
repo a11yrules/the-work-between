@@ -66,7 +66,7 @@ layout: default
       <audio id="audio1" data-able-player preload="auto" data-heading-level="2" data-speed-icons="animals" data-root-path="{{ '/assets/ableplayer/' | relative_url }}"{% if page.transcript_vtt %} data-transcript-div="timed-transcript-content"{% endif %}>
         <source type="{{ page.audio_type | default: 'audio/mpeg' }}" src="{{ tracked_audio_url | strip }}"/>
         {% if page.transcript_vtt %}
-        <track kind="captions" src="{{ page.transcript_vtt }}" srclang="en" label="English transcript"/>
+        <track kind="captions" src="{{ page.transcript_vtt | relative_url }}" srclang="en" label="English transcript"/>
         {% endif %}
       </audio>
     </div>
