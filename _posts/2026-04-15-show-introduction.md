@@ -60,6 +60,7 @@ tags:
 
 
 {% if page.show-notes %}
+## Show notes
   {% include {{ page.show-notes }} %}
 {% endif %}
 
