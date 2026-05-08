@@ -41,7 +41,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  outline: 2px solid currentColor;
+  @include focus-ring(currentColor, 0);
   background-color: light-dark($primary);
   color: light-dark($white, $white);
   padding: 1vh 3.5vh;
