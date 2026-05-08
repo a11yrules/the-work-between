@@ -134,6 +134,14 @@ a {
   }
 }
 
+@include mobile {
+  section > .container,
+  section > h1.container,
+  section > .callout {
+    padding-inline: 2vh;
+  }
+}
+
 
 
 // outer container for header
