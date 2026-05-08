@@ -603,7 +603,7 @@ footer {
     }
 
     &:hover {
-      color: $white;
+      color: light-dark($white, $silver);
     }
 
     &:focus-visible {
@@ -906,15 +906,11 @@ details {
   @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
   &:hover {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($foreground);
+    @include cta-emphasis(light-dark($foreground));
   }
 
   &:focus-visible {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($foreground);
+    @include cta-emphasis(light-dark($foreground));
   }
 }
 
@@ -922,15 +918,11 @@ details {
   @include colors(light-dark($background), light-dark($foreground));
 
   &:hover {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($background);
+    @include cta-emphasis(light-dark($background));
   }
 
   &:focus-visible {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($background);
+    @include cta-emphasis(light-dark($background));
   }
 }
 

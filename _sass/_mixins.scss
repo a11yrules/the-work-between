@@ -30,3 +30,9 @@
   outline: 2px solid $color;
   outline-offset: $offset;
 }
+
+@mixin cta-emphasis($shadow-color) {
+  @include colors(light-dark($primary), light-dark($contrast2));
+  outline-color: light-dark($primary);
+  box-shadow: 0 0 20px $shadow-color;
+}
