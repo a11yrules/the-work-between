@@ -36,9 +36,9 @@ layout: null
 
     <itunes:owner>
       <itunes:name>{{ site.author | xml_escape }}</itunes:name>
-      {% if site.footer-links.email %}
+    
       <itunes:email>info@nicolas-steenhout.com</itunes:email>
-      {% endif %}
+
     </itunes:owner>
 
     {% assign podcast_episodes = site.posts | where: "type", "podcast" | sort: "date" | reverse %}
