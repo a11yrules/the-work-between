@@ -100,6 +100,20 @@ a {
   }
 }
 
+a:focus-visible {
+  @include focus-ring(light-dark($contrast3));
+}
+
+.wrapper-masthead a:focus-visible,
+.wrapper-footer a:focus-visible,
+.section-dark a:focus-visible,
+.section-text a:focus-visible,
+.light-on-primary a:focus-visible,
+.light-on-dark a:focus-visible,
+.grid-item a:focus-visible {
+  @include focus-ring(light-dark($white, $silver));
+}
+
 .container {
   margin: 0 auto;
   padding: 6vh 3vh;
@@ -515,8 +529,8 @@ a {
     padding: .8rem 1rem;
     font-size: var(--font-size);
 
-    &:focus {
-      outline: 5px solid light-dark($contrast3);
+    &:focus-visible {
+      @include focus-ring(light-dark($contrast3));
     }
   }
 
@@ -527,10 +541,13 @@ a {
     @include colors(light-dark($primary), light-dark($contrast2));
     font-size: var(--font-size);
 
-    &:focus,
     &:hover {
       @include colors(light-dark($secondary), light-dark($contrast2));
-      outline: 5px solid light-dark($contrast3);
+    }
+
+    &:focus-visible {
+      @include colors(light-dark($secondary), light-dark($contrast2));
+      @include focus-ring(light-dark($contrast3), 0);
     }
   }
 
@@ -584,6 +601,14 @@ footer {
     &:active {
       color: inherit;
     }
+
+    &:hover {
+      color: light-dark($white, $silver);
+    }
+
+    &:focus-visible {
+      @include focus-ring(light-dark($white, $silver));
+    }
   }
 
   .svg-icon {
@@ -594,9 +619,12 @@ footer {
     border: 5px solid light-dark($silver, $silver);
     border-radius: 50%;
 
-    &:focus,
     &:hover {
-      outline: 5px solid light-dark($white, darken($white, 15%));
+      border: 5px solid light-dark($white, darken($white, 15%));
+    }
+
+    &:focus-visible {
+      @include focus-ring(light-dark($white, darken($white, 15%)));
     }
   }
 }
@@ -685,8 +713,8 @@ details {
     }
 
     label:hover,
-    [type=radio]:focus {
-      outline: 2px solid currentColor;
+    [type=radio]:focus-visible {
+      @include focus-ring(currentColor, 0);
     }
 
     label + [type=radio][checked] {
@@ -703,11 +731,15 @@ details {
   padding: .8rem 1rem;
   text-decoration: none;
 
-  &:focus,
   &:hover {
     background-color: light-dark($tertiary);
-    outline: 2px solid currentColor;
-    transition: all .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
+  }
+
+  &:focus-visible {
+    background-color: light-dark($tertiary);
+    @include focus-ring(currentColor);
+    transition: background-color .3s ease-in-out;
   }
 }
 
@@ -860,9 +892,12 @@ details {
   text-decoration: none;
   text-transform: uppercase;
 
-  &:focus,
   &:hover {
-    outline: 3px solid;
+    border-color: light-dark($background, $background);
+  }
+
+  &:focus-visible {
+    @include focus-ring(currentColor);
     border-color: light-dark($background, $background);
   }
 }
@@ -870,22 +905,24 @@ details {
 .cta-light {
   @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
-  &:focus,
   &:hover {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($foreground);
+    @include cta-emphasis(light-dark($foreground));
+  }
+
+  &:focus-visible {
+    @include cta-emphasis(light-dark($foreground));
   }
 }
 
 .cta-dark {
   @include colors(light-dark($background), light-dark($foreground));
 
-  &:focus,
   &:hover {
-    @include colors(light-dark($primary), light-dark($contrast2));
-    outline-color: light-dark($primary);
-    box-shadow: 0 0 20px light-dark($background);
+    @include cta-emphasis(light-dark($background));
+  }
+
+  &:focus-visible {
+    @include cta-emphasis(light-dark($background));
   }
 }
 
@@ -941,9 +978,12 @@ details {
             a {
               color: light-dark($white, $silver);
 
-              &:hover,
-              &:focus {
-                outline: 3px solid light-dark($white, $silver);
+              &:hover {
+                text-decoration: underline;
+              }
+
+              &:focus-visible {
+                @include focus-ring(light-dark($white, $silver));
                 text-decoration: underline;
               }
             }
