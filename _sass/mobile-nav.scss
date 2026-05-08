@@ -25,7 +25,10 @@
     padding: .3em .5em;
     text-decoration: none;
     
-    &:hover,
+    &:hover {
+      text-decoration: underline;
+    }
+
     &:focus-visible {
       @include focus-ring(currentColor);
     }
@@ -46,8 +49,11 @@
   color: light-dark($white, $white);
   padding: 1vh 3.5vh;
 
-  &:focus-visible,
   &:hover {
+    background-color: light-dark($blue-navy, $blue-navy);
+  }
+
+  &:focus-visible {
     background-color: light-dark($blue-navy, $blue-navy);
     @include focus-ring(currentColor);
   }
@@ -123,8 +129,11 @@
         transition: color 0.2s ease-in-out,
         color 0.2s ease-in-out;
 
-        &:focus-visible,
         &:hover {
+          text-decoration: none;
+        }
+
+        &:focus-visible {
           @include focus-ring(currentColor);
           text-decoration: none;
         }

@@ -541,8 +541,11 @@ a:focus-visible {
     @include colors(light-dark($primary), light-dark($contrast2));
     font-size: var(--font-size);
 
-    &:focus-visible,
     &:hover {
+      @include colors(light-dark($secondary), light-dark($contrast2));
+    }
+
+    &:focus-visible {
       @include colors(light-dark($secondary), light-dark($contrast2));
       @include focus-ring(light-dark($contrast3));
     }
@@ -599,7 +602,10 @@ footer {
       color: inherit;
     }
 
-    &:hover,
+    &:hover {
+      color: light-dark($white, $white);
+    }
+
     &:focus-visible {
       @include focus-ring(light-dark($white, $silver));
     }
@@ -613,8 +619,11 @@ footer {
     border: 5px solid light-dark($silver, $silver);
     border-radius: 50%;
 
-    &:focus-visible,
     &:hover {
+      border-color: light-dark($white, darken($white, 15%));
+    }
+
+    &:focus-visible {
       @include focus-ring(light-dark($white, darken($white, 15%)));
     }
   }
@@ -722,8 +731,12 @@ details {
   padding: .8rem 1rem;
   text-decoration: none;
 
-  &:focus-visible,
   &:hover {
+    background-color: light-dark($tertiary);
+    transition: all .3s ease-in-out;
+  }
+
+  &:focus-visible {
     background-color: light-dark($tertiary);
     @include focus-ring(currentColor);
     transition: all .3s ease-in-out;
@@ -879,8 +892,11 @@ details {
   text-decoration: none;
   text-transform: uppercase;
 
-  &:focus-visible,
   &:hover {
+    border-color: light-dark($background, $background);
+  }
+
+  &:focus-visible {
     @include focus-ring(currentColor);
     border-color: light-dark($background, $background);
   }
@@ -960,7 +976,10 @@ details {
             a {
               color: light-dark($white, $silver);
 
-              &:hover,
+              &:hover {
+                text-decoration: underline;
+              }
+
               &:focus-visible {
                 @include focus-ring(light-dark($white, $silver));
                 text-decoration: underline;
