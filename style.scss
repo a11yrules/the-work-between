@@ -620,7 +620,7 @@ footer {
     border-radius: 50%;
 
     &:hover {
-      border-color: light-dark($white, darken($white, 15%));
+      border: 5px solid light-dark($white, darken($white, 15%));
     }
 
     &:focus-visible {
@@ -905,8 +905,13 @@ details {
 .cta-light {
   @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
-  &:focus-visible,
   &:hover {
+    @include colors(light-dark($primary), light-dark($contrast2));
+    outline-color: light-dark($primary);
+    box-shadow: 0 0 20px light-dark($foreground);
+  }
+
+  &:focus-visible {
     @include colors(light-dark($primary), light-dark($contrast2));
     outline-color: light-dark($primary);
     box-shadow: 0 0 20px light-dark($foreground);
@@ -916,8 +921,13 @@ details {
 .cta-dark {
   @include colors(light-dark($background), light-dark($foreground));
 
-  &:focus-visible,
   &:hover {
+    @include colors(light-dark($primary), light-dark($contrast2));
+    outline-color: light-dark($primary);
+    box-shadow: 0 0 20px light-dark($background);
+  }
+
+  &:focus-visible {
     @include colors(light-dark($primary), light-dark($contrast2));
     outline-color: light-dark($primary);
     box-shadow: 0 0 20px light-dark($background);
