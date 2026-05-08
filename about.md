@@ -61,3 +61,9 @@ You'll hear conversations that:
 You won't hear "How did you overcome your disability to create art?" You will hear "What's your process? What works? What doesn't? How do you think about your practice? Does your approach to art changes how you perceive yourself?"
 
 If that's what you're looking for, you're in the right place. Start with the latest episode, or pick one that catches your interest — and see what shows up in the work between.
+
+## Audio engineering
+
+The Work Between is mixed by audio engineer John Tubbs. John is a good and trusted friend. We've known each other for nearly a decade. John worked at the University of Illinois at Urbana-Champaign working in digital media and audio production. His work ranged from radio production to award-winning educational content. He is also a working musician which means he brings a musician's ear to every mix, not just a technician's.
+
+That combination of deep production experience and life as a performer is exactly what this show needs. John understands how sound shapes a story, and his work lets the conversations on The Work Between land the way they were meant to.
