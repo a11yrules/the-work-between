@@ -603,7 +603,7 @@ footer {
     }
 
     &:hover {
-      color: light-dark($white, $white);
+      color: $white;
     }
 
     &:focus-visible {
@@ -733,13 +733,13 @@ details {
 
   &:hover {
     background-color: light-dark($tertiary);
-    transition: all .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
   }
 
   &:focus-visible {
     background-color: light-dark($tertiary);
     @include focus-ring(currentColor);
-    transition: all .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
   }
 }
 
