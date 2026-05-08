@@ -547,7 +547,7 @@ a:focus-visible {
 
     &:focus-visible {
       @include colors(light-dark($secondary), light-dark($contrast2));
-      @include focus-ring(light-dark($contrast3));
+      @include focus-ring(light-dark($contrast3), 0);
     }
   }
 

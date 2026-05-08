@@ -44,7 +44,7 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  @include focus-ring(currentColor, 0);
+  border: 2px solid currentColor;
   background-color: light-dark($primary);
   color: light-dark($white, $white);
   padding: 1vh 3.5vh;
@@ -55,7 +55,7 @@
 
   &:focus-visible {
     background-color: light-dark($blue-navy, $blue-navy);
-    @include focus-ring(currentColor);
+    @include focus-ring(currentColor, 0);
   }
 }
 
