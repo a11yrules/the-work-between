@@ -100,6 +100,20 @@ a {
   }
 }
 
+a:focus-visible {
+  @include focus-ring(light-dark($contrast3));
+}
+
+.wrapper-masthead a:focus-visible,
+.wrapper-footer a:focus-visible,
+.section-dark a:focus-visible,
+.section-text a:focus-visible,
+.light-on-primary a:focus-visible,
+.light-on-dark a:focus-visible,
+.grid-item a:focus-visible {
+  @include focus-ring(light-dark($white, $silver));
+}
+
 .container {
   margin: 0 auto;
   padding: 6vh 3vh;
@@ -515,8 +529,8 @@ a {
     padding: .8rem 1rem;
     font-size: var(--font-size);
 
-    &:focus {
-      outline: 5px solid light-dark($contrast3);
+    &:focus-visible {
+      @include focus-ring(light-dark($contrast3));
     }
   }
 
@@ -527,10 +541,10 @@ a {
     @include colors(light-dark($primary), light-dark($contrast2));
     font-size: var(--font-size);
 
-    &:focus,
+    &:focus-visible,
     &:hover {
       @include colors(light-dark($secondary), light-dark($contrast2));
-      outline: 5px solid light-dark($contrast3);
+      @include focus-ring(light-dark($contrast3));
     }
   }
 
@@ -579,10 +593,18 @@ footer {
 
   a {
     color: light-dark($silver, $silver);
+    display: inline-block;
+    padding: .3em .5em;
+    text-decoration: none;
 
     &:visited,
     &:active {
       color: inherit;
+    }
+
+    &:hover,
+    &:focus-visible {
+      @include focus-ring(light-dark($white, $silver));
     }
   }
 
@@ -594,9 +616,9 @@ footer {
     border: 5px solid light-dark($silver, $silver);
     border-radius: 50%;
 
-    &:focus,
+    &:focus-visible,
     &:hover {
-      outline: 5px solid light-dark($white, darken($white, 15%));
+      @include focus-ring(light-dark($white, darken($white, 15%)));
     }
   }
 }
@@ -685,8 +707,8 @@ details {
     }
 
     label:hover,
-    [type=radio]:focus {
-      outline: 2px solid currentColor;
+    [type=radio]:focus-visible {
+      @include focus-ring(currentColor, 0);
     }
 
     label + [type=radio][checked] {
@@ -703,10 +725,10 @@ details {
   padding: .8rem 1rem;
   text-decoration: none;
 
-  &:focus,
+  &:focus-visible,
   &:hover {
     background-color: light-dark($tertiary);
-    outline: 2px solid currentColor;
+    @include focus-ring(currentColor);
     transition: all .3s ease-in-out;
   }
 }
@@ -860,9 +882,9 @@ details {
   text-decoration: none;
   text-transform: uppercase;
 
-  &:focus,
+  &:focus-visible,
   &:hover {
-    outline: 3px solid;
+    @include focus-ring(currentColor);
     border-color: light-dark($background, $background);
   }
 }
@@ -870,7 +892,7 @@ details {
 .cta-light {
   @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
-  &:focus,
+  &:focus-visible,
   &:hover {
     @include colors(light-dark($primary), light-dark($contrast2));
     outline-color: light-dark($primary);
@@ -881,7 +903,7 @@ details {
 .cta-dark {
   @include colors(light-dark($background), light-dark($foreground));
 
-  &:focus,
+  &:focus-visible,
   &:hover {
     @include colors(light-dark($primary), light-dark($contrast2));
     outline-color: light-dark($primary);
@@ -942,8 +964,8 @@ details {
               color: light-dark($white, $silver);
 
               &:hover,
-              &:focus {
-                outline: 3px solid light-dark($white, $silver);
+              &:focus-visible {
+                @include focus-ring(light-dark($white, $silver));
                 text-decoration: underline;
               }
             }

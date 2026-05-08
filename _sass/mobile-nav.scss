@@ -26,8 +26,8 @@
     text-decoration: none;
     
     &:hover,
-    &:focus {
-      outline: 3px solid currentColor;
+    &:focus-visible {
+      @include focus-ring(currentColor);
     }
   
     [aria-current=page] {
@@ -41,14 +41,15 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  outline: 3px solid currentColor;
+  outline: 2px solid currentColor;
   background-color: light-dark($primary);
   color: light-dark($white, $white);
   padding: 1vh 3.5vh;
 
-  &:focus,
+  &:focus-visible,
   &:hover {
     background-color: light-dark($blue-navy, $blue-navy);
+    @include focus-ring(currentColor);
   }
 }
 
@@ -122,9 +123,9 @@
         transition: color 0.2s ease-in-out,
         color 0.2s ease-in-out;
 
-        &:focus,
+        &:focus-visible,
         &:hover {
-          outline: 3px solid currentColor;
+          @include focus-ring(currentColor);
           text-decoration: none;
         }
       }
