@@ -21,7 +21,7 @@
   list-style-type: none;
 
   a {
-    color: light-dark($white, $white);
+    color: $text-light;
     padding: .3em .5em;
     text-decoration: none;
     
@@ -45,16 +45,17 @@
   justify-content: center;
   flex-direction: column;
   border: 2px solid currentColor;
-  background-color: light-dark($primary);
-  color: light-dark($white, $white);
+  border-radius: 8px;
+  background-color: $primary;
+  color: $text-light;
   padding: 1vh 3.5vh;
 
   &:hover {
-    background-color: light-dark($blue-navy, $blue-navy);
+    background-color: $contrast1;
   }
 
   &:focus-visible {
-    background-color: light-dark($blue-navy, $blue-navy);
+    background-color: $contrast1;
     @include focus-ring(currentColor, 0);
   }
 }
@@ -101,7 +102,7 @@
   }
 
   .navbar-links {
-    background-color: light-dark($primary);
+    background-color: $primary;
     margin-block-start: 1.8rem;
     padding: 1em;
     max-height: none;

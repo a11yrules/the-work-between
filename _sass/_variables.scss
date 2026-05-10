@@ -19,19 +19,31 @@ $blue-black: #222C33;
 $red-bright: #A60505;
 $red-dark: #8C1B2F;
 $black: #2B3033;
-$silver: #D9DFE6;
+$silver: #C8D2DE;
 $white: #f9f9f9;
+$lighter: #DDF0ED;
 
 // light, dark theme
-$primary: $green-logo, darken($green-logo, 10%);
+$primary: light-dark($green-logo, darken($green-logo, 10%));
 $secondary: $green-bright, darken($green-bright, 10%);
 $tertiary: $red-dark, darken($red-dark, 10%);
-$contrast1: $blue-navy, lighten($blue-navy, 10%);
-$contrast2: $white, $silver;
-$contrast3: $blue-dark, $silver;
+$contrast1: $blue-navy;
+$contrast2: light-dark($white, $silver);
+$contrast3: light-dark($blue-dark, $silver);
+$contrast4: light-dark($green-light, darken($green-light, 10%));
 
-$background: $silver, $black;
-$foreground: $black, $silver;
+$background: light-dark($silver, $blue-navy);
+$foreground: light-dark($black, $silver);
+
+$text-light: light-dark($white, $silver);
+$heading-light: $text-light;
+$text-dark: light-dark($black, $silver);
+$heading-dark: $text-light;
+
+$link: light-dark($blue-bright, lighten($blue-bright, 40%));
+$link-visible: $text-light;
+$link-nav: $text-light;
+$focus: $contrast3;
 
 
 //

@@ -21,8 +21,8 @@
 body {
   display: flex;
   flex-direction: column;
-  background-color: light-dark($background);
-  color: light-dark($foreground);
+  background-color: $background;
+  color: $foreground;
   font-family: $dm-sans;
   font-weight: 300;
   line-height: 1.6;
@@ -56,7 +56,7 @@ h3 {
 h4 {
   font-size: calc(clamp(1.125rem, 1vw + 1.5rem, 1.8rem));
   font-weight: 500;
-  color: light-dark($secondary);
+  color: $secondary;
   text-align: center;
 }
 
@@ -82,7 +82,7 @@ ol {
 }
 
 a {
-  color: light-dark($blue-bright, lighten($blue-bright, 40%));
+  color: $link;
   font-weight: 500;
 
   // &:visited,
@@ -95,13 +95,13 @@ a {
 
     @include mobile {
       border-block-end: none;
-      background-color: light-dark($contrast1);
+      background-color: $contrast1;
     }
   }
 }
 
 a:focus-visible {
-  @include focus-ring(light-dark($contrast3));
+  @include focus-ring($contrast3);
 }
 
 .wrapper-masthead a:focus-visible,
@@ -111,7 +111,7 @@ a:focus-visible {
 .light-on-primary a:focus-visible,
 .light-on-dark a:focus-visible,
 .grid-item a:focus-visible {
-  @include focus-ring(light-dark($white, $silver));
+  @include focus-ring($link-visible);
 }
 
 .container {
@@ -125,12 +125,12 @@ a:focus-visible {
 // silver background
 
 .section-light {
-  background-color: light-dark($background);
-  color: light-dark($foreground);
+  background-color: $background;
+  color: $foreground;
 
   h2,
   h3 {
-    color: light-dark($contrast3);
+    color: $contrast3;
     text-align: center;
   }
 }
@@ -138,12 +138,13 @@ a:focus-visible {
 // dark blue background
 
 .section-dark {
-  background-color: light-dark($contrast1);
-  color: light-dark($contrast2);
+  background-color: $contrast1;
+  color: $contrast2;
 
+  h1,
   h2,
   h3 {
-    color: light-dark($white, $silver);
+    color: $heading-light;
     text-align: center;
   }
 }
@@ -161,7 +162,7 @@ a:focus-visible {
 // outer container for header
 
 .wrapper-masthead {
-  background-color: light-dark($primary);
+  background-color: $primary;
 }
 
 /* inner container with header/nav */
@@ -173,7 +174,7 @@ a:focus-visible {
     display: grid;
     grid-template-columns: 120px 1fr;
     align-items: center;
-    color: light-dark($white, $white);
+    color: $text-light;
     text-decoration: none;
 
     img {
@@ -216,7 +217,7 @@ a:focus-visible {
 
   span {
     //color: light-dark($green-logo, lighten($green-logo, 30%));//
-    color: $green-light;
+    color: $contrast4;
     font-weight: 800;
     letter-spacing: .05em;
   }
@@ -240,7 +241,7 @@ a:focus-visible {
 
   p {
     max-width: 35ch;
-    color: light-dark($blue-dark, $silver);
+    color: $contrast3;
     font-family: $dm-serif-display;
     font-size: calc(clamp(1.3rem, 4vw + 1rem, 2.7rem));
     font-weight: 500;
@@ -253,7 +254,7 @@ a:focus-visible {
 
   .able-wrapper {
     .able-controller {
-      background-color: light-dark($contrast1);
+      background-color: $contrast1;
     }
 
     .able-status-bar {
@@ -282,8 +283,8 @@ a:focus-visible {
   flex-direction: column;
   justify-content: center;
   margin: 0 auto;
-  background-color: light-dark($contrast1);
-  color: light-dark($contrast2);
+  background-color: $contrast1;
+  color: $contrast2;
   padding-block: 4vh;
 
   p {
@@ -342,7 +343,7 @@ a:focus-visible {
       position: relative;
       padding-block-end: 2rem;
       padding-inline-end: 2rem;
-      color: light-dark($contrast3);
+      color: $contrast3;
       text-align: right;
     }
   }
@@ -357,8 +358,8 @@ a:focus-visible {
 
 .page-heading {
   display: flex;
-  background-color: light-dark($contrast1);
-  color: light-dark($contrast2);
+  background-color: $contrast1;
+  color: $contrast2;
   
   h1 {
     line-height: 1.25;
@@ -376,7 +377,7 @@ a:focus-visible {
 
   > .post {
     background-color: transparent;
-    outline: 6px solid light-dark($contrast3);
+    outline: 6px solid $contrast3;
 
     > img {
       width: 100%;
@@ -426,7 +427,7 @@ a:focus-visible {
     // grid-template-columns: minmax(10ch, 15%) 1fr;
     place-items: stretch;
     margin-block: 0 8vh;
-    outline: 5px solid light-dark($foreground);
+    outline: 5px solid $foreground;
     max-width: 90vw;
 
     h2,
@@ -435,8 +436,8 @@ a:focus-visible {
     }
 
     h2 {
-      background-color: light-dark($primary);
-      color: light-dark($contrast2);
+      background-color: $primary;
+      color: $contrast2;
       font-weight: 600;
       letter-spacing: .15rem;
       text-align: center;
@@ -457,7 +458,7 @@ a:focus-visible {
 
   .inline-quote {
     max-width: 85%;
-    border-block: 3px solid light-dark($contrast3);
+    border-block: 3px solid $contrast3;
     margin: 1.8em auto;
     padding: 1em 3vw;
     font-size: calc(clamp(1.125rem, 4vw + 1.3rem, 1.8rem));
@@ -476,7 +477,7 @@ a:focus-visible {
 
   h2 {
     padding-block: 5vh 2vh;
-    color: light-dark($contrast3);
+    color: $contrast3;
     font-weight: 500;
     text-align: center;
   }
@@ -524,13 +525,13 @@ a:focus-visible {
   input[type=text],
   input[type=email],
   textarea {
-    outline: 2px solid light-dark($contrast3);
+    outline: 2px solid $focus;
     border-radius: 5px;
     padding: .8rem 1rem;
     font-size: var(--font-size);
 
     &:focus-visible {
-      @include focus-ring(light-dark($contrast3));
+      @include focus-ring($focus);
     }
   }
 
@@ -538,16 +539,16 @@ a:focus-visible {
     width: 100%;
     margin-block-start: 1em;
     padding: 1em;
-    @include colors(light-dark($primary), light-dark($contrast2));
+    @include colors($primary, $contrast2);
     font-size: var(--font-size);
 
     &:hover {
-      @include colors(light-dark($secondary), light-dark($contrast2));
+      @include colors($secondary, $contrast2);
     }
 
     &:focus-visible {
-      @include colors(light-dark($secondary), light-dark($contrast2));
-      @include focus-ring(light-dark($contrast3), 0);
+      @include colors($secondary, $contrast2);
+      @include focus-ring($contrast3, 0);
     }
   }
 
@@ -567,11 +568,11 @@ a:focus-visible {
 // Global footer
 
 .wrapper-footer {
-  background-color: light-dark($primary);
+  background-color: $primary;
 }
 
 footer {
-  color: light-dark($silver, $silver);
+  color: $silver;
 
   ul {
     display: flex;
@@ -727,17 +728,17 @@ details {
 
 .skip-link {
   display: inline-block;
-  color: light-dark($white, $silver) !important;
+  color: $text-light !important;
   padding: .8rem 1rem;
   text-decoration: none;
 
   &:hover {
-    background-color: light-dark($tertiary);
+    background-color: $tertiary;
     transition: background-color .3s ease-in-out;
   }
 
   &:focus-visible {
-    background-color: light-dark($tertiary);
+    background-color: $tertiary;
     @include focus-ring(currentColor);
     transition: background-color .3s ease-in-out;
   }
@@ -807,11 +808,11 @@ details {
 /* Background, Foreground */
 
 .dark-on-light {
-  @include colors(light-dark($background), light-dark($foreground));
+  @include colors($background, $foreground);
 }
 
 .light-on-primary {
-  @include colors(light-dark($primary), light-dark($contrast2));
+  @include colors($primary, $contrast2);
   
   h1,
   h2,
@@ -822,14 +823,14 @@ details {
   }
 
   a {
-    color: light-dark($white, $silver);
+    color: $text-light;
     font-size: 1.2em;
     font-weight: 500;
   }
 }
 
 .light-on-dark {
-  @include colors(light-dark($contrast1), light-dark($contrast2));
+  @include colors($contrast1, $contrast2);
 
   h1,
   h2,
@@ -854,7 +855,7 @@ details {
 
 .box-with-shadow {
   padding: 1em 1.5em 1.5em;
-  box-shadow: 16px 16px light-dark($contrast3);
+  box-shadow: 16px 16px $contrast3;
 }
 
 .round-corners {
@@ -893,12 +894,12 @@ details {
   text-transform: uppercase;
 
   &:hover {
-    border-color: light-dark($background, $background);
+    border-color: $background;
   }
 
   &:focus-visible {
     @include focus-ring(currentColor);
-    border-color: light-dark($background, $background);
+    border-color: $background;
   }
 }
 
@@ -906,23 +907,23 @@ details {
   @include colors(light-dark(transparent), light-dark($green-logo, lighten($green-logo, 30%)));
 
   &:hover {
-    @include cta-emphasis(light-dark($foreground));
+    @include cta-emphasis($foreground);
   }
 
   &:focus-visible {
-    @include cta-emphasis(light-dark($foreground));
+    @include cta-emphasis($foreground);
   }
 }
 
 .cta-dark {
-  @include colors(light-dark($background), light-dark($foreground));
+  @include colors($background, $foreground);
 
   &:hover {
-    @include cta-emphasis(light-dark($background));
+    @include cta-emphasis($background);
   }
 
   &:focus-visible {
-    @include cta-emphasis(light-dark($background));
+    @include cta-emphasis($background);
   }
 }
 
@@ -964,8 +965,8 @@ details {
         }
 
         .grid-item {
-            background-color: light-dark($primary);
-            color: light-dark($foreground);
+            background-color: $primary;
+            color: $foreground;
             padding: 2rem;
             border-radius: 8px;
             min-height: 200px;
@@ -976,25 +977,25 @@ details {
             text-align: center;
 
             a {
-              color: light-dark($white, $silver);
+              color: $text-light;
 
               &:hover {
                 text-decoration: underline;
               }
 
               &:focus-visible {
-                @include focus-ring(light-dark($white, $silver));
+                @include focus-ring($text-light);
                 text-decoration: underline;
               }
             }
         }
         .about-latest {
-          color: light-dark($contrast2);
+          color: $contrast2;
           text-align: left;
 
         }
         .episode-meta-inline {
-          color: light-dark($white, $silver);
+          color: $text-light;
         }
         /* 
          * RESPONSIVE LAYOUTS FOR 2 ITEMS
