@@ -27,7 +27,7 @@ series: "The Work Between"
 cover_art: /img/covers/introduction-episode-cover-3000.jpg
 local_cover_art: /img/covers/introduction-episode-cover-800.jpg
 
-topics: ["", ""]
+topics: ["Introduction", "Guests", "Creative works"]
 
 guest: "Nic Steenhout"
 
