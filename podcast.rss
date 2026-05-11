@@ -82,7 +82,7 @@ layout: null
       {% endif %}
 
       {% if post.transcript_vtt %}
-      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}{{ post.transcript_vtt }}" type="text/vtt" language="{{ site.podcast_language | default: 'en' }}" rel="captions"/>
+      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}{{ post.transcript_vtt }}" type="text/vtt" language="{{ post.transcript_language | default: site.podcast_language | default: 'en' }}" rel="captions"/>
       {% endif %}
 
       {% if post.author %}
