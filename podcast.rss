@@ -5,7 +5,8 @@ layout: null
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
   xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0">
 
   <channel>
     <title>{{ site.title | xml_escape }}</title>
@@ -78,6 +79,10 @@ layout: null
 
       {% if post.cover_art %}
       <itunes:image href="{{ site.url }}{{ site.baseurl }}{{ post.cover_art }}"/>
+      {% endif %}
+
+      {% if post.transcript_vtt %}
+      <podcast:transcript url="{{ site.url }}{{ site.baseurl }}{{ post.transcript_vtt }}" type="text/vtt" language="{{ post.transcript_language | default: site.podcast_language | default: 'en' }}" rel="captions"/>
       {% endif %}
 
       {% if post.author %}
