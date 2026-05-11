@@ -12,7 +12,8 @@ layout: null
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <atom:link href="{{ site.url }}{{ site.baseurl }}/podcast.rss" rel="self" type="application/rss+xml"/>
-    <description>{{ site.description | xml_escape }}</description>
+    {% capture podcast_channel_description %}{{ site.description }} The Work Between is a podcast about the relationship between creative practice and identity. Host Nic Steenhout talks with disabled creators, artists, and makers. Guests include painters, quilters, musicians, sculptors, and photographers. Conversations explore how artistic work and disability shape each other. These aren't inspiration stories. They're conversations about the actual, sometimes complicated ways people make things.{% endcapture %}
+    <description>{{ podcast_channel_description | strip | xml_escape }}</description>
     <language>{{ site.podcast_language | default: "en" }}</language>
     <copyright>&#169;{{ site.time | date: "%Y" }} {{ site.author | xml_escape }}</copyright>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
