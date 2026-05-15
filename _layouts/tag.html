@@ -16,8 +16,8 @@ layout: default
 {% comment %}TODO: change site.posts to site.episodes after collection migration{% endcomment %}
 {% assign tagged_posts = site.posts | where_exp: "ep", "ep.tags contains page.tag" %}
 
-{% assign guest_count = tagged_guests | size %}
-{% assign post_count = tagged_posts | size %}
+{% assign guest_count = tagged_guests | size | plus: 0 %}
+{% assign post_count = tagged_posts | size | plus: 0 %}
 
 <p>Guests found: {{ tagged_guests.size }}</p>
 <p>Posts found: {{ tagged_posts.size }}</p>
@@ -43,22 +43,20 @@ layout: default
     </thead>
     <tbody>
       {% for i in (1..row_count) %}
-        {% assign idx = forloop.index0 %}
-        {% assign guest = tagged_guests | slice: idx %}
-        {% assign post = tagged_posts | slice: idx %}
-        <tr>
-          <td>
-            {% if guest %}
-              <a href="{{ guest.url }}">{{ guest.title }}</a>
-            {% endif %}
-          </td>
-          <td>
-            {% if post %}
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            {% endif %}
-          </td>
-        </tr>
+  {% assign idx = forloop.index0 %}
+  <tr>
+    <td>
+      {% for g in tagged_guests limit: 1 offset: idx %}
+        <a href="{{ g.url }}">{{ g.title }}</a>
       {% endfor %}
+    </td>
+    <td>
+      {% for p in tagged_posts limit: 1 offset: idx %}
+        <a href="{{ p.url }}">{{ p.title }}</a>
+      {% endfor %}
+    </td>
+  </tr>
+{% endfor %}
     </tbody>
   </table>
 {% else %}
