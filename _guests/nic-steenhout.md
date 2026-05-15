@@ -87,7 +87,7 @@ links:
 ## Featured conversation
 
   {% for post in episodes %}
-  <img src="{{ post.local_cover_art}}" alt="" />
+  <img src="{{ post.local_cover_art}}" alt="" class="featured-conversation-image" />
 
 {{ post.summary }}
 
