@@ -33,10 +33,10 @@ links:
 ## About {{ page.first_name }}
 
 {% if page.image %}
-      <span class="guest-list">
-      <img src="{{ page.image | relative_url }}" alt="" class="guest-img">
-      </span>
-      {% endif %}
+<span class="guest-list">
+<img src="{{ page.image | relative_url }}" alt="" class="guest-img">
+</span>
+{% endif %}
 
 {% if page.long_bio %}
   {{ page.long_bio }}
