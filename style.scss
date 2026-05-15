@@ -1260,9 +1260,11 @@ nav[aria-label="Jump to letter"] li:after{
   max-width: 52rem;              /* adjust to match your content column width */
   margin-inline: auto;           /* centres the table */
   border-collapse: collapse;
-  font-size: inherit;            /* follows body text size */
+  
   font-family: inherit;          /* follows body typeface */
-  line-height: inherit;
+  font-size: calc(.5vw + 1.1rem);
+  line-height: 1.5;
+}
 }
 
 /* Column widths — Guest narrower, Episode takes the rest */
