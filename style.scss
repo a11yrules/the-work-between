@@ -1053,6 +1053,43 @@ nav[aria-label="Jump to letter"] li:after{
   max-width: 100%;
 }
 
+.guest-page {
+  .page-heading {
+    flex-direction: column;
+    align-items: center;
+
+    p {
+      text-align: center;
+    }
+  }
+
+  .guest-list {
+    width: min(300px, 100%);
+  }
+
+  .guest-list img {
+    width: min(250px, 100%);
+  }
+
+  .entry blockquote {
+    border-inline-start: 6px solid $contrast3;
+    border-radius: 0.25rem;
+    background-color: light-dark($white, lighten($black, 12%));
+    padding: 1rem 1.25rem;
+    font-size: 1.3em;
+    font-style: italic;
+    font-weight: 400;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .featured-conversation-image {
+    max-width: 50%;
+  }
+}
+
 /* inline episode info list styling */
 
 .episode-list-item {
