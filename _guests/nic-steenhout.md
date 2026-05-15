@@ -14,10 +14,10 @@ quote_1: "The craft isn't background. It's half the conversation."
 quote_2: "The most useful thing you can do is listen to someone's actual experience rather than your assumptions about it."
 quote_3: "I'm not interested in turning people's lives into neat narratives, or using difficulty as a way to make the work more palatable."
 tags:
-- "Quilting"
-- "Photography"
-- "Sketching"
-- "Digital accessibility"
+- quilting
+- photography
+- sketching
+- digital-accessibility
 
 links:
   - label: "Business website"
