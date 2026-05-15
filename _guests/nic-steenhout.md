@@ -4,15 +4,15 @@ title: "Nic Steenhout"
 first_name: Nic
 last_name: Steenhout
 image: /img/guest/nic-steenhout.jpg
-image_alt: "A middle aged white man with short brown hair. He wears glasses with a thing oval black rim."
+image_alt: "A middle aged white man with short brown hair. He wears glasses with a thing oval black rim. He is wearing a black t-shirt with a tan sports coat."
 tagline: "Quilter, bird photographer, digital accessibility consultant"
 discipline: "Quilting, photography, sketching"
 short_bio: "Nic Steenhout is the host and creator of The Work Between. A quilter, bird photographer, and sketcher, he also brings 25+ years of digital accessibility expertise to his work as a speaker, trainer, and consultant. He lives in British Columbia."
 long_bio: "Nic Steenhout is the host and creator of The Work Between. A quilter, bird photographer, and sketcher, he brings his own creative practice to every conversation on the show. He has spent more than 25 years working in digital accessibility as a speaker, trainer, and consultant. He has worked with disabled people, non-profits, government organizations, and corporations across three continents. He also hosts A11y Rules, a podcast dedicated to web accessibility. Nic lives and works in British Columbia."
 intro_copy: 
-quote_1: 
-quote_2:
-quote_3:
+quote_1: "The craft isn't background. It's half the conversation."
+quote_2: "The most useful thing you can do is listen to someone's actual experience rather than your assumptions about it."
+quote_3: "I'm not interested in turning people's lives into neat narratives, or using difficulty as a way to make the work more palatable."
 tags:
 - "Quilting"
 - "Photography"
@@ -34,7 +34,7 @@ links:
 
 {% if page.image %}
 <span class="guest-list">
-<img src="{{ page.image | relative_url }}" alt="" class="guest-img">
+<img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}" class="guest-img">
 </span>
 {% endif %}
 
