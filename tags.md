@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Tags
+title: Themes and tags
 permalink: /tags/
 ---
 
-Here are all the tags used on this site:
+Here are all the themes (or tags) used on this site:
 
-{% assign tags = site.tags | sort %}
+{% assign tag_pages = site.pages | where_exp: "item", "item.url contains '/tags/'" | sort: "title" %}
 <ul>
-{% for tag in tags %}
- <li>
-    <a href="/tag/{{ tag | first }}/">
-            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
-    </a>
-</li>
-{% endfor %}
+{% for tag in tag_pages %}
+  {% unless tag.url == '/tags/' %}
+    <li><a href="{{ tag.url }}">{{ tag.title }}</a></li>
+  {% endunless %}
 </ul>
+{% endfor %}
