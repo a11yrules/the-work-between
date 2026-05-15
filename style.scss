@@ -1286,10 +1286,7 @@ nav[aria-label="Jump to letter"] li:after{
   border-color: rgba(0, 0, 0, 0.12);      /* swap for var(--color-border) */
 }
 
-/* Alternating row tint */
-.tag-table tbody tr:nth-child(even) td {
-  background-color: rgba(0, 0, 0, 0.03);  /* swap for var(--color-row-alt) */
-}
+
 
 /* Row hover */
 .tag-table tbody tr:hover td {
