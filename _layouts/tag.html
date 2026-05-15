@@ -19,13 +19,6 @@ layout: default
 {% assign guest_count = tagged_guests | size | plus: 0 %}
 {% assign post_count = tagged_posts | size | plus: 0 %}
 
-<p>Guests found: {{ tagged_guests.size }}</p>
-<p>Posts found: {{ tagged_posts.size }}</p>
-<p>Row count: {{ row_count }}</p>
-<p>guest_count: {{ guest_count }}</p>
-<p>post_count: {{ post_count }}</p>
-<p>row_count: {{ row_count }}</p>
-
 {% if guest_count >= post_count %}
   {% assign row_count = guest_count %}
 {% else %}
