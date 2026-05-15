@@ -3,8 +3,10 @@ layout: default
 ---
 
 {% assign tag_data = site.data.tags | where: "slug", page.tag | first %}
-
-<h1>{{ tag_data.label }}</h1>
+<article class="post">
+  <div class="page-heading">
+    <h1 class="container">{{ tag_data.label }}</h1>
+</div>
 
 {% if tag_data.description %}
   <p>{{ tag_data.description }}</p>
@@ -62,3 +64,4 @@ layout: default
 {% else %}
   <p>No content tagged with this topic yet.</p>
 {% endif %}
+</article>
