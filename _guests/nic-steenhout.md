@@ -67,8 +67,9 @@ links:
 ## Key themes
 
 <ul>
-  {% for tag in page.tags %}
-    <li>{{ tag }}</li>
+{% for tag in page.tags %}
+    {% assign tag_data = site.data.tags | where: "slug", tag | first %}
+    <li><a href="/tags/{{ tag }}/">{{ tag_data.label }}</a></li>
   {% endfor %}
 </ul>
 
