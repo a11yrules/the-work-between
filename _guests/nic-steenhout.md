@@ -32,6 +32,7 @@ links:
 
 ## About {{ page.first_name }}
 
+<div class="guest-about-section">
 {% if page.image %}
 <span class="guest-list">
 <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt }}" class="guest-img">
@@ -39,12 +40,14 @@ links:
 {% endif %}
 
 {% if page.long_bio %}
-  {{ page.long_bio }}
+<div class="guest-bio-text">{{ page.long_bio }}</div>
 {% endif %}
+</div>
 
 
 {% if page.quote_1 or page.quote_2 or page.quote_3 %}
 ## Quotes
+{: .centered-heading }
 
   {% if page.quote_1 %}
 > {{ page.quote_1 }}

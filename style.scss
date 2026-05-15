@@ -1058,23 +1058,46 @@ nav[aria-label="Jump to letter"] li:after{
     flex-direction: column;
     align-items: center;
 
+    h1 {
+      margin-block-end: 0.25rem;
+    }
+
     p {
       text-align: center;
     }
   }
 
+  .guest-about-section {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-block: 1rem;
+  }
+
+  .guest-bio-text {
+    flex: 1;
+  }
+
   .guest-list {
-    width: min(300px, 100%);
+    float: none;
+    width: auto;
+    padding: 0;
+    flex-shrink: 0;
   }
 
   .guest-list img {
-    width: min(250px, 100%);
+    width: min(200px, 100%);
+    border-radius: 50%;
+  }
+
+  .centered-heading {
+    text-align: center;
   }
 
   .entry blockquote {
     border-inline-start: 6px solid $contrast3;
     border-radius: 0.25rem;
-    background-color: light-dark($white, lighten($black, 12%));
+    background-color: #e6f0fb;
     padding: 1rem 1.25rem;
     font-size: 1.3em;
     font-style: italic;
