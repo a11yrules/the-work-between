@@ -1064,6 +1064,7 @@ nav[aria-label="Jump to letter"] li:after{
 
     p {
       text-align: center;
+      margin-block-start: 0;
     }
   }
 
@@ -1076,6 +1077,7 @@ nav[aria-label="Jump to letter"] li:after{
 
   .guest-bio-text {
     flex: 1;
+    font-size: calc(.5vw + 1.1rem);
   }
 
   .guest-list {
@@ -1109,7 +1111,7 @@ nav[aria-label="Jump to letter"] li:after{
   }
 
   .featured-conversation-image {
-    max-width: 50%;
+    max-width: 25%;
   }
 }
 
