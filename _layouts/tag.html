@@ -23,8 +23,8 @@ layout: default
 <p>post_count: {{ post_count }}</p>
 <p>row_count: {{ row_count }}</p>
 
-{% assign guest_count = tagged_guests.size %}
-{% assign post_count = tagged_posts.size %}
+{% assign guest_count = tagged_guests | size %}
+{% assign post_count = tagged_posts | size %}
 
 {% if guest_count >= post_count %}
   {% assign row_count = guest_count %}
