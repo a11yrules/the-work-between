@@ -26,7 +26,8 @@ layout: default
 {% endif %}
 
 {% if row_count > 0 %}
-  <table>
+<div class=""tag-table-wrapper>
+  <table class="tag-table">
     <caption>Content tagged with {{ tag_data.label }}</caption>
     <thead>
       <tr>
@@ -38,12 +39,12 @@ layout: default
       {% for i in (1..row_count) %}
   {% assign idx = forloop.index0 %}
   <tr>
-    <td>
+    <td data-label="Guest">
       {% for g in tagged_guests limit: 1 offset: idx %}
         <a href="{{ g.url }}">{{ g.title }}</a>
       {% endfor %}
     </td>
-    <td>
+    <td data-label="Episode">
       {% for p in tagged_posts limit: 1 offset: idx %}
         <a href="{{ p.url }}">{{ p.title }}</a>
       {% endfor %}
@@ -52,6 +53,7 @@ layout: default
 {% endfor %}
     </tbody>
   </table>
+  </div> 
 {% else %}
   <p>No content tagged with this topic yet.</p>
 {% endif %}
