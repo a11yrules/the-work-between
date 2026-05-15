@@ -46,7 +46,7 @@ op3_prefix: "https://op3.dev/e/"
 spaces_base: "https://workbetween.ams3.digitaloceanspaces.com/"
 
 # Guest collection
-Collections:
+collections:
   guests:
     output: true
     permalink: /guests/:slug/
