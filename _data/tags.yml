@@ -1,14 +1,19 @@
 - slug: photography
   label: Photography
+  description: "Guests and episodes exploring photography as a craft, practice, or creative backbone."
 
 - slug: digital-accessibility
   label: Digital accessibility
+  description: "The work behind making digital spaces usable for everyone. Guests and episodes exploring accessibility as craft, responsibility, and an often invisible layer of creative and technical practice."
 
 - slug: bird-photography
   label: Bird Photography
+  description: "Guests and episodes about the patience, practice, and fieldcraft behind photographing birds. The early mornings, the gear, the knowing-where-to-look, and the discipline that turns waiting into seeing."
 
 - slug: quilting
   label: Quilting
+  description: "The work behind quilting — design, process, community, and the invisible labour it involves."
 
 - slug: sketching
   label: Sketching
+  description: "Guests and episodes about sketching as a (mostly) daily practice: the sketchbook habit, urban and plein air work, and the quiet discipline that keeps observation sharp."
