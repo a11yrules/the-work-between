@@ -2,16 +2,55 @@
 layout: default
 ---
 
-<div class="page-heading">
-  <h1 class="container">{{ page.tag }}</h1>
-</div>
-<div class="container">
-<p>{{ page.intro }}</p>
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li>
-   <a href="{{ post.url }}">{{ post.title }}</a> -  {{ post.date | date: "%B %d, %Y" }}
-  </li>
-{% endfor %}
-</ul>
-</div>
+{% assign tag_data = site.data.tags | where: "slug", page.tag | first %}
+
+<h1>{{ tag_data.label }}</h1>
+
+{% if tag_data.description %}
+  <p>{{ tag_data.description }}</p>
+{% endif %}
+
+{% assign tagged_guests = site.guests | where_exp: "g", "g.tags contains page.tag" %}
+{% assign tagged_episodes = site.episodes | where_exp: "ep", "ep.tags contains page.tag" %}
+
+{% assign guest_count = tagged_guests.size %}
+{% assign episode_count = tagged_episodes.size %}
+
+{% if guest_count >= episode_count %}
+  {% assign row_count = guest_count %}
+{% else %}
+  {% assign row_count = episode_count %}
+{% endif %}
+
+{% if row_count > 0 %}
+  <table>
+    <caption>Content tagged with {{ tag_data.label }}</caption>
+    <thead>
+      <tr>
+        <th scope="col">Guest</th>
+        <th scope="col">Episode</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for i in (1..row_count) %}
+        {% assign idx = forloop.index0 %}
+        {% assign guest = tagged_guests | slice: idx %}
+        {% assign episode = tagged_episodes | slice: idx %}
+        <tr>
+          <td>
+            {% if guest %}
+              <a href="{{ guest.url }}">{{ guest.name }}</a>
+            {% endif %}
+          </td>
+          <td>
+            {% if episode %}
+              <a href="{{ episode.url }}">{{ episode.title }}</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% else %}
+  <p>No content tagged with this topic yet.</p>
+{% endif %}
