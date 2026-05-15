@@ -12,5 +12,6 @@ Here are all the themes (or tags) used on this site:
 {% unless tag.url == '/tags/' %}
 <li><a href="{{ tag.url }}">{{ tag.title }}</a></li>
 {% endunless %}
-</ul>
+
 {% endfor %}
+</ul>
