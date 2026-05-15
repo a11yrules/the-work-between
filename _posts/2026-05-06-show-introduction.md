@@ -42,8 +42,11 @@ explicit: false
 
 show-notes: /show-notes/show-00.md
 # Categories/Tags
-
-tags: 
+tags:
+- quilting
+- photography
+- sketching
+- digital-accessibility
 ---
 
 <details>
