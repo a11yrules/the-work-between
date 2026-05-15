@@ -16,15 +16,15 @@ layout: default
 {% comment %}TODO: change site.posts to site.episodes after collection migration{% endcomment %}
 {% assign tagged_posts = site.posts | where_exp: "ep", "ep.tags contains page.tag" %}
 
+{% assign guest_count = tagged_guests | size %}
+{% assign post_count = tagged_posts | size %}
+
 <p>Guests found: {{ tagged_guests.size }}</p>
 <p>Posts found: {{ tagged_posts.size }}</p>
 <p>Row count: {{ row_count }}</p>
 <p>guest_count: {{ guest_count }}</p>
 <p>post_count: {{ post_count }}</p>
 <p>row_count: {{ row_count }}</p>
-
-{% assign guest_count = tagged_guests | size %}
-{% assign post_count = tagged_posts | size %}
 
 {% if guest_count >= post_count %}
   {% assign row_count = guest_count %}
