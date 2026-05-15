@@ -1,6 +1,7 @@
 ---
 layout: podcast
 title: "Introduction to The Work Between"
+published: true
 type: podcast
 summary: "The Work Between is an interview podcast with disabled artists and creators. We will be discussing their creative processes and explore the intersection of creativity and disability, and asking how that intersection shapes identity."
 
