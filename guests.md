@@ -10,7 +10,7 @@ permalink: /guests/
   {% assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split: "," %}
   {% for letter in letters %}
     {% assign has_guests = false %}
-    {% for guest in site.data.guests %}
+    {% for guest in site.guests %}
       {% assign first_letter = guest.last_name | slice: 0 | downcase %}
       {% if first_letter == letter %}
         {% assign has_guests = true %}
@@ -25,7 +25,7 @@ permalink: /guests/
 </nav>
 
 {% comment %} Group and display guests by last name initial {% endcomment %}
-{% assign sorted_guests = site.data.guests | sort: "last_name" %}
+{% assign sorted_guests = site.guests | sort: "last_name" %}
 {% assign letters = "a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z" | split: "," %}
 
 {% for letter in letters %}
@@ -44,15 +44,8 @@ permalink: /guests/
     {% for guest in letter_guests %}
     <article>
       <h3>{{ guest.last_name }}, {{ guest.first_name }}</h3>
-      {% if guest.image %}
-      <span class="guest-list">
-      <img src="{{ guest.image | relative_url }}" alt="" class="guest-img">
-      </span>
-      {% endif %}
-      <p>{{ guest.bio }}</p>
-      {% if guest.url %}
-      <p><a href="{{ guest.url }}">View all episodes with {{ guest.first_name }} {{ guest.last_name }}</a></p>
-      {% endif %}
+      <p>{{ guest.tagline }}</p>
+      <p><a href="{{ guest.url }}">Meet {{ guest.first_name }} {{ guest.last_name }}</a></p>
     </article>
     {% endfor %}
   </section>
