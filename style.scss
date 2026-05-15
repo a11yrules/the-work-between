@@ -116,11 +116,18 @@ a:focus-visible {
 
 .container {
   margin: 0 auto;
-  padding: 2vh 3vh;
+  padding: 6vh 3vh;
   max-width: 80rem;
   width: 100%;
 }
 
+
+.page-heading .container {
+  margin: 0 auto;
+  padding: 2vh 3vh;
+  max-width: 80rem;
+  width: 100%;
+}
 
 // silver background
 
