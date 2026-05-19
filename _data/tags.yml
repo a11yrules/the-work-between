@@ -13,3 +13,23 @@
 - slug: sketching
   label: Sketching
   description: "Guests and episodes about sketching as a (mostly) daily practice: the sketchbook habit, urban and plein air work, and the quiet discipline that keeps observation sharp."
+
+- slug: watercolor
+  label: Watercolor
+  description: "Guests and episodes exploring watercolor as a medium, process, and creative practice."
+
+- slug: games
+  label: Games
+  description: "Guests and episodes about game development, design, and the creative work behind interactive experiences."
+
+- slug: adhd
+  label: ADHD
+  description: "Guests and episodes discussing ADHD, neurodivergence, and how these experiences shape creative work."
+
+- slug: animation
+  label: Animation
+  description: "Guests and episodes about animation workflows, visual storytelling, and frame-by-frame craft."
+
+- slug: spinal-injury
+  label: Spinal injury
+  description: "Guests and episodes discussing spinal injury, disability, and how lived experience intersects with creative practice."
