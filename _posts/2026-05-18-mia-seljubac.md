@@ -11,7 +11,7 @@ episode_type: full
 episode_number: 01
 
 # Audio Information
-audio_file: 01-mia-seljubac-watercolog-game-dev.mp3
+audio_file: 01-mia-seljubac-watercolor-game-dev.mp3
 audio_type: "audio/mpeg"
 file_size: 133289882 # file size in bytes (required for podcast aggregators)
 transcript_vtt: /assets/transcripts/show-01.vtt
