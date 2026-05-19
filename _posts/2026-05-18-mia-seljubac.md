@@ -27,7 +27,7 @@ series: "The Work Between"
 # Episode Artwork
 cover_art: /img/covers/show-01-mia-seljubac-3000.jpg
 local_cover_art: /img/covers/show-01-mia-seljubac-800.jpg
-episode_image_linkedin: /img/covers/show-01-mia-seljubac-linkedin-cover.jpg
+episode_image_linkedin: /img/covers/show-01-mia-seljubac-linkedin.jpg
 
 topics: ["Watercolor", "Animation", "Game development"]
 
