@@ -25,7 +25,7 @@ links:
   - label: "Nic's Art Journey"
     url: "https://artjourney.nicolas-steenhout.com"
   - label: "LinkedIn"
-    url: "https://www.linkedin.com/in/nicolassteenhoute"
+    url: "https://www.linkedin.com/in/nicolassteenhout"
 
 
 ---

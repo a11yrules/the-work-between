@@ -1,0 +1,1996 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:18.240
+Nic: Hi, I'm Nic Steenhout, and this is The Work Between. Before I get into what
+
+00:00:18.240 --> 00:00:24.435
+Nic: the show is, I want to say whose land it's made on. This podcast is recorded on the
+
+00:00:24.435 --> 00:00:29.475
+Nic: traditional, ancestral, and unceded territory of the Stó:lō Coast Salish
+
+00:00:29.475 --> 00:00:34.695
+Nic: people. The people of the river, whose presence in the Fraser Valley stretches
+
+00:00:34.695 --> 00:00:40.395
+Nic: back thousands of years. I named this territory because it belongs with what this show is
+
+00:00:40.395 --> 00:00:47.175
+Nic: about. The ways we decide whose lives are valued, whose work is taken seriously, and
+
+00:00:47.175 --> 00:00:53.340
+Nic: whose experiences are treated as problems to be managed. Those decisions shape
+
+00:00:53.340 --> 00:01:01.320
+Nic: everything. This show sits inside that. This is, was, and always will be First
+
+00:01:01.320 --> 00:01:08.130
+Nic: Nations land. That's not a formality. It's consistent with everything I and this show
+
+00:01:08.130 --> 00:01:19.545
+Nic: stand for. My guest today is Mia Seljubac, and we just discussed how to
+
+00:01:19.545 --> 00:01:25.215
+Nic: pronounce the name, and I know I fluffed it up, but my apologies. Mia is a
+
+00:01:25.215 --> 00:01:32.400
+Nic: games lawyer, turned game developer and co-founder of Serial Mug Games. She's
+
+00:01:32.400 --> 00:01:38.610
+Nic: currently working on a cozy narrative game called I Am the Cat, where all the
+
+00:01:38.610 --> 00:01:44.820
+Nic: animation and textures are completely hand-painted in watercolor. Mia works in a
+
+00:01:44.820 --> 00:01:51.120
+Nic: variety of mediums, including ink, watercolors, and acrylics, and she sells
+
+00:01:51.120 --> 00:01:57.435
+Nic: hand-painted jackets at her local tattoo parlor. Hi, Mia, thanks for joining me for
+
+00:01:57.435 --> 00:02:01.485
+Nic: this talk about creativity. How are you?
+
+00:02:01.485 --> 00:02:04.065
+Mia: I'm good. Thank you, thank you for having me.
+
+00:02:04.065 --> 00:02:12.885
+Nic: So there's a lot to talk about here, but my first question really is how does
+
+00:02:12.885 --> 00:02:17.295
+Nic: one go from being a lawyer to being a game developer?
+
+00:02:17.295 --> 00:02:24.270
+Mia: It's kind of an interesting story. It's not like one happened and then
+
+00:02:24.270 --> 00:02:29.880
+Mia: the other happened. Like, um, all the way back to the beginning. So I grew up playing
+
+00:02:29.880 --> 00:02:34.320
+Mia: video games, always loved them. Um, I liked a lot of fighting games like Street Fighter
+
+00:02:34.320 --> 00:02:40.020
+Mia: and Dead or Alive, and that led me down a path of learning martial arts, and then my
+
+00:02:40.020 --> 00:02:45.075
+Mia: first job was actually as a martial arts instructor, and I taught kung fu classes.
+
+00:02:45.075 --> 00:02:49.665
+Mia: And I had to learn a little bit about business and being self-employed. And then
+
+00:02:49.665 --> 00:02:53.085
+Mia: COVID happened, and you can't have people punching each other when there's a
+
+00:02:53.085 --> 00:02:57.315
+Mia: pandemic, so I was like, okay, I'm going to retrain. I find the kind of contract
+
+00:02:57.315 --> 00:03:01.425
+Mia: negotiation stuff interesting. I'd done volunteering with a few organizations that
+
+00:03:01.425 --> 00:03:05.820
+Mia: worked with lawyers, so I went and retrained as a lawyer. And then I found
+
+00:03:05.820 --> 00:03:11.220
+Mia: out that video game lawyer is a job that exists. So I kind of do law within the
+
+00:03:11.220 --> 00:03:16.560
+Mia: games industry for the love of it, uh, and it's an industry that I know quite well,
+
+00:03:16.560 --> 00:03:21.570
+Mia: having just been immersed in it from like as long as I can remember. Yeah. I was
+
+00:03:21.570 --> 00:03:25.290
+Mia: part of a weird generation of lawyers that were told that if you don't learn how to
+
+00:03:25.290 --> 00:03:30.585
+Mia: code, the machines are going to take your job. And I actually went and did it, and
+
+00:03:30.585 --> 00:03:35.025
+Mia: I'm like, well, why can't I try and use these skills to make a game myself and
+
+00:03:35.055 --> 00:03:38.805
+Mia: give it a go and see how that pans out? And, uh, it's panning out well, and having a
+
+00:03:38.805 --> 00:03:39.375
+Mia: lot of fun.
+
+00:03:39.585 --> 00:03:46.635
+Nic: Fantastic. I want to explore that game thing a little bit more, but, um, I
+
+00:03:46.635 --> 00:03:53.025
+Nic: had no idea you were a martial artist, and I find it interesting because I
+
+00:03:53.190 --> 00:04:00.030
+Nic: starting at age six, I did 18 years of judo, and the only reason I didn't end up
+
+00:04:00.030 --> 00:04:06.210
+Nic: getting my black belt is because, uh, the only way I had access to do it is on
+
+00:04:06.210 --> 00:04:10.680
+Nic: points and competition, and people are just vicious in competitions. I was not
+
+00:04:10.680 --> 00:04:19.755
+Nic: interested. And then I, um, I didn't do kung fu, but I did, uh, Taoist Tai Chi for about six
+
+00:04:19.755 --> 00:04:23.175
+Nic: years, so very, very different.
+
+00:04:26.025 --> 00:04:31.875
+Mia: yeah, no. Um, so my style of kung fu that I specialize in is Wing Chun,
+
+00:04:31.905 --> 00:04:36.045
+Mia: and it has a lot in common with Tai Chi, right? And, uh, one of my Wing Chun
+
+00:04:36.045 --> 00:04:41.160
+Mia: instructors is also a Tai Chi instructor, so I've learned both styles from him, and,
+
+00:04:41.250 --> 00:04:42.570
+Mia: yeah, no, Tai Chi is awesome.
+
+00:04:44.610 --> 00:04:55.470
+Nic: that's kind of neat. Uh, a bit of commonality that was not expected. So
+
+00:04:55.470 --> 00:05:03.585
+Nic: we'll speak about, um, game development, but because your game is rooted in
+
+00:05:03.795 --> 00:05:11.235
+Nic: watercolors, I'd love to learn more about your watercolors. Tell me about that. How,
+
+00:05:12.135 --> 00:05:17.145
+Nic: what is it you do? Obviously, watercolors, but what style? How do you work with
+
+00:05:17.145 --> 00:05:19.365
+Nic: watercolor?
+
+00:05:19.755 --> 00:05:24.390
+Mia: so I'm very inspired by like really old illustrated children's books like
+
+00:05:24.390 --> 00:05:29.130
+Mia: Books and the Paddington books. I try and wanted to, I wanted to make the
+
+00:05:29.130 --> 00:05:34.170
+Mia: game feel like it was in a storybook, um, and that's the kind of style that I've tried
+
+00:05:34.170 --> 00:05:40.080
+Mia: to adopt. It's very loose, uh, the line work is very kind of sketchy and rough, and I
+
+00:05:40.080 --> 00:05:45.330
+Mia: wanted it to just kind of feel like, you know, I feel like a drawing that was alive,
+
+00:05:45.375 --> 00:05:46.215
+Mia: if that makes sense.
+
+00:05:46.215 --> 00:05:53.385
+Nic: So a lot looser than strict. And, you know, quite
+
+00:05:53.385 --> 00:05:59.175
+Mia: yeah. It's interesting because when you're animating in watercolor, like, it's
+
+00:05:59.175 --> 00:06:05.055
+Mia: all completely hand-painted, like, using a light box, so I have to trace animation
+
+00:06:05.055 --> 00:06:08.055
+Mia: frames on top of each other, and when you're doing that, the paint kind of
+
+00:06:08.055 --> 00:06:12.390
+Mia: behaves the way that it wants to. Like, you can control watercolor to an extent.
+
+00:06:12.390 --> 00:06:13.530
+Nic: Yeah.
+
+00:06:13.530 --> 00:06:18.030
+Mia: so for some of the animations that are in the game, I completely embrace
+
+00:06:18.030 --> 00:06:21.660
+Mia: that. I let the watercolor do what it wants, and I like the feel of like the
+
+00:06:21.660 --> 00:06:25.560
+Mia: moving in weird ways that animation doesn't tend to, but when you've got
+
+00:06:25.560 --> 00:06:29.730
+Mia: characters that you're looking at all the time, like the cat that you play as, um, I
+
+00:06:29.730 --> 00:06:33.045
+Mia: have to take it into a program and kind of normalize some of that out, like add some
+
+00:06:33.045 --> 00:06:36.795
+Mia: filters to it so that it doesn't look too jarring or too tiring on the eye to look
+
+00:06:36.795 --> 00:06:38.895
+Mia: at all the time.
+
+00:06:38.895 --> 00:06:44.655
+Nic: How many illustrations, how many watercolors do you have to do for, I don't
+
+00:06:44.655 --> 00:06:50.085
+Nic: know, a segment of one minute of gameplay?
+
+00:06:50.085 --> 00:06:57.150
+Mia: So it's all done in loops. So the cat, at the moment, the walking
+
+00:06:57.150 --> 00:07:05.970
+Mia: animation is about 16 frames moving in different directions. Um, but there are lots
+
+00:07:05.970 --> 00:07:08.880
+Mia: of different little animations for interacting with things. I think I've
+
+00:07:08.880 --> 00:07:17.775
+Mia: drawn like, I think I've drawn about 120 versions of this cat at this point. Um, but
+
+00:07:17.775 --> 00:07:22.395
+Mia: other NPCs have, like, the other characters that walk around the world,
+
+00:07:22.395 --> 00:07:26.595
+Mia: the walking animations are quite like low frame rate, so some of them have like
+
+00:07:26.595 --> 00:07:31.485
+Mia: four frames in each direction walking, but they'll have more complex and detailed
+
+00:07:31.485 --> 00:07:36.075
+Mia: animations. Like, I decided to animate a character who's a barista, like making a
+
+00:07:36.075 --> 00:07:39.495
+Mia: coffee, like taking the portafilter out of the machine and tamping it and putting it
+
+00:07:39.495 --> 00:07:43.710
+Mia: back in the machine, and all of those little movements take a lot of individual
+
+00:07:43.710 --> 00:07:47.700
+Mia: drawings. Um, so some characters have a lot more than others.
+
+00:07:48.790 --> 00:07:51.910
+Nic: That's amazing. How did you learn watercolors?
+
+00:07:54.280 --> 00:07:59.920
+Mia: so my mom was always really artsy, so whenever we'd go anywhere, uh, she'd kind of
+
+00:07:59.950 --> 00:08:03.930
+Mia: encourage me to take a little sketchbook and like draw what I see. And it's really
+
+00:08:04.170 --> 00:08:07.770
+Mia: cheap and easy to get your kid, like, one of those little, like, they have these little red
+
+00:08:07.860 --> 00:08:10.950
+Mia: tins that you can pick up, and like, we used to be able to grab them in like an
+
+00:08:11.040 --> 00:08:16.230
+Mia: and they cost like under a fiver, and you could get one of these little tins
+
+00:08:16.290 --> 00:08:16.770
+Mia: and just learn.
+
+00:08:17.220 --> 00:08:17.280
+Nic: Yeah.
+
+00:08:17.490 --> 00:08:20.870
+Mia: So that's how I picked it up initially. But I only kind of decided to
+
+00:08:21.290 --> 00:08:25.430
+Mia: get serious about it much later. Like, I got myself a nice set of watercolors on
+
+00:08:25.550 --> 00:08:30.290
+Mia: sale and just got stuck in, watched a bunch of tutorials.
+
+00:08:32.030 --> 00:08:37.400
+Nic: So you're self-taught rather than having someone teaching you how to
+
+00:08:37.460 --> 00:08:39.920
+Nic: do it beyond your mom encouraging you, obviously.
+
+00:08:41.660 --> 00:08:45.580
+Mia: Yeah, so she taught me how to use paints and how to mix colors. She's a
+
+00:08:45.640 --> 00:08:50.980
+Mia: professional artist. She went from fashion design, where a lot of the
+
+00:08:51.040 --> 00:08:55.990
+Mia: illustrated in color. She uses watercolor and color pencils for that, and then she
+
+00:08:56.110 --> 00:09:01.890
+Mia: moved into stained glass, so she's got like quite an artsy background, and she
+
+00:09:02.010 --> 00:09:08.010
+Mia: went to college for ceramics and stained glass as well. So I had quite a good set
+
+00:09:08.070 --> 00:09:10.590
+Mia: of knowledge in my household to like draw off of.
+
+00:09:12.690 --> 00:09:18.690
+Nic: Is your mother an influence in your art? I mean, obviously she taught you, but
+
+00:09:19.170 --> 00:09:26.120
+Nic: is her style of work an influence in your style of work? And if not, or if yes, do
+
+00:09:26.180 --> 00:09:27.830
+Nic: you have other influences?
+
+00:09:29.630 --> 00:09:34.820
+Mia: Yes and no. Like, her art is very classically inspired. Like, she draws a lot
+
+00:09:34.850 --> 00:09:40.180
+Mia: of inspiration from artists like Leonardo da Vinci, and, uh, she used to take us to
+
+00:09:40.270 --> 00:09:45.730
+Mia: different exhibits at like the V&A and at different museums around London, and take
+
+00:09:45.790 --> 00:09:52.390
+Mia: inspiration from lots of different places. Um, my main inspirations for the game are like
+
+00:09:52.840 --> 00:09:56.230
+Mia: I mentioned, the Paddington Bear book, that's a big one, and like the
+
+00:09:56.260 --> 00:10:02.640
+Mia: illustrations. Um, in terms of other influences, it's hard to pin down
+
+00:10:02.700 --> 00:10:07.800
+Mia: because it's such a huge mix of things. Like, I have lots of artists that I really
+
+00:10:07.860 --> 00:10:13.140
+Mia: love and I'll like borrow little bits from here and there. Um, like, I initially
+
+00:10:13.230 --> 00:10:16.500
+Mia: learned how to paint with inks, which is a little bit different, and I was really
+
+00:10:16.710 --> 00:10:22.700
+Mia: inspired by, like, uh, a video game artist like Yoshitaka Amano, who's the illustrator
+
+00:10:22.790 --> 00:10:28.520
+Mia: for like the Final Fantasy concept art, and his illustrations are extremely beautiful,
+
+00:10:28.640 --> 00:10:32.450
+Mia: and like they have that loose, flowy movement style that's got like a lot of
+
+00:10:32.480 --> 00:10:34.550
+Mia: fashion design influences. Yeah.
+
+00:10:35.690 --> 00:10:42.880
+Nic: Painting with ink, that's, uh, just, do you do ink washes, adding water to the ink,
+
+00:10:43.150 --> 00:10:46.360
+Nic: or just pure ink? Or how do you do that?
+
+00:10:48.160 --> 00:10:53.140
+Mia: So I got like one of those old dip pens, like, from a craft shop when I
+
+00:10:53.170 --> 00:10:58.750
+Mia: was a kid, uh, so I'll like dip that directly into my little inkwell and sketch. Uh, but
+
+00:10:58.780 --> 00:11:02.490
+Mia: then when I go to color, I'll do different washes. Like, usually I'll stick to like
+
+00:11:03.390 --> 00:11:07.260
+Mia: one or two colors and just get the variation by adding water.
+
+00:11:07.950 --> 00:11:11.400
+Nic: Right. Are you an artist or an artisan?
+
+00:11:13.110 --> 00:11:13.980
+Mia: What is the difference?
+
+00:11:15.090 --> 00:11:23.180
+Nic: I think for me, an artist is, there's room to fail, there's room to be wrong. Uh, an
+
+00:11:23.360 --> 00:11:29.390
+Nic: artisan has to be able to replicate what they're doing. And I guess in this context
+
+00:11:29.390 --> 00:11:36.170
+Nic: the idea of artist versus artisan is important, because as a watercolorist you
+
+00:11:36.230 --> 00:11:41.950
+Nic: can be an artist, but as a games maker where you're relying on your painting, you
+
+00:11:42.310 --> 00:11:46.750
+Nic: don't, I mean, yeah, okay, watercolor has a mind of its own, but you don't have
+
+00:11:46.990 --> 00:11:48.040
+Nic: that much room for error.
+
+00:11:49.330 --> 00:11:53.770
+Mia: It's interesting because I found, when I'll do like a character
+
+00:11:53.830 --> 00:11:59.380
+Mia: concept, it will be very loose and free-flowing in terms of my process, and
+
+00:11:59.800 --> 00:12:04.110
+Mia: I'll let the paint do what it wants to. I'll let my mind wander and do
+
+00:12:04.170 --> 00:12:08.310
+Mia: what it wants to. And then you kind of, even if you're not trying to, when you go
+
+00:12:08.400 --> 00:12:12.210
+Mia: through the process of drawing each frame over and over and over, you get more
+
+00:12:12.270 --> 00:12:19.170
+Mia: precise and you get a lot cleaner, and you kind of have to almost fight back against
+
+00:12:19.260 --> 00:12:25.910
+Mia: that. And, like, I, it was this process when I first started animating characters with
+
+00:12:26.000 --> 00:12:30.680
+Mia: watercolor, to kind of embrace the chaos a little bit, because I had to make a
+
+00:12:30.710 --> 00:12:34.160
+Mia: decision of whether or not I wanted to try and replicate what I did the first time
+
+00:12:34.280 --> 00:12:40.490
+Mia: for every single frame, or lean into the differences. And I hope that it kind of
+
+00:12:40.580 --> 00:12:44.080
+Mia: gives the game a little bit of a unique feeling, the fact that I've gone with the
+
+00:12:44.260 --> 00:12:48.430
+Mia: latter approach, and just embraced the fact that all of the frames aren't going to
+
+00:12:48.490 --> 00:12:50.710
+Mia: look perfect. Like, if I was animating digitally,
+
+00:12:51.460 --> 00:12:56.530
+Nic: I really need to grab the game and try it. I'm very curious about what that
+
+00:12:56.920 --> 00:13:04.260
+Nic: actually looks like. What keeps you coming back to this? What's the motivation
+
+00:13:04.410 --> 00:13:09.660
+Nic: between, you know, doing the watercolor and doing it over and over for that game?
+
+00:13:09.990 --> 00:13:16.410
+Nic: Is the game, having a completed game, the motivation itself? Is the watercolor
+
+00:13:17.700 --> 00:13:19.440
+Nic: why do you keep going and doing
+
+00:13:20.700 --> 00:13:26.060
+Mia: it? One of the things that's so amazing about game development is you
+
+00:13:26.150 --> 00:13:31.280
+Mia: really do have to learn to love every single bit of the process. Um, and there's a
+
+00:13:31.370 --> 00:13:35.450
+Mia: lot to it. Like, it's not just the watercolor animation. It's also the
+
+00:13:35.480 --> 00:13:42.130
+Mia: programming and the writing. There's a lot of elements that need to come together. So
+
+00:13:42.340 --> 00:13:47.140
+Mia: one thing that keeps me going with it is the fact that if I'm getting tired of
+
+00:13:47.710 --> 00:13:51.940
+Mia: animating, if I'm getting a bit, like, my brain is getting tired or my hands are
+
+00:13:51.970 --> 00:13:55.720
+Mia: getting tired, I can switch to something else. I can think about what the
+
+00:13:55.720 --> 00:14:00.490
+Mia: characters are saying to each other, and it allows you to kind of, you know, pick
+
+00:14:00.670 --> 00:14:01.710
+Mia: up where your energy
+
+00:14:03.090 --> 00:14:03.420
+Nic: is. Yeah.
+
+00:14:03.990 --> 00:14:07.920
+Mia: I am very motivated by finishing the game because a lot of people who I've
+
+00:14:08.010 --> 00:14:11.550
+Mia: shown it to have said that they're really keen to see the finished product, and
+
+00:14:11.550 --> 00:14:15.780
+Mia: that's terrifying, but it's also like, okay, people are waiting for this to come
+
+00:14:15.930 --> 00:14:21.530
+Mia: out. I actually have to finish it. But it's one of those things, a lot of people
+
+00:14:21.590 --> 00:14:24.830
+Mia: pick up game development and they don't finish their game because they've got a
+
+00:14:24.860 --> 00:14:28.040
+Mia: lot of ambition, but sitting down and actually doing it becomes a bit of a
+
+00:14:28.130 --> 00:14:28.310
+Mia: chore.
+
+00:14:28.730 --> 00:14:28.880
+Nic: Yep.
+
+00:14:30.080 --> 00:14:34.550
+Mia: So yeah, learning to enjoy every bit of the process. Like, you get
+
+00:14:34.580 --> 00:14:37.490
+Mia: into a bit of a flow state when you're animating a bunch of frames, and
+
+00:14:37.700 --> 00:14:41.350
+Mia: you're painting them one by one, and then it all comes together, and you see you
+
+00:14:41.380 --> 00:14:45.580
+Mia: see the cat walk in a little circle or curl up and go to sleep, and it's just
+
+00:14:45.610 --> 00:14:48.310
+Mia: like, it's just a really nice feeling.
+
+00:14:48.700 --> 00:14:56.200
+Nic: Yeah. I bet. What do you make that you don't show anyone else?
+
+00:14:58.630 --> 00:15:06.030
+Mia: I have a sketchbook that's just for me. Um, and I feel like I need that to let
+
+00:15:06.060 --> 00:15:11.670
+Mia: the mind wander and keep it as something that I enjoy. Like, I studied English
+
+00:15:11.730 --> 00:15:15.090
+Mia: literature at university, and I always had a book going that wasn't part
+
+00:15:15.090 --> 00:15:17.790
+Mia: of my syllabus, to remind myself I enjoy reading.
+
+00:15:18.990 --> 00:15:19.050
+Nic: Yeah.
+
+00:15:19.410 --> 00:15:23.450
+Mia: And I feel like, you know, my own sketchbooks that I don't show people are
+
+00:15:23.510 --> 00:15:28.580
+Mia: kind of that, because when you're doing art for a product, it kind of
+
+00:15:28.640 --> 00:15:32.600
+Mia: can start to feel like you're doing it for other people. And you need that little bit
+
+00:15:32.660 --> 00:15:37.910
+Mia: of, you know, that little bit of privacy to explore and grow, and kill the
+
+00:15:37.940 --> 00:15:38.870
+Mia: perfectionist. And,
+
+00:15:39.230 --> 00:15:42.760
+Nic: yeah, so, draw things other than cats, right?
+
+00:15:43.600 --> 00:15:47.500
+Mia: Draw things other than cats. Yeah. I've been really inspired by fashion
+
+00:15:47.590 --> 00:15:52.000
+Mia: illustration lately. I've been looking up like drawings of clothing and trying to
+
+00:15:52.060 --> 00:15:55.690
+Mia: copy those in ink, and trying to put a little bit of my own flair on it, and
+
+00:15:55.690 --> 00:15:59.410
+Mia: because it's a completely new style that I've never done before, it doesn't look
+
+00:15:59.500 --> 00:16:04.440
+Mia: great. So, or it doesn't look great all the time. Sometimes it does, sometimes it
+
+00:16:04.440 --> 00:16:08.790
+Mia: doesn't. And you're not going to get good at something unless you just do it, and
+
+00:16:08.820 --> 00:16:09.990
+Mia: you do it badly at first.
+
+00:16:10.980 --> 00:16:16.020
+Nic: Is it about ending up with a good-looking drawing or painting, or is it
+
+00:16:16.020 --> 00:16:18.420
+Nic: about the journey to getting there?
+
+00:16:19.740 --> 00:16:24.320
+Mia: I think it needs to be about the journey, and like, being able to draw
+
+00:16:24.530 --> 00:16:28.190
+Mia: something without the pressure of how it's going to turn out is really, really
+
+00:16:28.250 --> 00:16:36.530
+Mia: freeing. Um, so like, as much as it's really rewarding to see the skills develop and
+
+00:16:36.530 --> 00:16:40.480
+Mia: to see it build, and to see that finished product starting to look better and better
+
+00:16:40.600 --> 00:16:45.850
+Mia: each time, like, it's about just being able to do something that relaxes me and brings
+
+00:16:45.940 --> 00:16:46.210
+Mia: me joy.
+
+00:16:47.530 --> 00:16:52.030
+Nic: Yeah. So when it doesn't bring you joy, when you're stuck, what does
+
+00:16:52.060 --> 00:16:55.210
+Nic: that feel like? And how do you get unstuck?
+
+00:16:56.560 --> 00:17:01.410
+Mia: That is the million-dollar question. Different things get me
+
+00:17:01.530 --> 00:17:08.970
+Mia: unstuck. Usually, if I'm feeling stuck, um, you either have to power through or change
+
+00:17:09.630 --> 00:17:13.860
+Mia: pace. Like, if I'm doing animation frames, it's something that I've done, I know that
+
+00:17:13.950 --> 00:17:19.410
+Mia: I'm good at. I can do it and I can kind of almost zone out and just do it, and that
+
+00:17:19.470 --> 00:17:23.120
+Mia: can kind of get the hands moving in a way that feels familiar. And it's just
+
+00:17:23.240 --> 00:17:28.850
+Mia: like, oh yeah, I can draw. And it doesn't feel like you're trying to overcome a
+
+00:17:28.910 --> 00:17:32.210
+Mia: creative block because you're not really doing anything new. You're doing like
+
+00:17:32.360 --> 00:17:36.530
+Mia: something that you're used to. It's like breathing. Uh, but when you're trying to,
+
+00:17:36.590 --> 00:17:40.690
+Mia: like, you know, oh, I need to design this new environment for the game, and you're
+
+00:17:40.720 --> 00:17:45.550
+Mia: actually trying to exercise those creative muscles a little bit, that can be really
+
+00:17:46.060 --> 00:17:51.940
+Mia: frustrating. I find the things that get me out of those blocks are turning to other
+
+00:17:52.090 --> 00:17:56.350
+Mia: artists. Like, I recently played a game called Sorry We're Closed, which has just
+
+00:17:56.470 --> 00:18:01.740
+Mia: the most incredible visual style, like, all of the environments, all of the character
+
+00:18:01.950 --> 00:18:06.330
+Mia: art is just so gorgeous, and it's one of the most unique-looking games that I've
+
+00:18:06.450 --> 00:18:09.900
+Mia: played in a really long time. And like, I was going through a little bit of a
+
+00:18:09.960 --> 00:18:14.100
+Mia: creative rut when I picked it up, and then it's like, you just, you just get all of
+
+00:18:14.100 --> 00:18:19.920
+Mia: these ideas. It's like, okay, all right, I'm motivated to draw. I'm gonna go and
+
+00:18:19.950 --> 00:18:21.410
+Mia: I'm gonna try and make some things.
+
+00:18:22.429 --> 00:18:24.379
+Nic: What's the most useful criticism you got
+
+00:18:25.609 --> 00:18:26.689
+Mia: on, like, my work? Or
+
+00:18:27.079 --> 00:18:33.619
+Nic: yeah, on your work? Not personally, but has there been anyone that said, hey,
+
+00:18:33.829 --> 00:18:41.599
+Nic: you know, this part of your work it's no good, and make it better, or whatever?
+
+00:18:42.829 --> 00:18:52.029
+Mia: I, it's, useful criticisms, that's kind of hard because I feel like a lot of
+
+00:18:52.179 --> 00:18:58.599
+Mia: people, if they have thoughts, if they have something that they don't like about
+
+00:18:58.659 --> 00:19:01.709
+Mia: a piece of art, people tend to, you know, keep that to themselves.
+
+00:19:02.730 --> 00:19:02.790
+Nic: Yeah.
+
+00:19:06.449 --> 00:19:10.679
+Mia: yeah. And I went through what I'm sure a lot of people have gone through,
+
+00:19:10.769 --> 00:19:14.699
+Mia: where you do art at school and you're trying to do something that's a little bit
+
+00:19:14.759 --> 00:19:22.909
+Mia: different, or a little bit like not the syllabus, and art teachers have kind of
+
+00:19:22.969 --> 00:19:27.619
+Mia: tried to like shut you down and go, no, you need to know this exactly how we say it.
+
+00:19:27.739 --> 00:19:31.099
+Mia: And that kind of, I was always like a little bit of a rebel growing up, so it'd
+
+00:19:31.159 --> 00:19:34.639
+Mia: be like, I knew that you have to play the game to get the good grade. So
+
+00:19:34.699 --> 00:19:41.559
+Mia: I would try and like balance that criticism. I didn't ignore
+
+00:19:42.039 --> 00:19:45.249
+Mia: it. I understand the importance of learning the fundamentals and why we're
+
+00:19:45.309 --> 00:19:51.699
+Mia: told to, you know, do still life and, you know, not jump straight into stylism. But
+
+00:19:51.819 --> 00:19:57.039
+Mia: it also kind of made me value exploring those different styles that my teachers
+
+00:19:57.069 --> 00:20:01.469
+Mia: were telling me not to do. Yeah. I don't know if that makes sense. I'm kind of,
+
+00:20:03.060 --> 00:20:10.620
+Nic: what I'm hearing is being basically told to conform to what is there and what
+
+00:20:10.710 --> 00:20:18.210
+Nic: you have to do and what you have to learn, but those limits also being, um, a motivation
+
+00:20:19.110 --> 00:20:24.290
+Nic: to go outside of the bounds of the trail and to explore what's out there as a way
+
+00:20:24.380 --> 00:20:25.010
+Nic: to grow.
+
+00:20:26.419 --> 00:20:31.489
+Mia: Yeah. Like, um, I think that if you get very good at doing art in school, if
+
+00:20:31.519 --> 00:20:34.279
+Mia: you're one of the kids that gets the good grades, you kind of almost are encouraged
+
+00:20:34.279 --> 00:20:39.529
+Mia: to become a little bit of a human photocopier. If you're a kid that doesn't
+
+00:20:39.589 --> 00:20:45.249
+Mia: like doing that, you just get very bored. You're like, yeah, but it doesn't, I'm not
+
+00:20:45.369 --> 00:20:50.199
+Mia: saying anything, I'm not doing anything new. This picture already exists. I've
+
+00:20:50.229 --> 00:20:50.889
+Mia: just copied it. Is
+
+00:20:53.830 --> 00:20:55.330
+Nic: saying something important to you?
+
+00:20:56.679 --> 00:20:58.719
+Mia: I think that's, saying something is everything.
+
+00:21:00.160 --> 00:21:00.750
+Nic: What do you want to say?
+
+00:21:03.060 --> 00:21:08.460
+Mia: So if we bring it back to the game, like, the thing that motivated me to make
+
+00:21:08.490 --> 00:21:12.990
+Mia: the game was, I was working in a corporate job in London and I was incredibly
+
+00:21:13.050 --> 00:21:19.620
+Mia: lonely. And I, like, there was this, there was a cat that lived on my street that
+
+00:21:19.650 --> 00:21:23.060
+Mia: everybody knew by name. Nobody knew who she belonged to, and like, people would
+
+00:21:23.090 --> 00:21:26.540
+Mia: constantly be sitting with her and like just spilling their guts. And I would do
+
+00:21:26.660 --> 00:21:29.630
+Mia: this too. I'd go get a coffee from the coffee shop, and I'd just sit on the
+
+00:21:29.630 --> 00:21:35.870
+Mia: bench, and this cat would come and climb on my lap, and it'd just be like, and I
+
+00:21:35.960 --> 00:21:41.890
+Mia: just imagine, like, what are the stories that this cat must hear from people who
+
+00:21:41.980 --> 00:21:44.860
+Mia: are just, you know, really stressed and really lonely and don't really have
+
+00:21:44.950 --> 00:21:51.430
+Mia: anyone to talk to? So I kind of wanted to say something about community and about
+
+00:21:51.490 --> 00:21:56.950
+Mia: loneliness and about how human it is to seek out that connection. And like, it
+
+00:21:57.160 --> 00:22:01.860
+Mia: feels really silly, like, spilling your guts to a cat, telling a cat your deepest,
+
+00:22:02.310 --> 00:22:05.400
+Mia: most vulnerable feelings. But it's also something that's really human and
+
+00:22:05.430 --> 00:22:08.610
+Mia: something that we all do. Yeah. So I wanted to treat the idea with a lot of
+
+00:22:08.670 --> 00:22:14.520
+Mia: sincerity. Um, like, I want people to feel a little bit seen.
+
+00:22:16.710 --> 00:22:28.520
+Nic: Yeah. I like that. So this podcast is about creativity and identity and
+
+00:22:29.210 --> 00:22:33.320
+Nic: disability. What's your relationship with disability?
+
+00:22:35.300 --> 00:22:40.040
+Mia: so I'm diagnosed with ADHD. I was diagnosed as an adult. But, um, I think a lot
+
+00:22:40.040 --> 00:22:44.740
+Mia: of people knew quite early on. I was one of those kids that got put in detention quite
+
+00:22:44.770 --> 00:22:49.870
+Mia: a lot for like drawing on the tables and forgetting my homework and, you know, all of
+
+00:22:49.870 --> 00:22:58.360
+Mia: the classic, you know, bright kid who just can't quite get it together, you know, that
+
+00:22:58.390 --> 00:23:03.120
+Mia: a lot of people experience. Um. And I also suffered a spinal injury when I was 19, in
+
+00:23:03.150 --> 00:23:10.170
+Mia: a gymnastics accident, that has like inhibited my mobility. Um, which is huge
+
+00:23:10.350 --> 00:23:14.160
+Mia: because, like, martial arts has always been a really big part of my life. I also got
+
+00:23:14.190 --> 00:23:18.180
+Mia: very into dance for a little while. Right before the injury, I was competing in
+
+00:23:18.240 --> 00:23:25.910
+Mia: and, uh, that's something that's been, like, you know, something that I've had to
+
+00:23:25.970 --> 00:23:29.030
+Mia: grapple with a lot. And it's something that's, you know, contributed to those
+
+00:23:29.810 --> 00:23:33.230
+Mia: really lonely feelings. Like, particularly when I was working in these
+
+00:23:33.380 --> 00:23:37.310
+Mia: oppressive corporate jobs, you know, can I have an extra work-from-home day because
+
+00:23:37.400 --> 00:23:42.010
+Mia: I will literally destroy my body doing this commute? And being told, well,
+
+00:23:42.070 --> 00:23:42.970
+Mia: everybody else is doing
+
+00:23:43.629 --> 00:23:43.719
+Nic: it.
+
+00:23:44.229 --> 00:23:47.949
+Mia: It's just like, you know. But it's it's a little bit different
+
+00:23:50.199 --> 00:23:58.209
+Nic: in terms of identity being so focused on body movement, on martial arts,
+
+00:23:58.899 --> 00:24:06.119
+Nic: on kung fu, which is a lot of internal, not just external. A spinal injury would
+
+00:24:06.239 --> 00:24:08.699
+Nic: really have thrown you for a loop, I would imagine.
+
+00:24:10.140 --> 00:24:18.930
+Mia: yeah. Um, there was a period very shortly after the injury where I couldn't, I could
+
+00:24:18.960 --> 00:24:23.570
+Mia: barely walk. I, the doctor told me that I could leave the hospital as soon as
+
+00:24:23.630 --> 00:24:33.080
+Mia: I could walk out myself, so I walked with the help of about four people who helped,
+
+00:24:33.170 --> 00:24:41.800
+Mia: like, kind of assisted- walk me to a car. I was dropped off at my flat, and I could do
+
+00:24:41.980 --> 00:24:48.310
+Mia: very, very little for a good few weeks. And then when I was finally able to like
+
+00:24:48.430 --> 00:24:53.500
+Mia: walk by myself again, I went back to kung fu, and they were like, hey, where have
+
+00:24:53.560 --> 00:25:02.400
+Mia: you been? I was like, ah, I've not been able to sit up for like three weeks.
+
+00:25:02.670 --> 00:25:06.270
+Mia: it's a really, it's an interesting thing with spinal injuries in specific, because
+
+00:25:06.270 --> 00:25:13.200
+Mia: it was damage to the nerve, and you have to very slowly reintroduce new movements,
+
+00:25:13.800 --> 00:25:18.750
+Mia: and every time you do something that your body isn't used to, it hurts like a bitch,
+
+00:25:19.050 --> 00:25:28.550
+Mia: pardon my French. Yeah. And, uh, you have to kind of build up a lot of courage to experiment
+
+00:25:28.610 --> 00:25:32.810
+Mia: with movement again, and to like make yourself do these movements that you
+
+00:25:32.870 --> 00:25:36.680
+Mia: haven't done in a long time, knowing that your back could just go nope at any
+
+00:25:36.770 --> 00:25:40.010
+Mia: minute, and you're just going to be flat on your back on the floor again, and you
+
+00:25:40.040 --> 00:25:45.370
+Mia: don't know when you're going to be able to get up. Uh, so that's hard, and that was
+
+00:25:46.120 --> 00:25:48.580
+Mia: life for quite a long time.
+
+00:25:51.340 --> 00:25:56.740
+Nic: How does that tie into your watercolor illustrations and your game
+
+00:25:56.830 --> 00:25:57.340
+Nic: development?
+
+00:25:58.989 --> 00:26:08.399
+Mia: So, when you can't sit up, you can still draw and you
+
+00:26:08.429 --> 00:26:14.279
+Mia: can still write. Um, it's something that kind of gets me out of myself a little bit,
+
+00:26:14.399 --> 00:26:19.409
+Mia: something that feels very internal and very personal, that I can still do and
+
+00:26:19.469 --> 00:26:25.699
+Mia: still do comfortably when my body isn't listening to me. Some, like, it's really
+
+00:26:25.849 --> 00:26:32.929
+Mia: hard to keep that, to not just become very depressed by all, and to not just
+
+00:26:32.959 --> 00:26:36.919
+Mia: kind of shrink back into yourself and go, I'm just gonna sit and stare at the
+
+00:26:37.069 --> 00:26:43.179
+Mia: ceiling and just, you know, be sad. And sometimes you need to be sad, but it's
+
+00:26:43.209 --> 00:26:48.879
+Mia: hard to keep yourself from going too far down that dark hole.
+
+00:26:49.719 --> 00:26:49.779
+Nic: Yeah.
+
+00:26:50.710 --> 00:26:55.630
+Mia: and allowing myself some kind of a creative outlet really helps me to just
+
+00:26:55.660 --> 00:26:59.350
+Mia: maintain a bit of a positive attitude and be like, hey, you know, this is temporary.
+
+00:26:59.860 --> 00:27:00.660
+Mia: It's a part of life.
+
+00:27:00.930 --> 00:27:00.990
+Nic: Yeah.
+
+00:27:01.349 --> 00:27:08.219
+Mia: And, uh, it'll pass, and I'll be up again. And you have to, you kind of
+
+00:27:08.219 --> 00:27:09.209
+Mia: have to tell yourself that.
+
+00:27:10.560 --> 00:27:18.300
+Nic: Do you think of yourself as a disabled person who makes things, or as
+
+00:27:18.360 --> 00:27:19.800
+Nic: a maker who is disabled?
+
+00:27:22.260 --> 00:27:27.650
+Mia: I'd say that I'm a maker who is disabled. I prefer that. That
+
+00:27:27.740 --> 00:27:32.570
+Mia: feels more fitting to me. Um, because I've been creating forever. Like, it's always
+
+00:27:32.660 --> 00:27:36.110
+Mia: been something that's brought me joy, and it's something that continues to bring me
+
+00:27:36.260 --> 00:27:40.990
+Mia: joy. I've always had ADHD, even if I haven't always known it. But I haven't
+
+00:27:41.020 --> 00:27:43.570
+Mia: always, you know, had a physical disability.
+
+00:27:45.490 --> 00:27:52.570
+Nic: ADHD, a lot of the people that I know that have ADHD tend to be serial
+
+00:27:52.720 --> 00:27:53.140
+Nic: hobbyists.
+
+00:27:54.399 --> 00:27:54.459
+Mia: Yeah.
+
+00:27:54.730 --> 00:28:03.060
+Nic: Have you, um, have you gone down that path? And if yes, what has, why have you
+
+00:28:03.240 --> 00:28:08.760
+Nic: settled on watercolor and directed that towards game making?
+
+00:28:10.530 --> 00:28:14.520
+Mia: I think that making games is something that really like scratches that
+
+00:28:14.640 --> 00:28:20.010
+Mia: serial hobbyist itch, that it lets you lean into that impulse, because,
+
+00:28:20.220 --> 00:28:23.570
+Mia: like I said, there are so many different elements to it. Like, you can swap between
+
+00:28:23.660 --> 00:28:29.870
+Mia: coding and writing and drawing and whatever else the game needs. Um, so, like, my
+
+00:28:29.960 --> 00:28:33.410
+Mia: game is a narrative game where there's not a huge amount of like mechanical gameplay.
+
+00:28:33.650 --> 00:28:36.620
+Mia: But if you're making a game that's really mechanics-heavy, that's another way
+
+00:28:36.740 --> 00:28:41.710
+Mia: that you can let your brain wander and let yourself be creative. I mean, I'm also
+
+00:28:41.830 --> 00:28:47.470
+Mia: selling jackets at the tattoo parlor, like, and I'm doing martial arts in the
+
+00:28:47.470 --> 00:28:54.550
+Mia: evenings, like, you know, the things don't end. Yeah. I struggle to say that I've
+
+00:28:54.640 --> 00:28:58.660
+Mia: settled on anything at any given point because there's always something on the
+
+00:28:59.200 --> 00:29:02.790
+Mia: horizon. I do see myself doing game dev for a long time, because it is something
+
+00:29:02.910 --> 00:29:09.990
+Mia: that, you know, allows me to lean into that, you know, impulse to do lots of things.
+
+00:29:10.409 --> 00:29:19.169
+Nic: Yeah. Yeah. I do watercolor and sketching, and I do quilting, and I do
+
+00:29:20.099 --> 00:29:25.279
+Nic: photography, and I've tried so many different things, and I've kind of settled
+
+00:29:25.369 --> 00:29:32.269
+Nic: on those, you know, sketching and quilting and photography. But that's what I'm doing
+
+00:29:32.329 --> 00:29:40.389
+Nic: now. Who knows what I'm going to be doing two years down the road? In terms of
+
+00:29:41.799 --> 00:29:51.069
+Nic: creative thinking, um, there's this idea that navigating the world when you're disabled,
+
+00:29:51.129 --> 00:29:55.689
+Nic: and the world isn't really built for you, for example, your teachers saying, hey,
+
+00:29:55.869 --> 00:30:05.189
+Nic: you have to do these things and don't get out of there, um, people say it produces a
+
+00:30:05.369 --> 00:30:11.519
+Nic: kind of creative thinking that is more, or different. Do you find that connects
+
+00:30:11.729 --> 00:30:12.809
+Nic: to how you work?
+
+00:30:14.580 --> 00:30:19.200
+Mia: Growing up with ADHD, you're always finding your own way of doing things, and
+
+00:30:19.380 --> 00:30:23.870
+Mia: you're building coping strategies upon coping strategies. And I think, I don't
+
+00:30:23.870 --> 00:30:27.920
+Mia: know if this is relatable to a lot of people with ADHD, but sometimes your
+
+00:30:27.950 --> 00:30:33.050
+Mia: coping strategies will work brilliantly for like nine months, a year, two years,
+
+00:30:33.200 --> 00:30:40.280
+Mia: and then just stop. So you kind of have to focus and refocus and change tack, like,
+
+00:30:41.000 --> 00:30:43.900
+Mia: quite a lot. And you need to rotate through your toolkit and see what's
+
+00:30:43.930 --> 00:30:48.160
+Mia: working for you one day, what's not working the next day. And I think that
+
+00:30:48.220 --> 00:30:52.270
+Mia: kind of keeps your brain active in a really creative way.
+
+00:30:54.399 --> 00:31:02.819
+Nic: You mentioned loneliness earlier. Do you work better when you work alone, or do
+
+00:31:02.819 --> 00:31:04.889
+Nic: you work better as part of community?
+
+00:31:06.899 --> 00:31:11.129
+Mia: So I love working in teams. Um, the industry that I've chosen, like the legal
+
+00:31:11.189 --> 00:31:17.369
+Mia: industry, isn't very inclined towards disabled and neurodivergent people. Um, you kind of
+
+00:31:17.489 --> 00:31:25.369
+Mia: have these really oppressive hierarchical structures at play, and if you don't fit
+
+00:31:25.459 --> 00:31:30.499
+Mia: into the mold, you'll just kind of be hung out to dry. So I've chosen like a
+
+00:31:30.589 --> 00:31:36.019
+Mia: self-employed path because it allows me to use my skills in a way that, you know, I
+
+00:31:36.139 --> 00:31:41.179
+Mia: know works for me, and that isn't, you know, restricted by these structures. But
+
+00:31:41.239 --> 00:31:45.039
+Mia: I think that the thing that I like about this job, and where I found balance, is
+
+00:31:45.369 --> 00:31:49.479
+Mia: that it is very social still. Like, I'm working with lots of different clients.
+
+00:31:49.599 --> 00:31:55.269
+Mia: I'm working with a lot of creatives, and I get to bounce ideas off of other people on
+
+00:31:55.269 --> 00:32:01.889
+Mia: the daily, and I never feel like I'm alone in it. I also have really good
+
+00:32:01.949 --> 00:32:06.029
+Mia: mentors. Like, there are so many games lawyers around. I didn't know
+
+00:32:06.179 --> 00:32:10.139
+Mia: there were, like, so many of us. But there are plenty of game lawyers running around,
+
+00:32:10.169 --> 00:32:14.639
+Mia: and they're all just such cool people. So I always feel like I have people that I
+
+00:32:14.759 --> 00:32:20.309
+Mia: go to if I have questions or if I need support. I feel a lot less lonely as
+
+00:32:20.369 --> 00:32:23.689
+Mia: a self-employed person than I did when I was working in corporate and surrounded by
+
+00:32:23.809 --> 00:32:24.409
+Mia: people every day.
+
+00:32:26.540 --> 00:32:33.260
+Nic: So if we were to apply that same question to your game development and your
+
+00:32:33.950 --> 00:32:36.890
+Nic: watercolor, does the same thing hold?
+
+00:32:38.960 --> 00:32:43.930
+Mia: I can be a little bit of a control freak when it comes to my work. I am
+
+00:32:44.050 --> 00:32:49.180
+Mia: collaborating with other creatives on the game. I'm working with a 3D artist at the,
+
+00:32:49.300 --> 00:32:56.470
+Mia: to try and bring some of those 2D drawings into a 3D world, and like,
+
+00:32:56.530 --> 00:33:02.670
+Mia: somebody who's just very good at blending those two worlds and can see the vision
+
+00:33:02.700 --> 00:33:07.830
+Mia: and is on board with it. And that's really easy. Uh, I'm also working with composers, and
+
+00:33:07.890 --> 00:33:14.850
+Mia: I know nothing about music. Like, I did singing as a kid, and, you know,
+
+00:33:14.940 --> 00:33:18.180
+Mia: my husband's really into jazz and knows a lot of music theory, and, you know,
+
+00:33:18.660 --> 00:33:23.600
+Mia: there's a lot of putting chords together. And like, I know some of the basic
+
+00:33:23.660 --> 00:33:30.710
+Mia: vocabulary, but like, it sometimes can be hard to just let creatives do their thing,
+
+00:33:30.920 --> 00:33:34.880
+Mia: because I know they're going to make their best work if I just take my hands
+
+00:33:34.970 --> 00:33:44.110
+Mia: away. Yeah. Um, I can get quite anxious about that collaborative process, but I've been, I
+
+00:33:44.530 --> 00:33:48.670
+Mia: like to think I'd be quite good at letting my team do the things that they're
+
+00:33:48.730 --> 00:33:52.570
+Mia: good at, and things are working out really well, and I'm really happy with it. But
+
+00:33:52.600 --> 00:33:54.220
+Mia: yeah, I definitely have that tendency in me.
+
+00:33:56.289 --> 00:33:58.779
+Nic: What have you made that you regret making?
+
+00:34:00.430 --> 00:34:06.150
+Mia: I don't think I regret making anything. Like, I've made things that
+
+00:34:06.360 --> 00:34:11.970
+Mia: haven't always turned out the way that I wanted. Um, I've worked like as part of
+
+00:34:12.060 --> 00:34:16.530
+Mia: creative teams where we weren't aligned and it was kind of messy, and the
+
+00:34:16.590 --> 00:34:22.700
+Mia: product as a result wasn't good. But all of it is learning, and learning how to
+
+00:34:22.790 --> 00:34:25.910
+Mia: hone your own craft and your own skills, and learning how to work with other
+
+00:34:25.970 --> 00:34:32.150
+Mia: people, and sometimes learning when to walk away from a project. Um, so I don't
+
+00:34:32.210 --> 00:34:35.960
+Mia: regret making anything. I think even those projects that kind of get left on the
+
+00:34:36.050 --> 00:34:38.270
+Mia: cutting room floor, there's value to be gained there.
+
+00:34:40.100 --> 00:34:45.370
+Nic: When do you decide to leave something? When, if there is
+
+00:34:45.520 --> 00:34:50.110
+Nic: one, what's the trigger to say, oh, all right, this isn't gonna work? And let's
+
+00:34:50.200 --> 00:34:50.470
+Nic: move on.
+
+00:34:52.330 --> 00:34:57.340
+Mia: when people in the team don't respect each other. Um, like I said, I had that
+
+00:34:57.400 --> 00:34:59.920
+Mia: control freak tendency in me.
+
+00:35:00.420 --> 00:35:00.630
+Nic: Yeah.
+
+00:35:00.930 --> 00:35:05.040
+Mia: I know that I can't do better than what my composers are doing, because that
+
+00:35:05.400 --> 00:35:13.080
+Mia: is their craft and they know it a lot better than I do. If I was being very
+
+00:35:13.710 --> 00:35:21.380
+Mia: critical of them and critical of their skills, uh, they should leave. Like, you know, it's,
+
+00:35:22.430 --> 00:35:26.120
+Mia: like, there's constructive ways to say, oh, you know, can you tweak this? Or we're
+
+00:35:26.180 --> 00:35:29.780
+Mia: going for more of this kind of a feeling. But if it gets to the point where it's
+
+00:35:29.870 --> 00:35:33.620
+Mia: like, somebody isn't respecting your ability to create,
+
+00:35:34.280 --> 00:35:34.340
+Nic: yeah,
+
+00:35:34.640 --> 00:35:37.610
+Mia: not respecting what you bring to the table, that's when I say it's time to walk
+
+00:35:37.640 --> 00:35:42.910
+Mia: away from the project. Um, yeah, because I think when you're working collaboratively
+
+00:35:42.940 --> 00:35:49.420
+Mia: on something creative, like, trust is everything, respect is everything. And you
+
+00:35:49.480 --> 00:35:58.450
+Mia: need to be able to, you know, pull things apart and critique things and build
+
+00:35:58.510 --> 00:36:04.500
+Mia: something cohesive, build something together. And you can't, you have to
+
+00:36:04.560 --> 00:36:07.860
+Mia: have respect for your fellow creators. Otherwise that just that just doesn't
+
+00:36:07.920 --> 00:36:08.160
+Mia: work.
+
+00:36:09.600 --> 00:36:15.060
+Nic: Yeah. Respect is so important. Are there things you feel you can't make,
+
+00:36:15.690 --> 00:36:19.590
+Nic: subjects or forms that you feel are off
+
+00:36:21.540 --> 00:36:26.840
+Mia: I mean, I don't have all of the skills in the world. Um, I've tried to dip my
+
+00:36:27.020 --> 00:36:32.780
+Mia: toe into 3D modeling and it did not go well. Uh, the original vision for my game
+
+00:36:32.870 --> 00:36:38.180
+Mia: didn't involve watercolor illustration. I opened up Blender and I opened up Unreal
+
+00:36:38.270 --> 00:36:42.370
+Mia: Engine, which at the time I kind of naively thought was, it's got a bit of a
+
+00:36:42.400 --> 00:36:45.880
+Mia: reputation for being the engine that you use when you want to make games that are
+
+00:36:45.910 --> 00:36:52.120
+Mia: really pretty and really visually stunning. Um, so I picked that up and I made
+
+00:36:52.240 --> 00:36:58.030
+Mia: something that looked like an absolute trash fire. And I spent about three months
+
+00:36:58.150 --> 00:37:05.550
+Mia: on it, and I sat back from it after three months and went, so I like coding and I
+
+00:37:05.670 --> 00:37:10.770
+Mia: like drawing and I haven't done either in the whole process of making this game for
+
+00:37:10.830 --> 00:37:11.370
+Mia: three months.
+
+00:37:11.820 --> 00:37:12.060
+Nic: Right.
+
+00:37:12.450 --> 00:37:18.450
+Mia: Let's pivot. So, like, I don't think that 3D modeling is off limits. It's
+
+00:37:18.510 --> 00:37:21.950
+Mia: definitely something I can't do now. I have so much respect for people who can do
+
+00:37:22.400 --> 00:37:26.720
+Mia: it. Maybe I'll give it a go and try and pick it up again when I've got like the
+
+00:37:26.900 --> 00:37:32.930
+Mia: and the time and the mental energy to try and tackle it again. Uh, but
+
+00:37:32.990 --> 00:37:35.960
+Mia: right now I'm happy leaving that to the 3D artists.
+
+00:37:38.210 --> 00:37:45.820
+Nic: Your game hasn't released yet. Um, but I imagine you've shared your progress with
+
+00:37:46.000 --> 00:37:51.250
+Nic: other people. Have you noticed a gap between what you intend people to take
+
+00:37:51.370 --> 00:37:55.210
+Nic: from what you're doing and what they're actually feeding back to you?
+
+00:37:57.730 --> 00:38:05.880
+Mia: so when I first started sharing the build, it was very, very rough. Like, some
+
+00:38:06.000 --> 00:38:10.080
+Mia: of the writing had been done. I'd written, I think I'd written a couple of
+
+00:38:10.350 --> 00:38:15.930
+Mia: storylines completely, but the characters were like little outline stick
+
+00:38:16.560 --> 00:38:22.160
+Mia: The cat was four frames of like a walking animation, but it was just an outline with
+
+00:38:22.280 --> 00:38:28.280
+Mia: no color, and everyone was just a box. Like, it was just like a gray box moving
+
+00:38:28.400 --> 00:38:35.750
+Mia: around a 3D space with a picture of a cat on the front. And I was surprised when I was
+
+00:38:35.840 --> 00:38:40.720
+Mia: showing that around to people, being like, hey, I got the box to move, how much the
+
+00:38:40.870 --> 00:38:45.490
+Mia: vision was already starting to come across. Like, people were getting the vibe
+
+00:38:45.610 --> 00:38:51.010
+Mia: from the dialogue and what I was trying to do. And then as it started to come
+
+00:38:51.100 --> 00:38:57.280
+Mia: together, like, the art being added on top, like, actually finished and painted, it
+
+00:38:57.340 --> 00:39:02.220
+Mia: felt like I was successfully communicating an idea to people. I think
+
+00:39:02.250 --> 00:39:09.000
+Mia: still, like, points in which people misunderstand, like, my game is
+
+00:39:09.060 --> 00:39:13.470
+Mia: completely narrative. You can't really affect the story. You're a cat. Like,
+
+00:39:13.530 --> 00:39:17.640
+Mia: you're just there to experience the story through the characters who are talking to
+
+00:39:17.760 --> 00:39:25.190
+Mia: you. You can meow at people. Um, you cannot meow at people, uh, but you can't like talk
+
+00:39:25.340 --> 00:39:29.750
+Mia: back to them or say anything that's going to materially change their lives, aside
+
+00:39:29.810 --> 00:39:35.780
+Mia: from them feeling comfort in your presence. Um, I've had people not quite get
+
+00:39:35.870 --> 00:39:39.710
+Mia: that aspect. Some people, like, oh, do the people give you quests? Do they ask you to
+
+00:39:39.800 --> 00:39:45.130
+Mia: do things? Can you change the outcome of the story by doing different
+
+00:39:45.130 --> 00:39:51.220
+Mia: things? It's like, no, you're a cat. Like, yeah, that's the main thing that I think that
+
+00:39:52.030 --> 00:39:57.400
+Mia: some people don't really vibe with, with the game. But plenty of people like a
+
+00:39:57.460 --> 00:40:01.590
+Mia: linear narrative story where you're just kind of vibing out and experiencing it.
+
+00:40:02.040 --> 00:40:06.300
+Mia: So, you know, my game is for the people that get it, and I'm finding that a lot of
+
+00:40:06.330 --> 00:40:08.400
+Mia: people get it and a lot of people are excited for
+
+00:40:10.170 --> 00:40:15.750
+Nic: it. I think there's something to be said about storytelling in
+
+00:40:15.810 --> 00:40:22.940
+Nic: a different way, rather than you have to be FPS, kill
+
+00:40:23.030 --> 00:40:28.370
+Nic: everything in sight and interact with everything, and, oh, is this loot?
+
+00:40:29.660 --> 00:40:34.850
+Nic: I think different paces is important for different people at different
+
+00:40:34.910 --> 00:40:35.210
+Nic: times.
+
+00:40:36.590 --> 00:40:41.500
+Mia: Yeah. And I grew up playing a lot of FPSs and shooting things and picking up
+
+00:40:41.590 --> 00:40:45.880
+Mia: loot. And it's a different kind of experience. But the thing that I've always
+
+00:40:45.970 --> 00:40:50.620
+Mia: loved about games, whether you're shooting things and picking up loot, or, you know,
+
+00:40:50.860 --> 00:40:55.870
+Mia: talking to characters and getting a story that way, is that the story is always kind
+
+00:40:55.900 --> 00:41:00.840
+Mia: of told through the world, through interacting with the world, whether it's,
+
+00:41:00.900 --> 00:41:07.770
+Mia: you know, shooting at the world or talking to the world. And that's something that a
+
+00:41:07.890 --> 00:41:11.910
+Mia: lot of games have in common, and that's something that I really wanted to lean
+
+00:41:12.030 --> 00:41:18.300
+Mia: into. Um, I like games that feel very mundane and make you feel really small. Like, my
+
+00:41:18.360 --> 00:41:22.220
+Mia: favorite, one of my favorite Legend of Zelda games is Wind Waker, like,
+
+00:41:22.910 --> 00:41:28.070
+Mia: you're just a kid and the world is flooded, and you sail around, and it feels really
+
+00:41:28.190 --> 00:41:32.390
+Mia: peaceful, but you also feel really tiny because you spend ages on the sea sailing
+
+00:41:32.420 --> 00:41:34.490
+Mia: from place to place. And that's something that I really enjoy.
+
+00:41:36.260 --> 00:41:42.980
+Nic: Is there a game that you wish you'd made? And why that one?
+
+00:41:43.720 --> 00:41:52.180
+Mia: I wish I'd made. I would have, if I could have been on the team for
+
+00:41:52.240 --> 00:41:55.660
+Mia: Sorry We're Closed, that would have just made my entire life. I'd be like, I could
+
+00:41:55.720 --> 00:42:00.360
+Mia: die happy. This is like one of the coolest, most unique pieces of art that
+
+00:42:00.390 --> 00:42:07.200
+Mia: exists in the gaming space. Um, like, I make most of the game by myself, as a solo
+
+00:42:07.800 --> 00:42:12.120
+Mia: project. Uh, I don't see any games out there that I'm like, I could have made this, or I
+
+00:42:12.180 --> 00:42:16.080
+Mia: would have wanted to have made this, because I think with solo devs it's very
+
+00:42:16.350 --> 00:42:20.690
+Mia: kind of personal, it's a very unique creative vision. But I've seen games that
+
+00:42:20.690 --> 00:42:23.450
+Mia: I'm like, man, I would have loved to have been like a character artist in this game,
+
+00:42:23.510 --> 00:42:26.900
+Mia: or I would have loved to have been a writer in this game. And I think, like,
+
+00:42:26.930 --> 00:42:33.890
+Mia: Sorry We're Closed is one. Um, one of like one of my more rogue influences is a game
+
+00:42:34.010 --> 00:42:39.560
+Mia: called Deadly Premonition, which is just absolutely insane. It's heavily inspired
+
+00:42:39.590 --> 00:42:44.140
+Mia: by Twin Peaks, and it's a game where you're solving a murder in
+
+00:42:44.170 --> 00:42:47.560
+Mia: a small town. And you think this has nothing to do with the game where you're
+
+00:42:47.590 --> 00:42:51.100
+Mia: playing as a cat. But one of the things that I really like about it is, you can go
+
+00:42:51.250 --> 00:42:55.240
+Mia: into people's houses and see how life is moving on in the wake of this tragedy.
+
+00:42:55.990 --> 00:42:59.440
+Mia: And like, you can see people comforting each other and bonding with each other,
+
+00:42:59.590 --> 00:43:02.550
+Mia: and you really get like an insight into the fact that these are real people
+
+00:43:03.330 --> 00:43:10.920
+Mia: dealing with grief. And that's a huge influence in my game. So like, looking at
+
+00:43:10.920 --> 00:43:14.490
+Mia: these projects, these are projects that I'm not like, oh, I wish I'd made this.
+
+00:43:14.640 --> 00:43:19.320
+Mia: But I'm really very inspired by it, and like, I think about the team and all the
+
+00:43:19.320 --> 00:43:24.950
+Mia: people who are responsible for injecting it with these little details. And it's
+
+00:43:24.980 --> 00:43:28.340
+Mia: just like, art to have been part of that. That would have been cool.
+
+00:43:33.080 --> 00:43:37.250
+Nic: So eventually, this game is going to be finished. What are you going to be
+
+00:43:37.520 --> 00:43:43.090
+Nic: doing after that? Or what would you be doing now if you weren't doing game
+
+00:43:43.150 --> 00:43:43.690
+Nic: development?
+
+00:43:45.730 --> 00:43:50.260
+Mia: If I wasn't doing this game, there are other ideas cooking. I've already
+
+00:43:50.500 --> 00:43:55.750
+Mia: thought about, like, I'm not necessarily, the next title that I'm
+
+00:43:55.750 --> 00:43:59.020
+Mia: make, but at least the next idea that I'm gonna workshop, because it is such
+
+00:43:59.440 --> 00:44:02.670
+Mia: a process, when it comes to game development, of, like, you know, finding
+
+00:44:02.790 --> 00:44:07.020
+Mia: the fun and finding the idea that works, and what people are vibing with. If I
+
+00:44:07.080 --> 00:44:13.590
+Mia: wasn't doing game development, um, I really want to get good at oil painting. It's
+
+00:44:13.590 --> 00:44:18.090
+Mia: something that I've been afraid of for a long time. Uh, I'd probably be leaning into
+
+00:44:18.150 --> 00:44:26.060
+Mia: that and giving that a go. Um, yeah, I'm addicted to picking up a hundred different
+
+00:44:26.090 --> 00:44:31.670
+Mia: hobbies and constantly trying new things. So I'd be just scouting around for, yeah, what
+
+00:44:31.700 --> 00:44:34.370
+Mia: the next thing is, to keep that impulse.
+
+00:44:34.820 --> 00:44:40.040
+Nic: I probably would not recommend trying to do frame-by-frame animation with oil
+
+00:44:40.160 --> 00:44:41.920
+Nic: painting unless you have the patience.
+
+00:44:44.890 --> 00:44:45.490
+Mia: Absolutely not.
+
+00:44:48.610 --> 00:44:53.950
+Nic: Has your creative practice ever changed something you thought about
+
+00:44:54.040 --> 00:44:55.780
+Nic: yourself or believed about yourself?
+
+00:44:58.630 --> 00:45:04.650
+Mia: I think that happens constantly. I think when it comes to doing something
+
+00:45:04.710 --> 00:45:08.220
+Mia: like game development, where it's a piece of art that's like the process is drawn
+
+00:45:08.400 --> 00:45:13.440
+Mia: out over many, many months, you spend ages working on the same thing, uh, sometimes you
+
+00:45:13.500 --> 00:45:21.230
+Mia: step back from something and you're really, like, you don't realize the
+
+00:45:21.320 --> 00:45:25.040
+Mia: amount of time that you've put into something until you're stepping back from
+
+00:45:25.100 --> 00:45:27.350
+Mia: it, like, months later, going like, whoa, I built this.
+
+00:45:27.740 --> 00:45:27.800
+Nic: Yeah.
+
+00:45:29.330 --> 00:45:32.840
+Mia: Like, it's made me feel a lot more confident in my ability to pick
+
+00:45:32.930 --> 00:45:37.610
+Mia: things up and put things together. Uh, another thing is, I've always been kind of
+
+00:45:38.300 --> 00:45:43.540
+Mia: self-critical about my art and about showing it to people. But like, drawing
+
+00:45:43.660 --> 00:45:50.230
+Mia: game assets, they kind of take on a life of their own. And like, you see the thing
+
+00:45:50.320 --> 00:45:56.140
+Mia: that you drew in its own little world doing its own little thing, and you know,
+
+00:45:57.850 --> 00:46:05.070
+Mia: that something about that just feels really special. Like, if you
+
+00:46:05.130 --> 00:46:08.460
+Mia: draw a piece of art in your sketchbook and then you take it out and you frame it
+
+00:46:08.460 --> 00:46:11.400
+Mia: and you put it on your wall, and it's like, now part of a space, and it's, you know,
+
+00:46:11.550 --> 00:46:15.480
+Mia: giving that space an energy, it just feels different to letting it just exist
+
+00:46:15.540 --> 00:46:19.020
+Mia: in its sketchbook. And like, game development's a little bit like that.
+
+00:46:19.590 --> 00:46:25.580
+Mia: Like, I've drawn this cat a hundred times, each individual frame doesn't really have a
+
+00:46:25.670 --> 00:46:29.750
+Mia: purpose on its own. But it's part of something that's like a little bit bigger
+
+00:46:29.780 --> 00:46:35.330
+Mia: than itself, and that's made me feel a lot more confident in my own art and in
+
+00:46:35.450 --> 00:46:39.680
+Mia: showing people my art and feeling like people are understanding what I'm trying
+
+00:46:39.680 --> 00:46:39.830
+Mia: to do.
+
+00:46:41.300 --> 00:46:48.310
+Nic: Yeah. Technical question for you, which isn't so technical, but I'm curious
+
+00:46:48.430 --> 00:46:55.120
+Nic: about it. What is your favorite brand of watercolors, and what paper do you like to
+
+00:46:55.210 --> 00:46:59.500
+Nic: use? And what's your, uh, your ink of choice?
+
+00:47:02.730 --> 00:47:05.940
+Mia: Um, so I missed that last bit. Was the last part, the last
+
+00:47:05.940 --> 00:47:08.490
+Nic: bit, what is your ink of choice?
+
+00:47:09.590 --> 00:47:15.200
+Mia: Okay. So, favorite watercolors, I use Winsor Newton. Um, I use the pan ones,
+
+00:47:15.200 --> 00:47:15.920
+Mia: not the,
+
+00:47:16.080 --> 00:47:16.170
+Nic: yep,
+
+00:47:16.360 --> 00:47:23.110
+Mia: like, if I use the tubes, I like, let it dry out into a pan, use it like that. Um, I
+
+00:47:23.110 --> 00:47:26.560
+Mia: use the little Winsor Newton field kit. They don't do it with the
+
+00:47:26.560 --> 00:47:31.780
+Mia: professional colors anymore. They now do it with the Cotman colors. Um, but you can get
+
+00:47:31.780 --> 00:47:36.010
+Mia: the set and fill it with whatever colors you want from whichever range you want. I
+
+00:47:36.010 --> 00:47:41.605
+Mia: also use Winsor Newton ink. I'm a bit of a Winsor Newton purist. Um, when I was
+
+00:47:41.605 --> 00:47:45.865
+Mia: learning watercolors, I just picked up the cheapest notebook that I could find. It
+
+00:47:45.865 --> 00:47:51.325
+Mia: wasn't even watercolor paper. And you paint on it, and the paint just kind of
+
+00:47:51.325 --> 00:47:56.905
+Mia: sits on top of the paper and it's very unforgiving. Yeah, colors down and then
+
+00:47:56.905 --> 00:48:01.885
+Mia: it's down. Uh, I recently bought my sister-in-law a sketchbook, like a nice
+
+00:48:02.050 --> 00:48:06.430
+Mia: Moleskine sketchbook, uh, for Christmas. And whenever I gift somebody a sketchbook, I
+
+00:48:06.430 --> 00:48:08.950
+Mia: always do the first page, because I think the first page is a little bit
+
+00:48:08.950 --> 00:48:12.610
+Mia: intimidating. And it's also just kind of nice, like, hey, remember I got this for
+
+00:48:12.610 --> 00:48:20.320
+Mia: you? And, oh my god, painting on that paper, which is like, it just took the paint
+
+00:48:20.320 --> 00:48:27.415
+Mia: and it just looked amazing, and it was so much easier. I was like, um, this is a nice
+
+00:48:27.415 --> 00:48:28.435
+Mia: experience.
+
+00:48:28.700 --> 00:48:28.760
+Nic: Yeah,
+
+00:48:31.220 --> 00:48:35.120
+Mia: I've been using the Faber-Castell watercolor pads for the animation for the
+
+00:48:35.210 --> 00:48:40.130
+Mia: game. I haven't been punishing myself by using regular notepaper. It's not quite
+
+00:48:40.190 --> 00:48:42.400
+Mia: as nice as the Moleskine sketchbook paper, though.
+
+00:48:46.840 --> 00:48:54.730
+Nic: I will suggest that if you want to up your game in the sketchbook world for
+
+00:48:54.790 --> 00:49:00.640
+Nic: watercolors, you might want to try the Hahnemühle 100% cotton sketchbook,
+
+00:49:00.760 --> 00:49:08.520
+Nic: because it is as much better from the Moleskine than the Moleskine is from cartridge
+
+00:49:08.640 --> 00:49:15.630
+Nic: paper. It is a world of difference. But anyway, that's just me geeking out.
+
+00:49:15.750 --> 00:49:15.870
+Nic: over
+
+00:49:17.610 --> 00:49:21.320
+Mia: I want to try the 100% cotton paper eventually, but I feel like I need to
+
+00:49:21.410 --> 00:49:22.490
+Mia: build up to that level.
+
+00:49:24.200 --> 00:49:31.250
+Nic: Well, that's the thing. At least for me, is that I was
+
+00:49:31.310 --> 00:49:36.650
+Nic: intimidated by using good, expensive paper. But when I started, I realized, oh
+
+00:49:36.710 --> 00:49:42.070
+Nic: my god, I'm so much better than I thought I was, and the results are a lot more
+
+00:49:42.160 --> 00:49:44.710
+Nic: pleasing, so it's less of a struggle.
+
+00:49:46.360 --> 00:49:49.690
+Mia: That makes a lot of sense. I think with me, this is something that I've
+
+00:49:49.780 --> 00:49:56.050
+Mia: learned to do. Um, like with ADHD and picking up hobbies perpetually, it's very easy to
+
+00:49:56.140 --> 00:50:02.370
+Mia: spend an awful lot of money. So I've put like parameters on myself, like, if
+
+00:50:02.430 --> 00:50:06.810
+Mia: I'm sticking with a hobby for x amount of time, I'm allowed to invest in some nice
+
+00:50:06.930 --> 00:50:11.760
+Mia: things for myself, like x amount of materials. I'm trying to resist the urge
+
+00:50:12.990 --> 00:50:16.470
+Mia: to go out and make a lot of purchases unless I know that I'm really in this for
+
+00:50:16.470 --> 00:50:17.100
+Mia: the long haul.
+
+00:50:17.310 --> 00:50:17.910
+Nic: That makes sense.
+
+00:50:18.870 --> 00:50:22.520
+Mia: yeah. And I wouldn't switch to different paper now for the game, because
+
+00:50:23.750 --> 00:50:27.080
+Mia: you need a level of consistency there. Maybe once the game is out I'll treat
+
+00:50:27.170 --> 00:50:30.050
+Mia: myself to a nice 100% cotton sketchbook.
+
+00:50:30.290 --> 00:50:34.550
+Nic: Yeah. Or for your private sketchbook that you show nobody
+
+00:50:34.610 --> 00:50:34.790
+Nic: else.
+
+00:50:35.900 --> 00:50:36.380
+Mia: Yeah. Maybe,
+
+00:50:36.800 --> 00:50:45.100
+Nic: yeah. What does your art and game making give you that nothing else does?
+
+00:50:48.190 --> 00:50:52.870
+Mia: I think that with the game making in particular, it gives you an
+
+00:50:52.930 --> 00:50:58.120
+Mia: amazing community. Like, I started getting into the games industry professionally by
+
+00:50:58.240 --> 00:51:03.360
+Mia: going to playtest parties and like seeing people's work in progress. And like, I
+
+00:51:03.450 --> 00:51:06.990
+Mia: think with game development in particular, it really gets you out of your comfort
+
+00:51:07.050 --> 00:51:11.160
+Mia: zone. And especially, it kind of forces you to kill any perfectionist tendencies that
+
+00:51:11.190 --> 00:51:15.990
+Mia: I think a lot of artists have, because you need to test if a game is viable before
+
+00:51:16.050 --> 00:51:19.770
+Mia: you invest potentially years into making it. If you want to sell it. If you're
+
+00:51:19.800 --> 00:51:23.780
+Mia: making something just for you and you don't plan on showing it to anyone, that's
+
+00:51:23.840 --> 00:51:24.620
+Mia: a completely different thing.
+
+00:51:25.040 --> 00:51:25.100
+Nic: Yeah.
+
+00:51:25.790 --> 00:51:29.030
+Mia: but I wanted to kind of test myself to see if I could make a game that I could
+
+00:51:29.060 --> 00:51:34.400
+Mia: release on Steam. And that forces you to go out and show people the gray box, just
+
+00:51:34.430 --> 00:51:38.900
+Mia: a graphite pencil where everything is, you know, blocky and looks a bit weird.
+
+00:51:39.410 --> 00:51:42.610
+Mia: Like, it forces you to show people that version of the game to see if you're onto
+
+00:51:42.700 --> 00:51:47.080
+Mia: something. And I think that's really, really helpful, because you're getting
+
+00:51:47.200 --> 00:51:51.520
+Mia: early feedback, you're kind of getting out of your own ego in terms of, like, I can't
+
+00:51:51.610 --> 00:51:55.630
+Mia: show this yet, it's not quite ready. And you're getting into the habit of talking
+
+00:51:55.690 --> 00:52:00.570
+Mia: about your process and your creative work with other people who are also doing the
+
+00:52:00.570 --> 00:52:03.900
+Mia: same thing. And it gives you confidence as well, because you get to see other
+
+00:52:03.960 --> 00:52:07.110
+Mia: people's work in progress. And it's like, okay, I can show this, because, you know,
+
+00:52:08.100 --> 00:52:11.880
+Mia: nobody is being, you know, oh, but that's not good enough, or that doesn't look
+
+00:52:12.000 --> 00:52:14.040
+Mia: right. Yeah. Everybody understands that it's a process.
+
+00:52:14.760 --> 00:52:22.010
+Nic: Yeah. Second-to-last question for you. Is there something we haven't
+
+00:52:22.010 --> 00:52:30.230
+Nic: discussed that you would like to discuss, as it relates to disability, creativity,
+
+00:52:30.680 --> 00:52:31.340
+Nic: game making?
+
+00:52:34.220 --> 00:52:40.130
+Mia: I think that the games industry in particular has got
+
+00:52:41.270 --> 00:52:44.560
+Mia: a lot of participation by an extremely, like, diverse kind of groups of
+
+00:52:44.590 --> 00:52:48.880
+Mia: people. Um, you get a lot of people with disabilities in the games
+
+00:52:48.940 --> 00:52:52.510
+Mia: industry. Um, you get a lot of people of, like, marginalized genders in the games
+
+00:52:52.570 --> 00:53:01.470
+Mia: industry. And I think everybody is very accepting, and people connect over being,
+
+00:53:01.920 --> 00:53:05.130
+Mia: like, a little bit weird. Because I think creatives are all a little bit weird. I
+
+00:53:05.220 --> 00:53:10.110
+Mia: feel like you have to be. Um, and just being a little bit of a rebel and a little bit of
+
+00:53:10.170 --> 00:53:17.640
+Mia: an outcast. And I think that it's a very, like, safe environment to kind of put
+
+00:53:17.670 --> 00:53:21.110
+Mia: yourself into, because I think there's a lot of stereotypes. You know, people
+
+00:53:21.170 --> 00:53:25.400
+Mia: think of gamers, they think of, like, 14-year- olds on Xbox Live playing Halo and
+
+00:53:25.490 --> 00:53:29.120
+Mia: like yelling slurs at each other. But if you go to like a play- test party in
+
+00:53:29.150 --> 00:53:35.120
+Mia: London, uh, the community is so vibrant and full of all different kinds of people, and
+
+00:53:35.120 --> 00:53:39.410
+Mia: is so welcoming and is so nice. And I think that that's been really, really good
+
+00:53:39.500 --> 00:53:44.590
+Mia: for me, because it's allowed me to connect with people who I can relate to, and in
+
+00:53:44.680 --> 00:53:47.500
+Mia: ways that I couldn't relate to people when I was working in corporate law.
+
+00:53:49.330 --> 00:53:55.090
+Nic: Thank you. Last question for you. Where can people find you? Where can
+
+00:53:55.210 --> 00:54:00.190
+Nic: people find your work? Uh, because I assume people are going to be as interested to
+
+00:54:00.220 --> 00:54:04.170
+Nic: discover this game that you're making and seeing your illustrations as I am.
+
+00:54:06.330 --> 00:54:10.800
+Mia: So, um, I post a lot about my game development on LinkedIn, so that's just
+
+00:54:10.800 --> 00:54:15.510
+Mia: me as Seljubac on LinkedIn. I'm really easy to find. Um, I'll post, I post about, you
+
+00:54:15.540 --> 00:54:20.790
+Mia: know, the work I do with other creatives as a lawyer, uh, on there. But I also will post
+
+00:54:20.820 --> 00:54:24.740
+Mia: about my game and the creative process and how things are going. Uh, I have an
+
+00:54:24.830 --> 00:54:29.330
+Mia: itch.io where there is an extremely early build of the game. It looks a lot better
+
+00:54:29.420 --> 00:54:32.540
+Mia: now than the version in there. But if you want to get like an insight into that
+
+00:54:33.020 --> 00:54:38.420
+Mia: super early process and what the game looked like six months in when I was first
+
+00:54:38.420 --> 00:54:45.040
+Mia: starting, uh, you can play that now. Uh, my itch.io profile is called S-A-L-Y-U-M-A-N-D-E-R, so
+
+00:54:45.190 --> 00:54:56.080
+Mia: like a salamander, but right, Salyumander. Um, and you can follow I Am the
+
+00:54:56.200 --> 00:54:59.800
+Mia: Cat on Steam, and you can wish-list it, and you'll be updated when the demo is
+
+00:54:59.890 --> 00:55:01.110
+Mia: out and when the final game is out.
+
+00:55:02.220 --> 00:55:03.990
+Nic: Thank you. This has been a great chat.
+
+00:55:04.800 --> 00:55:05.430
+Mia: Thank you very much.
+
+00:55:07.610 --> 00:55:13.970
+Nic: That's it. I'm Nic Steenhout. This is The Work Between. If this sounds like your
+
+00:55:13.970 --> 00:55:17.810
+Nic: kind of conversation, subscribe and I'll see you in the next episode.
+
+00:55:22.920 --> 00:55:22.980
+Mia: Bye.
