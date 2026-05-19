@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Mia Seljubac on watercolor and game development"
-published: false
+published: true
 type: podcast
 summary: "Mia Seljubac is a games lawyer who is building I Am the Cat, a cozy narrative game with fully hand-painted watercolor animation. Her visual style draws from illustrated children's books, and she animates every frame by hand on a light box. She talks about living with ADHD and a spinal injury and why she identifies as a maker who is disabled."
 
