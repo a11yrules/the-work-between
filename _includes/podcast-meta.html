@@ -14,11 +14,6 @@
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
     <meta property="og:type" content="{% if page.episode_type %}music.song{% else %}website{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
-    {% if page.artwork %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.artwork }}">
-    {% elsif site.podcast_artwork %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.podcast_artwork }}">
-    {% endif %}
     <meta property="og:site_name" content="{{ site.title }}">
     
     <!-- Twitter Card Meta Tags -->
