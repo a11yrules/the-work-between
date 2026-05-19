@@ -33,6 +33,7 @@ To prep for the show and before publishing an episode, I will need the following
 - A short bio
 - A high resolution quality head and shoulder photo of you
 - Alternate text to describe yourself in the photo. I can write this text, but I don't want to presume anything.
+- Your preferred pronouns
 
 ## Thank you
 
