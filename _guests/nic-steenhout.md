@@ -86,7 +86,7 @@ links:
 
 {% endif %}
 
-{% assign episodes = site.posts | where: "guest", "Nic Steenhout" %}
+{% assign episodes = site.posts | where: "guest", page.title %}
 {% if episodes.size > 0 %}
 ## Featured conversation
 
