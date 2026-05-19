@@ -18,6 +18,7 @@ tags:
 - photography
 - sketching
 - digital-accessibility
+- watercolor
 
 links:
   - label: "Business website"
