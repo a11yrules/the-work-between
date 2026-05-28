@@ -4,7 +4,7 @@ title: "Dr. Alessondra Springmann"
 first_name: Alessondra
 last_name: Springmann
 image: /img/guest/alessondra-springmann.jpg
-image_alt: "A young woman with long dark brown hair and a smile."
+image_alt: "A woman with long hair. She's smiling and wearing heavy duty headset."
 tagline: "Planetary scientist and quilter"
 discipline: "Quilting"
 short_bio: "Dr. Alessondra “Sondy” Springmann is a planetary scientist and quilter who turns secondhand fabrics and worn work clothes into quilts that preserve stories, memories, and history."
