@@ -15,11 +15,7 @@
     <!-- Twitter Card Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:description" content="{% if page.summary %}{{ page.summary | strip_html }}{% else %}{{ site.description }}{% endif %}">
-    {% if page.artwork %}
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ page.artwork }}">
-    {% elsif site.podcast_artwork %}
-    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}{{ site.podcast_artwork }}">
-    {% endif %}
+    <meta name="twitter:image" content="{{ social_image_url }}">
     
     <!-- Audio/Podcast Specific Meta Tags -->
     {% if page.audio_url or page.audio_file %}
