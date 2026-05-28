@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Dr. Alessondra Springmann on quilting"
-published: false
+published: true
 type: podcast
 summary: "Planetary scientist Sondy Springmann turns worn-out clothes into quilts, combining secondhand materials, ninety-year-old sewing machines, and modern technology in unexpected ways. Along the way, we explore disability, creativity, community, and the problem-solving mindset that comes from living in a world that wasn’t designed for you."
 
