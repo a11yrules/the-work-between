@@ -40,7 +40,7 @@
 </script>
 
 <!-- Social call outs-->
-{% if page.layout == "podcast" and page.episode_image_linkedin %}
+{% if page.type == "podcast" and page.episode_image_linkedin %}
   {% assign og_image = page.episode_image_linkedin %}
 {% else %}
   {% assign og_image = "/img/covers/covers-the-work-between-linkedin.jpg" %}
