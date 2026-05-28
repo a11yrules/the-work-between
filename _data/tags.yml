@@ -33,3 +33,19 @@
 - slug: spinal-injury
   label: Spinal injury
   description: "Guests and episodes discussing spinal injury, disability, and how lived experience intersects with creative practice."
+
+- slug: inflammatory-bowel-disease
+  label: Inflammatory bowel disease
+  description: "Guests and episodes discussing inflammatory bowel disease and how chronic illness can shape creative work."
+
+- slug: repetitive-strain-injury
+  label: Repetitive strain injury
+  description: "Guests and episodes discussing repetitive strain injury, access needs, and adapting creative practice."
+
+- slug: chronic-headaches
+  label: Chronic headaches
+  description: "Guests and episodes discussing chronic headaches, disability, and sustaining creative work through fluctuating symptoms."
+
+- slug: laryngopharyngeal-reflux
+  label: Laryngopharyngeal reflux
+  description: "Guests and episodes discussing laryngopharyngeal reflux and how chronic health conditions influence creative routines."
