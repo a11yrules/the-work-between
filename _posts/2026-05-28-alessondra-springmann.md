@@ -25,9 +25,9 @@ duration_formatted: "1:03:35"
 series: "The Work Between"
 
 # Episode Artwork
-cover_art: /img/covers/show-02-sondy-springmann-3000.jpg
-local_cover_art: /img/covers/show-02-sondy-springmann-800.jpg
-episode_image_linkedin: /img/covers/show-02-sondy-springmann-linkedin.jpg
+cover_art: /img/covers/show-2-sondy-springmann-3000.jpg
+local_cover_art: /img/covers/show-2-sondy-springmann-800.jpg
+episode_image_linkedin: /img/covers/show-2-sondy-springmann-linkedin.jpg
 
 topics: ["Quilting"]
 
