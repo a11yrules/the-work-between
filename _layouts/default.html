@@ -52,7 +52,7 @@
 <meta property="og:image:alt" content="The Work Between podcast cover art" />
 <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="{% if page.type == 'podcast' %}article{% else %}website{% endif %}" />
 
     
   </head>
