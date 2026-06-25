@@ -1,5 +1,3 @@
-### Comics, Urban Sketching, and Being a Verb, Not a Noun with Róisín Curé
-
 Róisín Curé is an urban sketcher, author, and teacher based in Galway, on the west coast of Ireland. After years of struggling to put a label on what she does, she has recently started identifying as a comics creator, and she has launched Wild Atlantic Ink, a monthly hand-drawn comic rooted in the wildlife, landscape, and stories of her corner of Ireland.
 
 In this conversation, comics and sketching open the door to bigger questions about identity, mental health, and how a long creative practice actually gets built. Róisín describes her new comic as what you might get if Hergé met David Attenborough and the two of them drove off in a clown car together. She means it. The Ligne Claire of Tintin, a deep passion for nature, and a refusal to take herself too seriously all sit side by side on the page.
