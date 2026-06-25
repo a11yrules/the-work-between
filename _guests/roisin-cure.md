@@ -1,6 +1,6 @@
 ---
 layout: guest
-published: false
+published: true
 title: "Róisín Curé"
 first_name: Róisín
 last_name: Curé

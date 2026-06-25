@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Róisín Curé on comics and urban sketching"
-published: false
+published: true
 type: podcast
 summary: "Róisín Curé talks about finally calling herself a comics creator after years of resisting labels, and about her new monthly comic Wild Atlantic Ink. The conversation moves through drawing from life versus photos, what years of sketching built in her hands, and the calm that sketching brings to a mind that has long carried melancholy. It ends up somewhere unexpected, with foraged food and homemade bread."
 
@@ -33,7 +33,7 @@ topics: ["Comics", "Urban Sketching", "PTSD"]
 
 guest: "Róisín Curé"
 
-date: 2026-06-25
+date: 2026-06-24
 
 # Author/Host
 author: "Nic Steenhout"
