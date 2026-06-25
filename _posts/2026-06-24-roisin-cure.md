@@ -29,7 +29,7 @@ cover_art: /img/covers/show-03-roisin-cure-3000.jpg
 local_cover_art: /img/covers/show-03-roisin-cure-800.jpg
 episode_image_linkedin: /img/covers/show-03-roisin-cure-linkedin.jpg
 
-topics: ["Comics", "Urban Sketching", "PTSD"]
+topics: ["Comics", "Urban Sketching"]
 
 guest: "Róisín Curé"
 

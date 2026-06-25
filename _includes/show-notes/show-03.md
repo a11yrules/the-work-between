@@ -34,3 +34,4 @@ Róisín Curé is an urban sketcher, author, and teacher based in Galway, Irelan
 - [Róisín Curé's website](https://roisincure.com)
 - [Wild Atlantic Ink](https://roisincure.com/welcome-to-wild-atlantic-ink/)
 - [Róisín Curé on Instagram](https://www.instagram.com/roisincure/)
+- [Róisín Curé on YouTube](https://www.youtube.com/@roisincure)
