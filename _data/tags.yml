@@ -49,3 +49,23 @@
 - slug: laryngopharyngeal-reflux
   label: Laryngopharyngeal reflux
   description: "Guests and episodes discussing laryngopharyngeal reflux and how chronic health conditions influence creative routines."
+
+- slug: comics
+  label: Comics
+  description: "Guests and episodes exploring comics as storytelling, visual language, and long-term creative practice."
+
+- slug: urban-sketching
+  label: Urban sketching
+  description: "Guests and episodes about urban sketching, drawing on location, and building an observational practice in public spaces."
+
+- slug: ptsd
+  label: PTSD
+  description: "Guests and episodes discussing PTSD and how trauma-informed adaptations can shape creative work."
+
+- slug: ireland
+  label: Ireland
+  description: "Guests and episodes connected to Ireland, including place-based creative practice and local contexts."
+
+- slug: nature
+  label: Nature
+  description: "Guests and episodes exploring nature as subject matter, influence, and source of creative process."
