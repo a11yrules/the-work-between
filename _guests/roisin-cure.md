@@ -9,7 +9,7 @@ image_alt: "A woman with long hair. She's smiling and holding a small shaggy dog
 tagline: "Comics artist and urban sketcher"
 discipline: "Comics and sketching"
 short_bio: "Róisín Curé is a Comics artist, an urban sketcher, author, and teacher based in Galway, Ireland. She teaches sketching worldwide and has published several books. Her current project is Wild Atlantic Ink, a monthly hand-drawn comic."
-long_bio: "Róisín Curé is an urban sketcher, author, and teacher based in Galway, Ireland. She came to urban sketching in 2012 and built a practice around capturing everyday and natural scenes in ink and watercolour. She co-founded Urban Sketchers Galway, teaches sketching worldwide through online classes and in-person workshops, and has published illustrated books including An Urban Sketcher's Galway and The Urban Sketching Handbook: Drawing Expressive People. Her current project is Wild Atlantic Ink, a monthly hand-drawn comic."
+long_bio: "Róisín Curé is an urban sketcher, author, and teacher based in Galway, Ireland. She came to urban sketching in 2012 and built a practice around capturing everyday and natural scenes in ink and watercolour. She teaches sketching worldwide through online classes and in-person workshops, and has published illustrated books including An Urban Sketcher's Galway and The Urban Sketching Handbook: Drawing Expressive People. Her current project is Wild Atlantic Ink, a monthly hand-drawn comic."
 
 intro_copy: 
 quote_1: "In urban sketching they say draw verbs not nouns. I would say I'm a verb, I'm not a noun. I'm a doing. I'm not a being."
