@@ -1,6 +1,6 @@
 ---
 layout: guest
-published: false
+published: true
 title: "Soren Hamby"
 first_name: Soren
 last_name: Hamby

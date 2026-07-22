@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Soren Hamby on poetry and fiber arts"
-published: false
+published: true
 type: podcast
 summary: "Soren Hamby, poet and disability rights advocate, talks poetry as necessity and expression, the craft of specificity and editing, and living with vision loss and late-diagnosed neurodivergence. A candid look at writing as self-reflection, advocacy, and a way to make disability's realities understood."
 
