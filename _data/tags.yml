@@ -69,3 +69,23 @@
 - slug: nature
   label: Nature
   description: "Guests and episodes exploring nature as subject matter, influence, and source of creative process."
+
+- slug: poetry
+  label: Poetry
+  description: "Guests and episodes exploring poetry as craft, practice, and a way of making sense of experience."
+
+- slug: vision-loss
+  label: Vision loss
+  description: "Guests and episodes discussing vision loss, disability, and how sight changes shape creative practice and daily life."
+
+- slug: neurodivergence
+  label: Neurodivergence
+  description: "Guests and episodes discussing neurodivergence and how thinking and processing differences intersect with creative work."
+
+- slug: fiber-arts
+  label: Fiber arts
+  description: "Guests and episodes exploring fiber arts — knitting, crochet, weaving, and the tactile, meditative work of making with yarn and thread."
+
+- slug: lgbtq+
+  label: LGBTQ+
+  description: "Guests and episodes where LGBTQ+ identity and experience intersect with creative practice and working life."
