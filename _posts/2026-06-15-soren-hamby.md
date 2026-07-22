@@ -1,25 +1,25 @@
 ---
 layout: podcast
-title: ""
+title: "Soren Hamby on poetry and fiber arts"
 published: false
 type: podcast
-summary: ""
+summary: "Soren Hamby, poet and disability rights advocate, talks poetry as necessity and expression, the craft of specificity and editing, and living with vision loss and late-diagnosed neurodivergence. A candid look at writing as self-reflection, advocacy, and a way to make disability's realities understood."
 
-permalink: /episodes/dr-alessondra-springmann-on-quilting/
+permalink: /episodes/soren-hamby-on-poetry/
 # Podcast Episode Metadata
 episode_type: full
 episode_number: 04
 
 # Audio Information
-audio_file: 02-sondy-springmann-quilting.mp3
+audio_file: 04-soren-hamby-poetry.mp3
 audio_type: "audio/mpeg"
-file_size: 152612048 # file size in bytes (required for podcast aggregators)
-transcript_vtt: /assets/transcripts/show-03.vtt
-transcript: transcripts/show-03.html
+file_size: 134445404 # file size in bytes (required for podcast aggregators)
+transcript_vtt: /assets/transcripts/show-04.vtt
+transcript: transcripts/show-04.html
 
 # Duration
-duration: "PT1H03M35S"
-duration_formatted: "1:03:35"
+duration: "PT55M01S"
+duration_formatted: "56:01"
 
 # Series
 series: "The Work Between"
@@ -29,11 +29,11 @@ cover_art: /img/covers/show-3-soren-hamby-3000.jpg
 local_cover_art: /img/covers/show-3-soren-hamby-800.jpg
 episode_image_linkedin: /img/covers/show-3-soren-hamby-linkedin.jpg
 
-topics: ["Quilting"]
+topics: ["Poetry and fiber arts"]
 
 guest: "Soren Hamby"
 
-date: 2026-05-28
+date: 2026-07-22
 
 # Author/Host
 author: "Nic Steenhout"
@@ -41,10 +41,14 @@ author: "Nic Steenhout"
 # Content Rating
 explicit: false
 
-show-notes: /show-notes/show-03.md
+show-notes: /show-notes/show-04.md
 # Categories/Tags
 tags:
-- 
+- poetry
+- vision-loss
+- neurodivergence
+- fiber-arts
+- lgbtq+
 ---
 
 <details>
