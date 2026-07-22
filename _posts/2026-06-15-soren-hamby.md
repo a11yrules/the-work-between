@@ -25,9 +25,9 @@ duration_formatted: "56:01"
 series: "The Work Between"
 
 # Episode Artwork
-cover_art: /img/covers/show-3-soren-hamby-3000.jpg
-local_cover_art: /img/covers/show-3-soren-hamby-800.jpg
-episode_image_linkedin: /img/covers/show-3-soren-hamby-linkedin.jpg
+cover_art: /img/covers/show-04-soren-hamby-3000.jpg
+local_cover_art: /img/covers/show-04-soren-hamby-800.jpg
+episode_image_linkedin: /img/covers/show-04-soren-hamby-linkedin.jpg
 
 topics: ["Poetry and fiber arts"]
 
