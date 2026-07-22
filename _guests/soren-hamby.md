@@ -4,19 +4,22 @@ published: false
 title: "Soren Hamby"
 first_name: Soren
 last_name: Hamby
-image: /img/guest/alessondra-springmann.jpg
-image_alt: ""
-tagline: ""
-discipline: ""
-short_bio: ""
-long_bio: "Soren Hamby is an artist and advocate who survives under capitalism as an accessibility and product equity designer. Their natural state is to build systems, frameworks, and communities, and to challenge the hidden structures that determine inclusion. They live in New York’s lower Hudson Valley on unceded Ramapough Lenape land, reshaping perceptions of living with multiple disabilities and intersecting identities. When they’re not busy with small goals like changing the world, you’ll find them painting, doing fiber arts, writing poetry, or collecting different ways of making and creating, which they see as essential human needs.
-"
+image: /img/guest/soren-hamby.jpg
+image_alt: "Soren, a nonbinary person with short gray hair and pale skin, wearing glasses and a black shirt, smiling brightly with an upturned face, radiating sparkling optimism"
+tagline: "Poet and fiber artist"
+discipline: "Poetry, Crochetting, Knitting"
+short_bio: "Soren Hamby is an artist, advocate, and accessibility and product equity designer who challenges hidden structures around inclusion while living with multiple disabilities. Outside of work, they paint, write poetry, and do fiber arts."
+long_bio: "Soren Hamby is an artist and advocate who survives under capitalism as an accessibility and product equity designer. Their natural state is to build systems, frameworks, and communities, and to challenge the hidden structures that determine inclusion. They live in New York’s lower Hudson Valley on unceded Ramapough Lenape land, reshaping perceptions of living with multiple disabilities and intersecting identities. When they’re not busy with small goals like changing the world, you’ll find them painting, doing fiber arts, writing poetry, or collecting different ways of making and creating, which they see as essential human needs."
 intro_copy: 
-quote_1: ""
-quote_2: ""
-quote_3: "."
+quote_1: "I think doubting is part of the process. I think if you're ever sure of anything, then you're probably wrong."
+quote_2: "Disability... is a completely neutral thing, like water. It is just there. It can be good and can shape my life in ways that I never thought it would. It can also—too much of it can be a lot to carry."
+quote_3: "When I'm editing a poem, I don't just write it down and then it's done. I write it. I sit there. I edit it. I probably edit it again. I edit it with one person. Then I take it to a writing group... so it probably goes through three to four rounds before it ever would see a stranger's eyes or ears."
 tags:
-- 
+- poetry
+- vision-loss
+- neurodivergence
+- fiber-arts
+- lgbtq+
 
 
 ---
