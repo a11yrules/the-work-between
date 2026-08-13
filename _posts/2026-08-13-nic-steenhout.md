@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Nic Steenhout on quilting, sketching, and photography"
-published: true
+published: false
 type: podcast
 summary: "Mark Miller turns the tables and interviews Nic about his own creative practice. They talk about sketching, quilting and bird photography, why making things helps quiet Nic’s mind, and why the process matters more to him than the finished work. The conversation also touches on martial arts, self-criticism, vulnerability, and wanting to be seen as more than the disabled accessibility guy."
 
