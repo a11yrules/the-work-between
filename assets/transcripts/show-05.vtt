@@ -1,0 +1,3679 @@
+WEBVTT
+
+1
+00:00:00.390 --> 00:00:17.520
+<v Nic>Hi, I'm Nic Steenhout, and
+this is the work between. In
+
+2
+00:00:17.640 --> 00:00:21.170
+<v Nic>case you didn't know, I provide
+transcript reviewed for accuracy
+
+3
+00:00:21.290 --> 00:00:26.300
+<v Nic>by a human for every episode at
+the time of publishing. There's
+
+4
+00:00:26.390 --> 00:00:29.660
+<v Nic>a text-only transcript that you
+could read if audio isn't abyss
+
+5
+00:00:29.780 --> 00:00:33.410
+<v Nic>media for you. There's also a
+time transcript you can follow
+
+6
+00:00:33.470 --> 00:00:37.400
+<v Nic>along while listening if that
+works better for you. You can
+
+7
+00:00:37.490 --> 00:00:40.930
+<v Nic>access those directly on the
+podcast's website if they aren't
+
+8
+00:00:40.960 --> 00:00:44.350
+<v Nic>displayed by your podcast
+aggregator, that's the
+
+9
+00:00:44.650 --> 00:00:52.150
+<v Nic>workbetween dot show. Before I
+get into what the show is, I
+
+10
+00:00:52.210 --> 00:00:56.980
+<v Nic>want to say whose land it's made
+on. This podcast is recorded on
+
+11
+00:00:57.220 --> 00:01:01.500
+<v Nic>the traditional, ancestral, and
+unceded territory of the Stolo
+
+12
+00:01:01.680 --> 00:01:06.300
+<v Nic>Coast Salish people, the people
+of the river, whose presence in
+
+13
+00:01:06.360 --> 00:01:10.620
+<v Nic>the Fraser Valley stretches back
+1000s of years. I name this
+
+14
+00:01:10.740 --> 00:01:13.500
+<v Nic>territory because it belongs
+with what this show is about:
+
+15
+00:01:14.580 --> 00:01:18.510
+<v Nic>the ways we decide whose lives
+are valued, whose work is taken
+
+16
+00:01:18.600 --> 00:01:22.760
+<v Nic>seriously, and whose experiences
+are treated as problems to be
+
+17
+00:01:22.880 --> 00:01:28.640
+<v Nic>managed. Those decisions shape
+everything. This show sits
+
+18
+00:01:28.700 --> 00:01:34.460
+<v Nic>inside that. This is, was, and
+always will be First Nations
+
+19
+00:01:34.580 --> 00:01:39.230
+<v Nic>land. That's not a formality.
+It's consistent with everything
+
+20
+00:01:39.680 --> 00:01:51.640
+<v Nic>I, and this show stand for. My
+guest today is me. A couple
+
+21
+00:01:51.730 --> 00:01:54.250
+<v Nic>people told me they'd be
+interested to learn more about
+
+22
+00:01:54.340 --> 00:01:59.800
+<v Nic>my creative processes. I thought
+about it, and concluded it could
+
+23
+00:01:59.830 --> 00:02:03.990
+<v Nic>be fun to have me as a guest on
+my own show. To make it more
+
+24
+00:02:04.020 --> 00:02:07.230
+<v Nic>interesting, I invited a friend
+and colleague to be the
+
+25
+00:02:07.380 --> 00:02:12.210
+<v Nic>interviewer. Mark Miller is
+someone who, like me, works in
+
+26
+00:02:12.300 --> 00:02:16.200
+<v Nic>digital accessibility and
+inclusion. He is a photographer
+
+27
+00:02:16.890 --> 00:02:22.790
+<v Nic>and majored in art. He also is a
+martial artist, and he co-hosts
+
+28
+00:02:23.270 --> 00:02:28.220
+<v Nic>the Inclusion Impact podcast. I
+have tremendous respect for him,
+
+29
+00:02:28.580 --> 00:02:33.050
+<v Nic>and was chuffed when he accepted
+to play this game. I gave Mark
+
+30
+00:02:33.620 --> 00:02:37.100
+<v Nic>carte blanche. I didn't know
+what questions he was going to
+
+31
+00:02:37.220 --> 00:02:41.230
+<v Nic>ask or what direction he was
+going to take. It was great fun,
+
+32
+00:02:41.950 --> 00:02:44.560
+<v Nic>and I hope you enjoy our
+discussion as much as we did.
+
+33
+00:02:49.570 --> 00:02:53.260
+<v Nic>Mark, thank you so much for
+being a good sport and agreeing
+
+34
+00:02:53.440 --> 00:02:56.860
+<v Nic>to play the role of the host for
+this episode.
+
+35
+00:02:58.360 --> 00:03:02.520
+<v Mark>You are very welcome, and
+I want to thank you for inviting
+
+36
+00:03:02.550 --> 00:03:06.630
+<v Mark>me to do that. It's it's
+honestly an honor. I think you
+
+37
+00:03:06.690 --> 00:03:11.220
+<v Mark>and I have long been fans of
+each other's content, so for you
+
+38
+00:03:11.280 --> 00:03:14.310
+<v Mark>to think enough of me to invite
+me in is a huge honor, and I
+
+39
+00:03:14.370 --> 00:03:18.240
+<v Mark>really appreciate it. And I'm
+very excited for this
+
+40
+00:03:18.330 --> 00:03:23.810
+<v Mark>opportunity to get into your
+brain a little bit, and not not
+
+41
+00:03:23.870 --> 00:03:26.870
+<v Mark>just around this accessibility
+subject that you and I tend to
+
+42
+00:03:26.930 --> 00:03:30.200
+<v Mark>talk a lot about, but to
+understand you, your art, your
+
+43
+00:03:30.260 --> 00:03:34.520
+<v Mark>creative process, all these
+really cool things that you and
+
+44
+00:03:34.610 --> 00:03:37.790
+<v Mark>I haven't had a chance to really
+dig into quite as much yet. So
+
+45
+00:03:37.910 --> 00:03:42.400
+<v Mark>this is this is going to be
+great. On that note, why don't
+
+46
+00:03:42.400 --> 00:03:46.390
+<v Mark>we get started right away and
+just tell me a little bit about
+
+47
+00:03:47.560 --> 00:03:52.480
+<v Mark>the artwork that you do and what
+you know your processes around
+
+48
+00:03:55.420 --> 00:03:55.510
+<v Mark>it?
+
+49
+00:03:55.780 --> 00:03:59.110
+<v Nic>I would say I'm a serial
+hobbyist. Over the years, I've
+
+50
+00:03:59.230 --> 00:04:04.320
+<v Nic>tried so many things, from
+leatherworking to bone carving
+
+51
+00:04:04.710 --> 00:04:13.590
+<v Nic>to wool felting, but I would say
+the three main creative
+
+52
+00:04:13.650 --> 00:04:18.030
+<v Nic>endeavors that I'm doing
+regularly and that are sustained
+
+53
+00:04:18.360 --> 00:04:23.960
+<v Nic>are around wildlife photography,
+particularly birds, around
+
+54
+00:04:24.080 --> 00:04:28.220
+<v Nic>quilting and around watercolor
+and sketching.
+
+55
+00:04:31.700 --> 00:04:36.890
+<v Mark>What would you say? Like,
+you know, at heart you seem to
+
+56
+00:04:36.920 --> 00:04:41.300
+<v Mark>be a maker, right? And you're
+getting your hands into anything
+
+57
+00:04:41.480 --> 00:04:44.680
+<v Mark>where you can express yourself
+creatively. What through that
+
+58
+00:04:44.740 --> 00:04:47.860
+<v Mark>process? What caused you to land
+on these three three things as
+
+59
+00:04:47.920 --> 00:04:48.970
+<v Mark>your primary outlets?
+
+60
+00:04:52.000 --> 00:04:58.690
+<v Nic>You know, I'm not too sure.
+Maybe in parts is if you try
+
+61
+00:04:58.690 --> 00:05:01.690
+<v Nic>enough pair of shoes, you're
+gonna find one that actually
+
+62
+00:05:01.690 --> 00:05:09.010
+<v Nic>feels comfortable, but also, if
+I think around the sketching and
+
+63
+00:05:09.010 --> 00:05:13.930
+<v Nic>the watercolor, I know if I go
+back as far back as being 7, 8,
+
+64
+00:05:14.020 --> 00:05:19.885
+<v Nic>9, I always wanted to do drawing
+and painting. My parents even
+
+65
+00:05:19.885 --> 00:05:24.895
+<v Nic>gave me an oil painting kit. My
+grandfather built an easel for
+
+66
+00:05:24.895 --> 00:05:29.575
+<v Nic>me, and I gave up at the time
+because it was too hard. My
+
+67
+00:05:29.575 --> 00:05:33.085
+<v Nic>cousin, who was a couple years
+older, did stuff that I thought,
+
+68
+00:05:33.085 --> 00:05:36.685
+<v Nic>"Oh, it's so wonderful! I'll
+never be able to do as good,"
+
+69
+00:05:36.685 --> 00:05:43.780
+<v Nic>and I kind of gave up. So over
+over the period of my long and
+
+70
+00:05:43.780 --> 00:05:49.840
+<v Nic>venerable life, I've come back
+over and over and over again to
+
+71
+00:05:49.840 --> 00:05:55.210
+<v Nic>painting, and suddenly I
+decided, well, okay, enough is
+
+72
+00:05:55.210 --> 00:05:58.240
+<v Nic>enough. I'm gonna actually do
+the hard work. I'm gonna do the
+
+73
+00:05:58.240 --> 00:06:02.305
+<v Nic>practice. People say, "Oh, Nic,
+you have talent." No, I don't. I
+
+74
+00:06:02.305 --> 00:06:05.965
+<v Nic>have zero talent. There's not a
+talented bone in my body. It's
+
+75
+00:06:05.965 --> 00:06:14.845
+<v Nic>all about perseverance and skill
+building. Around sewing and and
+
+76
+00:06:14.845 --> 00:06:21.625
+<v Nic>quilting is a little bit similar
+that my mother taught me how to
+
+77
+00:06:21.625 --> 00:06:27.820
+<v Nic>do sewing when I was a kid using
+her old Singer sewing machine.
+
+78
+00:06:27.820 --> 00:06:30.940
+<v Nic>It was really more about being
+self-sufficient and being able
+
+79
+00:06:30.940 --> 00:06:35.440
+<v Nic>to mend my clothes more than
+anything. But I had that
+
+80
+00:06:35.440 --> 00:06:40.210
+<v Nic>exposure back then, and then I
+worked with leather, doing hand
+
+81
+00:06:40.210 --> 00:06:44.650
+<v Nic>sewing leather, and I don't
+know. It kind of evolved in when
+
+82
+00:06:44.650 --> 00:06:49.555
+<v Nic>I started doing quilting with
+fabric. It kind of like the
+
+83
+00:06:49.555 --> 00:06:53.725
+<v Nic>piece of puzzle came together.
+And photography. Well, I've been
+
+84
+00:06:53.725 --> 00:06:58.555
+<v Nic>playing with photography on and
+off since I was a teenager, and
+
+85
+00:06:58.555 --> 00:07:03.355
+<v Nic>always wanted to do wildlife,
+but never really had the funds
+
+86
+00:07:03.355 --> 00:07:07.285
+<v Nic>to have the gear that would
+allow me to do half decent
+
+87
+00:07:07.285 --> 00:07:12.310
+<v Nic>shots. And and as I get older,
+that became a little bit easier.
+
+88
+00:07:12.340 --> 00:07:16.210
+<v Nic>But it's certainly not a cheap
+hobby. So once you get your
+
+89
+00:07:16.210 --> 00:07:19.900
+<v Nic>gear, you you keep the gear and
+and work it to death.
+
+90
+00:07:21.720 --> 00:07:24.290
+<v Mark>You know when I when I
+first asked you this question,
+
+91
+00:07:26.330 --> 00:07:28.490
+<v Mark>you sort of gave I think the
+most interesting answer, and
+
+92
+00:07:28.490 --> 00:07:32.690
+<v Mark>that was I don't know I don't
+know why I landed these things,
+
+93
+00:07:32.780 --> 00:07:35.090
+<v Mark>and then and then of course you
+went through to clarify, but the
+
+94
+00:07:35.180 --> 00:07:37.250
+<v Mark>reason why that's interesting to
+me is because I think it's an
+
+95
+00:07:37.310 --> 00:07:40.160
+<v Mark>honest answer, right? Like if if
+you had asked me that question,
+
+96
+00:07:40.760 --> 00:07:45.130
+<v Mark>I I don't know that I could have
+articulated out of the gate why
+
+97
+00:07:46.690 --> 00:07:49.660
+<v Mark>I've chosen the things I've
+chose, and it just goes to to
+
+98
+00:07:50.380 --> 00:07:54.760
+<v Mark>show that art is a lot about
+self exploration. The reason why
+
+99
+00:07:54.880 --> 00:08:00.220
+<v Mark>you may not have an answer is
+because in some undefinable way
+
+100
+00:08:00.850 --> 00:08:05.130
+<v Mark>that art is working inside of
+you to do to do something. So,
+
+101
+00:08:05.610 --> 00:08:10.590
+<v Mark>what I'm curious about thinking
+about that, Nic, and you know
+
+102
+00:08:10.710 --> 00:08:13.830
+<v Mark>the the subject that you and I
+do cross a lot is accessibility
+
+103
+00:08:14.130 --> 00:08:17.850
+<v Mark>and and disabilities. And I have
+to feel I feel like there has to
+
+104
+00:08:17.880 --> 00:08:21.890
+<v Mark>be some sort of a connection
+between you know disability,
+
+105
+00:08:22.220 --> 00:08:27.050
+<v Mark>your work and accessibility, and
+that internal fulfillment and
+
+106
+00:08:27.110 --> 00:08:31.820
+<v Mark>exploration and and discovery in
+all those things that art gives
+
+107
+00:08:31.940 --> 00:08:35.120
+<v Mark>you. Do you find that it
+connects those parts of your
+
+108
+00:08:35.210 --> 00:08:38.660
+<v Mark>life, or is connected to those
+parts of your life, or are they
+
+109
+00:08:38.780 --> 00:08:40.040
+<v Mark>really independent things for
+you?
+
+110
+00:08:43.660 --> 00:08:47.350
+<v Nic>Well, they're connected
+because it's all about me. I
+
+111
+00:08:47.350 --> 00:08:50.620
+<v Nic>mean, I'm not saying that
+because oh, look at me-it's all
+
+112
+00:08:50.620 --> 00:08:56.320
+<v Nic>about me. But it really is part
+of who I am and what I do. So,
+
+113
+00:08:56.320 --> 00:08:59.290
+<v Nic>in that sense, they're
+connected. But I think I'm
+
+114
+00:08:59.290 --> 00:09:06.280
+<v Nic>feeding very different aspects
+of my self with the creative
+
+115
+00:09:06.280 --> 00:09:14.425
+<v Nic>processes I do for enjoyment and
+the work I do in accessibility.
+
+116
+00:09:14.425 --> 00:09:17.605
+<v Nic>There's a certain level of
+creativity, I think, around
+
+117
+00:09:17.605 --> 00:09:21.835
+<v Nic>accessibility where you have to
+put your thinking cap on, and
+
+118
+00:09:21.835 --> 00:09:24.835
+<v Nic>no, you you have a problem, and
+you try to solve it, and you
+
+119
+00:09:24.835 --> 00:09:29.980
+<v Nic>figure it out, you nut it out.
+But for me, accessibility work
+
+120
+00:09:29.980 --> 00:09:37.180
+<v Nic>is a lot more about making the
+outside world better for other
+
+121
+00:09:37.180 --> 00:09:45.100
+<v Nic>people, whereas my creative
+processes is about making me
+
+122
+00:09:45.130 --> 00:09:45.550
+<v Nic>better.
+
+123
+00:09:46.990 --> 00:09:48.220
+<v Mark>It's a great way to frame
+it.
+
+124
+00:09:48.610 --> 00:09:51.610
+<v Nic>So it's it's backward
+looking and inward looking.
+
+125
+00:09:52.990 --> 00:09:54.910
+<v Mark>Well, and then it seems to
+me that there's a bit of, and
+
+126
+00:09:54.910 --> 00:09:57.730
+<v Mark>this is just my observation of
+you, Nic, but that there's a bit
+
+127
+00:09:57.760 --> 00:10:01.080
+<v Mark>of an event horizon between
+those two. Things that comes in
+
+128
+00:10:01.680 --> 00:10:04.350
+<v Mark>the form of some of the content
+that you create for the
+
+129
+00:10:04.470 --> 00:10:10.110
+<v Mark>accessibility industry, you
+leverage that your deep ability
+
+130
+00:10:10.260 --> 00:10:14.340
+<v Mark>to create and to, you know, I
+think when you create, you can
+
+131
+00:10:14.640 --> 00:10:17.490
+<v Mark>bring things together. You
+particularly have a talent for
+
+132
+00:10:19.770 --> 00:10:26.000
+<v Mark>for explaining complex subjects
+to people who may not be deep
+
+133
+00:10:26.090 --> 00:10:29.060
+<v Mark>into that subject, but I think
+that when you create that
+
+134
+00:10:29.240 --> 00:10:34.850
+<v Mark>content, I can see that creative
+nature in you as a component to
+
+135
+00:10:34.940 --> 00:10:38.000
+<v Mark>that. So to me, that would be
+that that that event horizon.
+
+136
+00:10:38.540 --> 00:10:42.040
+<v Mark>But it sounds like when you view
+it for yourself, you really look
+
+137
+00:10:42.220 --> 00:10:46.960
+<v Mark>at it as something that is maybe
+a break from what you would
+
+138
+00:10:47.020 --> 00:10:50.950
+<v Mark>consider to be a professional.
+Like that's another way to work
+
+139
+00:10:50.950 --> 00:10:51.850
+<v Mark>the brain. Is that a fair?
+
+140
+00:10:52.720 --> 00:10:59.770
+<v Nic>Yeah, absolutely. As
+someone who is disabled, working
+
+141
+00:10:59.860 --> 00:11:05.970
+<v Nic>in the field of accessibility. I
+used to joke that accessibility
+
+142
+00:11:06.150 --> 00:11:11.460
+<v Nic>work is not a job; it's a
+lifestyle, and and in many ways,
+
+143
+00:11:12.600 --> 00:11:18.090
+<v Nic>I can't not need a ramp when I
+go to the store when it's after
+
+144
+00:11:18.210 --> 00:11:23.600
+<v Nic>5p.m. and I've stopped working.
+So, accessibility. I always need
+
+145
+00:11:23.720 --> 00:11:33.980
+<v Nic>to advocate for that. The
+sketching, the photography, the
+
+146
+00:11:33.980 --> 00:11:41.890
+<v Nic>the quilting is for me a way to
+do things away from that. It's a
+
+147
+00:11:41.980 --> 00:11:48.100
+<v Nic>way to relieve the the pressure
+of constantly being an almost
+
+148
+00:11:48.160 --> 00:11:56.020
+<v Nic>fight or flight reaction. There
+was a great post from Sherry
+
+149
+00:11:56.200 --> 00:12:01.860
+<v Nic>Bernhaber on LinkedIn recently,
+where she was describing the
+
+150
+00:12:01.950 --> 00:12:05.130
+<v Nic>spike of hormones that you're
+experiencing when you're always
+
+151
+00:12:05.250 --> 00:12:09.060
+<v Nic>having to advocate for
+accessibility, and then she took
+
+152
+00:12:09.120 --> 00:12:15.180
+<v Nic>it one layer deeper and
+explained how these spikes of
+
+153
+00:12:15.300 --> 00:12:20.880
+<v Nic>hormones and stress and
+everything gets exacerbated when
+
+154
+00:12:20.970 --> 00:12:23.720
+<v Nic>you start talking to other
+people with disabilities that
+
+155
+00:12:23.810 --> 00:12:27.140
+<v Nic>are experiencing their own their
+own things, and then you're
+
+156
+00:12:27.590 --> 00:12:31.580
+<v Nic>working in a community, so you
+get very little relief from that
+
+157
+00:12:32.150 --> 00:12:38.540
+<v Nic>constant constant stress
+reaction around facing a non
+
+158
+00:12:38.600 --> 00:12:46.690
+<v Nic>accessible world. So because of
+that, I, as I'm getting older,
+
+159
+00:12:47.320 --> 00:12:53.200
+<v Nic>I'm realizing I need to have a
+break to not burn out.
+
+160
+00:12:54.580 --> 00:12:55.690
+<v Mark>That cortisol management,
+
+161
+00:12:56.140 --> 00:12:57.520
+<v Nic>yeah, we need to burn it
+all
+
+162
+00:12:57.640 --> 00:12:58.720
+<v Mark>down at some point, yeah.
+
+163
+00:13:00.100 --> 00:13:03.540
+<v Nic>And because I work with
+computers so much, I mean it's
+
+164
+00:13:03.840 --> 00:13:10.230
+<v Nic>it's 100% of what I do. Having
+activities that take me away
+
+165
+00:13:10.500 --> 00:13:15.540
+<v Nic>from the screen is wonderful. A
+sketch, I can do that. I you
+
+166
+00:13:15.540 --> 00:13:20.040
+<v Nic>know I have a pen of a pad of
+paper, a pen, a few watercolors.
+
+167
+00:13:20.160 --> 00:13:23.870
+<v Nic>I can be outside in nature doing
+that. I can do this anywhere.
+
+168
+00:13:24.440 --> 00:13:24.500
+<v Mark>Yeah,
+
+169
+00:13:24.800 --> 00:13:27.800
+<v Nic>quilting same thing.
+Whether I do it with a machine
+
+170
+00:13:27.950 --> 00:13:32.450
+<v Nic>or I do hand sewing, I don't
+need a computer or or anything
+
+171
+00:13:32.540 --> 00:13:35.150
+<v Nic>to do that. The the wildlife
+photography is a little bit
+
+172
+00:13:35.210 --> 00:13:38.780
+<v Nic>different because, well,
+actually, you know, I don't work
+
+173
+00:13:38.810 --> 00:13:42.850
+<v Nic>in film anymore, and I need to
+process my photo, so it requires
+
+174
+00:13:43.480 --> 00:13:47.050
+<v Nic>a screen at some part of the
+process. But the advantages of
+
+175
+00:13:48.520 --> 00:13:52.480
+<v Nic>this creative practice can only
+happen when I'm out in nature
+
+176
+00:13:52.780 --> 00:14:00.190
+<v Nic>looking at birds, animals,
+listening to birdsong, to the
+
+177
+00:14:00.190 --> 00:14:04.260
+<v Nic>sound of the breeze and the
+trees and all that-that's all
+
+178
+00:14:04.320 --> 00:14:07.650
+<v Nic>part of the experience that has
+nothing to do with my work.
+
+179
+00:14:08.430 --> 00:14:11.940
+<v Mark>Yeah, or or your
+disability. It's all stuff that
+
+180
+00:14:11.970 --> 00:14:15.300
+<v Mark>you're doing. It's just yeah,
+and I think you know it strikes
+
+181
+00:14:15.390 --> 00:14:18.870
+<v Mark>me. There's a lot of there's a
+lot of research, a lot of talk,
+
+182
+00:14:18.930 --> 00:14:25.190
+<v Mark>a lot of ancient sort of wisdom
+out there around the mental
+
+183
+00:14:25.310 --> 00:14:27.830
+<v Mark>health benefits of being in
+nature.
+
+184
+00:14:28.430 --> 00:14:28.520
+<v Nic>Yep,
+
+185
+00:14:28.970 --> 00:14:31.610
+<v Mark>and I think if you're
+anything like me, Nic, what
+
+186
+00:14:31.610 --> 00:14:35.480
+<v Mark>you're describing is taking that
+a step further, and with
+
+187
+00:14:35.510 --> 00:14:38.600
+<v Mark>something that's more tactile.
+It's not your not digital. It's
+
+188
+00:14:38.600 --> 00:14:40.750
+<v Mark>not your computer. It's your
+paintbrush, your your your
+
+189
+00:14:40.840 --> 00:14:44.800
+<v Mark>pencil, your sewing machine. In
+the case of photography, it's a
+
+190
+00:14:44.860 --> 00:14:51.430
+<v Mark>little bit of in between, but
+and actually participating in
+
+191
+00:14:51.520 --> 00:14:54.370
+<v Mark>nature, right? In in in drawing
+back and forth, like like
+
+192
+00:14:54.520 --> 00:15:02.070
+<v Mark>engaging with it, engaging with
+it. Do you so? In full
+
+193
+00:15:02.130 --> 00:15:05.670
+<v Mark>disclosure for your listeners,
+I'm a I'm a studio arts major.
+
+194
+00:15:06.810 --> 00:15:10.260
+<v Mark>My background is in photography
+as well, but I've dabbled just
+
+195
+00:15:10.260 --> 00:15:14.310
+<v Mark>like you in all of those things.
+Being a studio arts major, and
+
+196
+00:15:14.640 --> 00:15:16.440
+<v Mark>so one of the questions or one
+of the things I always get
+
+197
+00:15:16.530 --> 00:15:19.710
+<v Mark>curious about when I talk to
+other artists like yourself is
+
+198
+00:15:20.610 --> 00:15:25.820
+<v Mark>the influences that they've had.
+Is there anybody that you would
+
+199
+00:15:25.880 --> 00:15:29.690
+<v Mark>point to, either famous or
+within your own life, that's
+
+200
+00:15:29.900 --> 00:15:32.120
+<v Mark>influenced the work that you do
+artistically?
+
+201
+00:15:34.960 --> 00:15:40.270
+<v Nic>I have so many different
+influences, and some I can tie
+
+202
+00:15:40.270 --> 00:15:49.270
+<v Nic>directly, and some are a lot
+more vague. I think, in in large
+
+203
+00:15:49.270 --> 00:15:55.000
+<v Nic>part, my my interest in art has
+come from the fact my dad is an
+
+204
+00:15:55.000 --> 00:16:03.145
+<v Nic>arts collector, and had several
+friends who were artists. One.
+
+205
+00:16:03.145 --> 00:16:09.715
+<v Nic>One of my dad's friends' name is
+Milienko Horvat. He's a he lived
+
+206
+00:16:09.715 --> 00:16:15.055
+<v Nic>in Quebec, but he's a Hungarian
+modern artist. Was. He passed
+
+207
+00:16:15.055 --> 00:16:22.360
+<v Nic>away. So I've been surrounded
+with pieces of art, mostly
+
+208
+00:16:22.360 --> 00:16:29.020
+<v Nic>modern art, but also pieces or
+more classical paintings. So I I
+
+209
+00:16:29.020 --> 00:16:33.850
+<v Nic>think that shaped an
+understanding of art is
+
+210
+00:16:33.850 --> 00:16:39.490
+<v Nic>important. I recently had my a
+conversation with my dad, who is
+
+211
+00:16:39.490 --> 00:16:42.880
+<v Nic>telling me, you know, Nic,
+you're doing these sketches, and
+
+212
+00:16:42.880 --> 00:16:47.095
+<v Nic>and that's great. But really,
+you don't understand art. And
+
+213
+00:16:47.095 --> 00:16:51.235
+<v Nic>yeah, okay, thank you, I, you're
+right. I do not understand art
+
+214
+00:16:51.235 --> 00:16:55.045
+<v Nic>because I don't spend time
+trying to analyze it. I just
+
+215
+00:16:55.045 --> 00:17:02.785
+<v Nic>want to make it happen. Yeah. So
+that, in part, is is why.
+
+216
+00:17:02.785 --> 00:17:07.450
+<v Nic>drawing and sketching and
+painting is important in terms
+
+217
+00:17:07.450 --> 00:17:13.090
+<v Nic>of more direct influences with
+what I like to do is is all the
+
+218
+00:17:13.090 --> 00:17:19.000
+<v Nic>urban sketching movement the
+this idea of painting on
+
+219
+00:17:19.000 --> 00:17:26.530
+<v Nic>location from life capturing a
+moment in time, and there's
+
+220
+00:17:26.530 --> 00:17:29.050
+<v Nic>there's a certain style that
+comes out. I mean, everybody
+
+221
+00:17:29.050 --> 00:17:32.095
+<v Nic>does it differently, but but
+there's a lot of line and wash
+
+222
+00:17:32.095 --> 00:17:37.585
+<v Nic>that comes out of that. I I like
+to capture those those ideas. In
+
+223
+00:17:37.585 --> 00:17:41.695
+<v Nic>terms of quilting, I don't know
+that I have any particular
+
+224
+00:17:41.695 --> 00:17:48.085
+<v Nic>influences. I've just always
+liked quilt. I was lucky enough
+
+225
+00:17:48.085 --> 00:17:54.040
+<v Nic>to to travel through the U.S. We
+were full time traveling in an
+
+226
+00:17:54.040 --> 00:17:58.720
+<v Nic>RV, and we stopped in Kentucky,
+in Paducah, and there's a
+
+227
+00:17:58.720 --> 00:18:02.980
+<v Nic>national quilt museum there.
+This was just before I started
+
+228
+00:18:02.980 --> 00:18:07.690
+<v Nic>doing quilting, and we spent
+several wonderful hours
+
+229
+00:18:07.690 --> 00:18:13.480
+<v Nic>exploring that, which is all
+around modern quilts. And then
+
+230
+00:18:13.480 --> 00:18:18.415
+<v Nic>my wife surprised me with a book
+of how to make your own sampler
+
+231
+00:18:18.415 --> 00:18:25.495
+<v Nic>quilt entirely from scratch, and
+I think I put in 12,000 stitches
+
+232
+00:18:25.615 --> 00:18:30.865
+<v Nic>in that product, and I'm really
+happy with it. But that's that.
+
+233
+00:18:30.955 --> 00:18:34.855
+<v Nic>You know, my wife jokes that she
+created a monster because after
+
+234
+00:18:34.855 --> 00:18:37.465
+<v Nic>doing that one, then I had to do
+another one, and another one,
+
+235
+00:18:37.465 --> 00:18:40.990
+<v Nic>and another one, and and I
+haven't had a chance to quilt in
+
+236
+00:18:40.990 --> 00:18:45.610
+<v Nic>last 18 months because we were
+moving and work and all that,
+
+237
+00:18:45.610 --> 00:18:51.160
+<v Nic>but we finally have a room that
+is a dedicated craft and gaming
+
+238
+00:18:51.160 --> 00:18:53.770
+<v Nic>room. So I'll be able to go back
+and finish the projects I
+
+239
+00:18:53.770 --> 00:18:59.560
+<v Nic>started a year and a half ago.
+Photography, I don't know.
+
+240
+00:18:59.830 --> 00:19:04.435
+<v Nic>Photography, I, you know,
+there's all the masters of of
+
+241
+00:19:04.435 --> 00:19:15.475
+<v Nic>street photography. Bresson, in
+particular, I like his style.
+
+242
+00:19:15.475 --> 00:19:18.775
+<v Nic>Adams, I like his style, but I
+don't think I'm trying to
+
+243
+00:19:18.775 --> 00:19:24.205
+<v Nic>replicate what they're doing.
+But it's more in terms of
+
+244
+00:19:24.379 --> 00:19:26.539
+<v Mark>Bresson, Paris, black and
+white.
+
+245
+00:19:27.139 --> 00:19:28.339
+<v Nic>Yeah, yeah,
+
+246
+00:19:28.000 --> 00:19:30.880
+<v Mark>yep. Okay, now you're
+talking about. I would not have
+
+247
+00:19:30.880 --> 00:19:32.740
+<v Mark>pronounced it that way, but I
+think you're probably
+
+248
+00:19:32.740 --> 00:19:36.520
+<v Mark>pronouncing it correct since you
+are speaking his native tongue.
+
+249
+00:19:36.520 --> 00:19:44.260
+<v Nic>Yeah, what I like about him
+is this this approach of,
+
+250
+00:19:44.260 --> 00:19:50.980
+<v Nic>funnily enough, capturing real
+life moment snapshot of time,
+
+251
+00:19:51.025 --> 00:19:55.795
+<v Nic>which in a way ties into urban
+sketching, but it's it's this
+
+252
+00:19:55.795 --> 00:19:56.965
+<v Mark>decisive moment,
+
+253
+00:19:56.960 --> 00:20:02.270
+<v Nic>decisive moment. Now, what
+we know of his photos, they're
+
+254
+00:20:02.270 --> 00:20:06.440
+<v Nic>wonderful, but we also, if you
+dig into it a little bit, you
+
+255
+00:20:06.440 --> 00:20:09.650
+<v Nic>realize that there's a lot of
+negatives that  never made it to
+
+256
+00:20:09.650 --> 00:20:16.430
+<v Nic>print, right? But to have that,
+what's the word I'm looking for?
+
+257
+00:20:16.430 --> 00:20:23.735
+<v Nic>That it's that instant
+spontaneity. To have that
+
+258
+00:20:23.735 --> 00:20:27.725
+<v Nic>spontaneity, whether you're
+sketching or taking photos, you
+
+259
+00:20:27.725 --> 00:20:32.195
+<v Nic>you have to have taken 10,000
+bad photos. You have to have
+
+260
+00:20:32.195 --> 00:20:35.645
+<v Nic>done 10,000 bad sketches. You
+have to have put in 10,000 hours
+
+261
+00:20:35.645 --> 00:20:41.165
+<v Nic>in in quilting before things
+start flowing. So to have that
+
+262
+00:20:41.165 --> 00:20:48.380
+<v Nic>spontaneity, I think is is is
+what I'm hoping for at some
+
+263
+00:20:48.380 --> 00:20:52.790
+<v Nic>point. To to have enough
+practice and skills and and
+
+264
+00:20:52.790 --> 00:20:55.760
+<v Nic>muscle memory to not have to
+think about it and be
+
+265
+00:20:55.760 --> 00:20:57.980
+<v Nic>spontaneous that way.
+
+266
+00:20:57.990 --> 00:21:02.760
+<v Mark>Yeah. The... I want to dig
+into a couple things here, and
+
+267
+00:21:02.760 --> 00:21:05.220
+<v Mark>in doing this, I'm going to
+challenge your father's
+
+268
+00:21:05.220 --> 00:21:08.610
+<v Mark>statement that you don't
+understand because you you
+
+269
+00:21:08.610 --> 00:21:13.350
+<v Mark>mentioned a couple of times you
+talked about the street, whether
+
+270
+00:21:13.350 --> 00:21:15.780
+<v Mark>it's in reference to painting,
+whether it's in reference to
+
+271
+00:21:15.780 --> 00:21:18.960
+<v Mark>photography and this sort of
+urban landscape, which is very
+
+272
+00:21:18.960 --> 00:21:22.575
+<v Mark>interesting to me, Nic, because
+what I know of your photography,
+
+273
+00:21:22.575 --> 00:21:27.015
+<v Mark>you've shared back and forth
+with me, or nature photos, which
+
+274
+00:21:27.015 --> 00:21:32.745
+<v Mark>is very specifically the
+opposite of that urban. But one
+
+275
+00:21:32.745 --> 00:21:35.895
+<v Mark>of the things that you said that
+was really interesting is that
+
+276
+00:21:35.895 --> 00:21:41.895
+<v Mark>you liked that sort of street
+art in in the on location art,
+
+277
+00:21:41.895 --> 00:21:45.180
+<v Mark>and I don't know if you've been
+to the last time I was in
+
+278
+00:21:45.180 --> 00:21:49.050
+<v Mark>London. I was at the Leek Street
+Tunnel, and the Leek Street
+
+279
+00:21:49.050 --> 00:21:53.490
+<v Mark>Tunnel is a place in London
+where it's okay to do graffiti.
+
+280
+00:21:53.490 --> 00:21:59.820
+<v Mark>It's encouraged, and this idea
+of creating art on location and
+
+281
+00:21:59.820 --> 00:22:05.850
+<v Mark>art that, in part and whole, is
+probably temporary because
+
+282
+00:22:05.850 --> 00:22:08.805
+<v Mark>there's no rules, right? Or or
+or the rule is is that if
+
+283
+00:22:08.805 --> 00:22:12.285
+<v Mark>somebody paints a picture, you
+can come right behind them and
+
+284
+00:22:12.285 --> 00:22:15.945
+<v Mark>paint over it, or or somebody
+may never paint over your
+
+285
+00:22:15.945 --> 00:22:22.365
+<v Mark>picture, like you don't know.
+But to me, that urban art, that
+
+286
+00:22:22.365 --> 00:22:26.895
+<v Mark>temporary nature of it, that on
+location, all those things, all
+
+287
+00:22:26.895 --> 00:22:29.295
+<v Mark>the things that you describe to
+me-that's the true nature of
+
+288
+00:22:29.295 --> 00:22:33.780
+<v Mark>art, right? Because it's because
+it's evolving. It is temporary.
+
+289
+00:22:33.780 --> 00:22:36.780
+<v Mark>It is when somebody paints over
+a part of your picture, they
+
+290
+00:22:36.780 --> 00:22:43.620
+<v Mark>don't wipe out your picture, but
+they add the overall gallery,
+
+291
+00:22:43.620 --> 00:22:48.450
+<v Mark>right? The overall impression.
+So now, what they did becomes a
+
+292
+00:22:48.450 --> 00:22:51.780
+<v Mark>part of what you did, and then
+there's this like bracket of
+
+293
+00:22:51.780 --> 00:22:57.825
+<v Mark>time. This bracket of time that
+moves through time, and then you
+
+294
+00:22:57.825 --> 00:23:00.915
+<v Mark>know, in photography, there's
+the decisive moment. There's the
+
+295
+00:23:00.915 --> 00:23:07.515
+<v Mark>it's sort of humans in nature.
+Do you why do you why do you
+
+296
+00:23:07.515 --> 00:23:12.975
+<v Mark>think that you're drawn towards
+those urban landscapes that are
+
+297
+00:23:12.975 --> 00:23:18.120
+<v Mark>moving and changing and
+temporary and and raw? You know,
+
+298
+00:23:18.150 --> 00:23:22.110
+<v Mark>in in some ways. I mean, you're
+talking about quilting and
+
+299
+00:23:22.110 --> 00:23:24.750
+<v Mark>nature photography in the same
+breath, Nic.
+
+300
+00:23:24.750 --> 00:23:25.890
+<v Nic>Yeah, yeah.
+
+301
+00:23:26.190 --> 00:23:29.670
+<v Mark>What's the what's the
+attraction there? Like, why that
+
+302
+00:23:29.670 --> 00:23:36.180
+<v Mark>dichotomy in your in your in
+your esthetic? I'm asking hard
+
+303
+00:23:36.180 --> 00:23:36.810
+<v Mark>questions, aren't I?
+
+304
+00:23:36.840 --> 00:23:44.280
+<v Nic>Yes you are, and that's
+wonderful. I think it feeds
+
+305
+00:23:44.280 --> 00:23:51.930
+<v Nic>different parts of my needs, but
+ultimately, it's it's all about
+
+306
+00:23:51.930 --> 00:24:00.075
+<v Nic>quieting my brain. My brain
+never stops. I have, I don't
+
+307
+00:24:00.075 --> 00:24:05.685
+<v Nic>have a diagnosis, but I'm 99.9%
+certain I have ADHD, and part of
+
+308
+00:24:05.685 --> 00:24:10.275
+<v Nic>that is my brain never stops. I
+go to bed, my brain doesn't
+
+309
+00:24:10.275 --> 00:24:15.885
+<v Nic>stop. I go to sleep, my brain
+doesn't stop. It's always going,
+
+310
+00:24:15.885 --> 00:24:22.860
+<v Nic>except when I sketch, when I
+quilt, when I take photos, so
+
+311
+00:24:22.860 --> 00:24:32.310
+<v Nic>these are different expressions
+of how do I self-medicate
+
+312
+00:24:32.310 --> 00:24:41.130
+<v Nic>without medication, if you want.
+Why urban sketching? Well, I've
+
+313
+00:24:41.130 --> 00:24:46.305
+<v Nic>always liked architecture. I've
+always been interested in
+
+314
+00:24:46.305 --> 00:24:48.705
+<v Nic>architecture. I've traveled a
+lot as a kid, and then been
+
+315
+00:24:48.705 --> 00:24:55.695
+<v Nic>exposed to to architecture in in
+Canada, in Montreal, in the U.S.
+
+316
+00:24:55.695 --> 00:25:02.175
+<v Nic>in in Africa, in Europe. So. I
+think there's beauty in
+
+317
+00:25:02.175 --> 00:25:06.795
+<v Nic>buildings, whether they're
+300-year-old buildings or newer
+
+318
+00:25:06.795 --> 00:25:13.410
+<v Nic>ones. But also, more and more, I
+want to include people in my
+
+319
+00:25:13.410 --> 00:25:18.330
+<v Nic>urban sketches because
+ultimately, like accessibility,
+
+320
+00:25:18.330 --> 00:25:25.140
+<v Nic>it's about people. So it's tying
+the human experience to the
+
+321
+00:25:25.140 --> 00:25:37.305
+<v Nic>environment. Quilting is a
+different beast altogether. I
+
+322
+00:25:37.305 --> 00:25:43.395
+<v Nic>think it's especially the
+patchwork part is is making art
+
+323
+00:25:43.395 --> 00:25:48.945
+<v Nic>that isn't related to the human
+experience, but in the end, the
+
+324
+00:25:48.945 --> 00:25:52.485
+<v Nic>quilt is to be used. For me, a
+quilt is not something you put
+
+325
+00:25:52.485 --> 00:25:56.040
+<v Nic>on a wall or put in a box and
+forget about. A quilt you you
+
+326
+00:25:56.040 --> 00:26:03.540
+<v Nic>use it when it wears out. Well,
+you make another one. So yeah.
+
+327
+00:26:01.345 --> 00:26:05.348
+<v Mark>So you said something
+really interesting in there, and
+
+328
+00:26:05.422 --> 00:26:09.500
+<v Mark>you know we've got a lot in
+common, Nic. And one of the
+
+329
+00:26:09.575 --> 00:26:13.949
+<v Mark>things I think we have in common
+is sort of this diagnosed,
+
+330
+00:26:14.023 --> 00:26:17.508
+<v Mark>undiagnosed ADD. I grew up in
+the '80s, and I'm
+
+331
+00:26:17.582 --> 00:26:21.512
+<v Mark>self-diagnosed. Well, I'm
+diagnosed now with ADD, but
+
+332
+00:26:21.586 --> 00:26:25.590
+<v Mark>ultimately I didn't have that
+diagnosis, and then also
+
+333
+00:26:25.664 --> 00:26:29.965
+<v Mark>dyslexia, and so it really
+resonates with me when you talk
+
+334
+00:26:30.039 --> 00:26:34.710
+<v Mark>about these different artistic
+endeavors quieting the brain, or
+
+335
+00:26:34.784 --> 00:26:39.455
+<v Mark>almost to me, it's almost like
+just aligning thoughts that tend
+
+336
+00:26:39.529 --> 00:26:43.756
+<v Mark>to be sort of all over the
+place, right? You know, do you
+
+337
+00:26:43.830 --> 00:26:48.278
+<v Mark>find that, like, think about
+something like sketching? Is it
+
+338
+00:26:48.353 --> 00:26:52.505
+<v Mark>hard in and hard out for you?
+And what I mean by that is
+
+339
+00:26:52.579 --> 00:26:56.879
+<v Mark>sometimes I have a hard time
+through all that deciding I'm
+
+340
+00:26:56.953 --> 00:27:01.254
+<v Mark>going to sit down and draw
+something, or that I'm going to
+
+341
+00:27:01.328 --> 00:27:05.777
+<v Mark>go out and take pictures. But
+once I'm in that, I now have a
+
+342
+00:27:05.851 --> 00:27:10.596
+<v Mark>hard time stopping, and I have a
+hard time not thinking. Like if
+
+343
+00:27:10.670 --> 00:27:15.119
+<v Mark>I leave a work unfinished, it's
+on my mind until I feel like
+
+344
+00:27:15.193 --> 00:27:19.790
+<v Mark>I've finished it. Is that your
+experience? Is that is that are
+
+345
+00:27:19.864 --> 00:27:24.461
+<v Mark>you are you narrowing your focus
+once you get into it, on that
+
+346
+00:27:24.535 --> 00:27:28.910
+<v Mark>piece of artwork, or is it
+something different for you? I'm
+
+347
+00:27:28.984 --> 00:27:33.730
+<v Mark>curious if do we have a similar
+experience or if it's different.
+
+348
+00:27:35.100 --> 00:27:38.070
+<v Nic>Yeah, it varies for me.
+Sometimes I say, okay, I'm going
+
+349
+00:27:38.070 --> 00:27:45.150
+<v Nic>to take half hour and do a
+sketch, And I just fiddle. I
+
+350
+00:27:45.150 --> 00:27:48.000
+<v Nic>have my notes, my sketchbook,
+and my pen, and I'm not getting
+
+351
+00:27:48.000 --> 00:27:52.680
+<v Nic>anywhere. And sometimes I kind
+of thought, "Oh, well, I'm just
+
+352
+00:27:52.680 --> 00:27:57.030
+<v Nic>gonna doodle, and I end up
+sucked in immediately. And I
+
+353
+00:27:57.480 --> 00:28:00.585
+<v Nic>lift my head, and oh, what do
+you mean? Two hours have gone
+
+354
+00:28:00.585 --> 00:28:08.145
+<v Nic>by, right? And some days I I
+want to do these things. Some
+
+355
+00:28:08.145 --> 00:28:15.495
+<v Nic>days I want to do sketching, or
+I want to grab my camera and go
+
+356
+00:28:15.495 --> 00:28:19.125
+<v Nic>out. It's a beautiful day. the
+The light is nice. It's not too
+
+357
+00:28:19.125 --> 00:28:24.000
+<v Nic>hot and not good cold, and I
+just can't. I don't have the
+
+358
+00:28:24.000 --> 00:28:31.530
+<v Nic>spoons. I don't have the energy
+to to get going. So it's. I
+
+359
+00:28:31.530 --> 00:28:34.710
+<v Nic>don't think there's a specific
+pattern about that. But most of
+
+360
+00:28:34.710 --> 00:28:41.010
+<v Nic>the time, once once I start it,
+once I actually do it, then I'm
+
+361
+00:28:41.010 --> 00:28:44.745
+<v Nic>so full in that you know the
+world could drop around me and I
+
+362
+00:28:44.745 --> 00:28:45.255
+<v Nic>wouldn't know.
+
+363
+00:28:46.650 --> 00:28:51.300
+<v Mark>That's interesting. Yeah,
+I would love to have that
+
+364
+00:28:51.300 --> 00:28:55.950
+<v Mark>experience where the world, but
+I never have that. My ADD keeps
+
+365
+00:28:55.950 --> 00:29:04.680
+<v Mark>me on the surface all all the
+time. This is really where I
+
+366
+00:29:04.680 --> 00:29:07.020
+<v Mark>wanted to end up here today
+because this is interesting to
+
+367
+00:29:07.020 --> 00:29:11.175
+<v Mark>me. I was listening to your
+first podcast with Mia.
+
+368
+00:29:11.635 --> 00:29:12.835
+<v Nic>Yep,
+
+369
+00:29:12.840 --> 00:29:16.560
+<v Mark>and I was learning all
+sorts of things about you that I
+
+370
+00:29:16.560 --> 00:29:18.900
+<v Mark>didn't know, and of course,
+there are things that we have in
+
+371
+00:29:18.900 --> 00:29:19.800
+<v Mark>common, Nic. Right?
+
+372
+00:29:19.800 --> 00:29:20.580
+<v Nic>Yeah, yeah, yeah.
+
+373
+00:29:20.690 --> 00:29:23.270
+<v Mark>Believe it, believe it or
+not, and one of them is that you
+
+374
+00:29:23.270 --> 00:29:30.560
+<v Mark>mentioned a martial arts
+experience in your past, and I'm
+
+375
+00:29:30.560 --> 00:29:34.070
+<v Mark>I'm wondering, you know, within
+the context of this discussion
+
+376
+00:29:34.070 --> 00:29:39.950
+<v Mark>of art. So I've got a I've got a
+strong martial arts past too.
+
+377
+00:29:39.950 --> 00:29:44.855
+<v Mark>Does that does that is that a
+part of this whole artistic
+
+378
+00:29:44.855 --> 00:29:48.635
+<v Mark>experience for you? Does it
+influence it? Do the things that
+
+379
+00:29:48.635 --> 00:29:52.055
+<v Mark>you learned mentally and
+physically do they do they play
+
+380
+00:29:52.055 --> 00:29:56.945
+<v Mark>a part in your artwork at all,
+or is that yet another separate
+
+381
+00:29:56.945 --> 00:30:01.955
+<v Mark>outlet that you had in your life
+or still do? I don't know if
+
+382
+00:30:01.955 --> 00:30:02.015
+<v Mark>you.
+
+383
+00:30:02.015 --> 00:30:07.280
+<v Nic>Very different. I started
+judo when I was six years old
+
+384
+00:30:07.280 --> 00:30:14.390
+<v Nic>because I was being bullied, and
+it was recommended that I do
+
+385
+00:30:14.390 --> 00:30:20.180
+<v Nic>something that would give me the
+confidence to to stand up in a
+
+386
+00:30:20.180 --> 00:30:28.670
+<v Nic>way, and I did judo for 18
+years. I didn't like
+
+387
+00:30:28.670 --> 00:30:33.665
+<v Nic>competition, and to reach black
+belt, you either had to do a
+
+388
+00:30:33.665 --> 00:30:39.095
+<v Nic>technical approach, which was
+longer and harder, or go through
+
+389
+00:30:39.095 --> 00:30:45.305
+<v Nic>competition, and people are
+brutal in competition, and that
+
+390
+00:30:45.305 --> 00:30:50.465
+<v Nic>did not appeal to me at all. So
+I didn't quite reach my black
+
+391
+00:30:50.465 --> 00:30:52.955
+<v Nic>belt in judo, but I did it for
+18 years.
+
+392
+00:30:53.815 --> 00:30:56.875
+<v Mark>18 years is a lot of time
+on the mat for
+
+393
+00:30:56.875 --> 00:30:57.685
+<v Nic>yeah
+
+394
+00:30:57.690 --> 00:31:00.450
+<v Mark>anybody yeah, and I'm
+assuming. So I don't know a
+
+395
+00:31:00.450 --> 00:31:03.870
+<v Mark>whole lot about your history of
+disability either, but I do
+
+396
+00:31:03.870 --> 00:31:07.590
+<v Mark>know, or I think I know, that
+you're a wheelchair user. That
+
+397
+00:31:07.650 --> 00:31:10.830
+<v Mark>that's correct, right? Was this
+prior to being a wheelchair
+
+398
+00:31:10.830 --> 00:31:12.360
+<v Mark>user? Is this something that you
+did as a wage?
+
+399
+00:31:12.390 --> 00:31:22.905
+<v Nic>It kind of started fading
+out. The judo faded out when I,
+
+400
+00:31:22.905 --> 00:31:25.965
+<v Nic>within about the same time range
+that I started having to use a
+
+401
+00:31:25.965 --> 00:31:26.775
+<v Nic>wheelchair.
+
+402
+00:31:26.775 --> 00:31:30.435
+<v Mark>Okay.
+
+403
+00:31:30.435 --> 00:31:38.265
+<v Nic>But also towards the end of
+doing judo, I I was traveling a
+
+404
+00:31:38.265 --> 00:31:40.665
+<v Nic>lot. I was a chef at the time.
+
+405
+00:31:40.665 --> 00:31:40.875
+<v Mark>Oh wow!
+
+406
+00:31:40.875 --> 00:31:42.465
+<v Nic>Which hey, guess what?
+
+407
+00:31:42.465 --> 00:31:43.485
+<v Mark>Another video there.
+
+408
+00:31:43.485 --> 00:31:52.320
+<v Nic>Yeah, and and I was slowing
+down the judo, but I started
+
+409
+00:31:52.320 --> 00:31:58.260
+<v Nic>doing tai chi. I learned tai
+chi, which is a lot easier to
+
+410
+00:31:58.260 --> 00:32:03.240
+<v Nic>practice on your own than judo
+is, because there's only so many
+
+411
+00:32:03.240 --> 00:32:08.775
+<v Nic>katas you can practice. Although
+in in a way, Tai Chi is katas.
+
+412
+00:32:08.775 --> 00:32:11.745
+<v Nic>But I started doing judo
+
+413
+00:32:11.480 --> 00:32:15.620
+<v Mark>judo is specifically
+designed to be to have an
+
+414
+00:32:15.620 --> 00:32:16.340
+<v Mark>opponent in the
+
+415
+00:32:16.375 --> 00:32:16.915
+<v Nic>yes
+
+416
+00:32:16.975 --> 00:32:17.575
+<v Mark>practice.
+
+417
+00:32:17.575 --> 00:32:21.535
+<v Nic>There there are some katas
+you can do, but it's yeah
+
+418
+00:32:21.685 --> 00:32:26.425
+<v Mark>yeah. Tai Chi is is more
+of a inner
+
+419
+00:32:26.485 --> 00:32:29.605
+<v Nic>Tai Chi is is a more
+internal practice. I mean,
+
+420
+00:32:30.295 --> 00:32:33.220
+<v Nic>outwardly it looks like you're
+doing movements, but it's all
+
+421
+00:32:33.220 --> 00:32:38.260
+<v Nic>about the how the internal goes.
+And from that perspective, Tai
+
+422
+00:32:38.260 --> 00:32:44.230
+<v Nic>Chi is is good for my brains as
+well because it's a form of
+
+423
+00:32:44.230 --> 00:32:50.740
+<v Nic>moving meditation. I
+occasionally try to start tai
+
+424
+00:32:50.740 --> 00:32:56.515
+<v Nic>chi again, but it's it becomes a
+question of juggling how much
+
+425
+00:32:57.085 --> 00:33:01.195
+<v Nic>spare time do I have in my day
+and where do I want to focus my
+
+426
+00:33:01.195 --> 00:33:01.795
+<v Nic>energies?
+
+427
+00:33:02.520 --> 00:33:02.580
+<v Mark>Yeah.
+
+428
+00:33:03.479 --> 00:33:06.929
+<v Nic>So at the moment, I choose
+to focus my energy in in
+
+429
+00:33:07.079 --> 00:33:07.949
+<v Nic>sketching. And
+
+430
+00:33:08.760 --> 00:33:10.560
+<v Mark>I think the wonderful
+thing about any artistic
+
+431
+00:33:10.590 --> 00:33:15.240
+<v Mark>endeavor, and and and including
+ones that where you move your
+
+432
+00:33:15.300 --> 00:33:21.920
+<v Mark>body, like like the martial
+arts, is that you can bring it
+
+433
+00:33:21.920 --> 00:33:25.640
+<v Mark>back in times in your life. So
+drawing's been that way for me,
+
+434
+00:33:25.970 --> 00:33:28.580
+<v Mark>where I go through long periods
+of time without drawing, and
+
+435
+00:33:28.610 --> 00:33:32.990
+<v Mark>then I, for some reason, I have
+a need and I come back to it. So
+
+436
+00:33:33.050 --> 00:33:34.640
+<v Mark>I think that's a brilliant
+thing, particularly with
+
+437
+00:33:34.730 --> 00:33:37.970
+<v Mark>something like Tai Chi, is that
+if it doesn't provide value for
+
+438
+00:33:37.970 --> 00:33:40.450
+<v Mark>you at this time in your life,
+then it doesn't make sense to do
+
+439
+00:33:40.540 --> 00:33:40.630
+<v Mark>it,
+
+440
+00:33:40.660 --> 00:33:40.720
+<v Nic>yeah,
+
+441
+00:33:41.379 --> 00:33:45.489
+<v Mark>but if but it may provide
+value in a in the future, and
+
+442
+00:33:45.729 --> 00:33:49.479
+<v Mark>you there's nothing that says
+you can't circle back to it, you
+
+443
+00:33:49.509 --> 00:33:54.759
+<v Mark>know. And then so and I don't
+want to stay on this martial
+
+444
+00:33:54.789 --> 00:33:59.829
+<v Mark>arts thing too long because
+really we're here to understand
+
+445
+00:33:59.859 --> 00:34:05.009
+<v Mark>you as an artist, but I've got
+one one final question because I
+
+446
+00:34:05.099 --> 00:34:05.399
+<v Mark>can't1.
+
+447
+00:34:05.609 --> 00:34:06.659
+<v Nic>more thing. There was
+
+448
+00:34:06.780 --> 00:34:09.120
+<v Mark>one more thing because I
+can't help myself. But have you
+
+449
+00:34:09.240 --> 00:34:14.970
+<v Mark>ever thought about retooling
+your 18 years of judo to be into
+
+450
+00:34:15.720 --> 00:34:19.350
+<v Mark>a a wheelchair practice where
+you could use the same
+
+451
+00:34:20.900 --> 00:34:26.300
+<v Mark>Principles adopted for adopted
+for wheelchair.
+
+452
+00:34:28.990 --> 00:34:29.500
+<v Nic>I do
+
+453
+00:34:29.800 --> 00:34:31.330
+<v Mark>or did I just come up with
+an idea for you?
+
+454
+00:34:31.820 --> 00:34:37.430
+<v Nic>No, I I I'm I think I'm
+actually doing that, but not in
+
+455
+00:34:37.490 --> 00:34:45.460
+<v Nic>a martial art kind of way,
+because 18 years of judo and six
+
+456
+00:34:45.610 --> 00:34:50.530
+<v Nic>years, solid six years of tai
+chi, forms how your body moves.
+
+457
+00:34:51.190 --> 00:34:51.250
+<v Mark>Yeah,
+
+458
+00:34:51.790 --> 00:34:59.200
+<v Nic>forms how you open doors.
+Even I mean, the way you open a
+
+459
+00:34:59.260 --> 00:35:02.670
+<v Nic>door, you know. In a wheelchair,
+you can't just pull on the door
+
+460
+00:35:02.760 --> 00:35:04.770
+<v Nic>because if you pull on the door,
+it's not the door that's going
+
+461
+00:35:04.770 --> 00:35:07.560
+<v Nic>to open; it's your wheelchair
+that's going to move, right? So
+
+462
+00:35:07.680 --> 00:35:12.000
+<v Nic>the way you you use that push
+pull that that equal and
+
+463
+00:35:12.120 --> 00:35:18.690
+<v Nic>opposite forces, the way you're
+you're moving, all that is in a
+
+464
+00:35:18.780 --> 00:35:22.850
+<v Nic>way integrated into my
+subconscious, and
+
+465
+00:35:23.390 --> 00:35:23.810
+<v Mark>makes sense.
+
+466
+00:35:25.000 --> 00:35:31.000
+<v Nic>It's funny because years
+after stopping judo, 20 years
+
+467
+00:35:31.000 --> 00:35:36.820
+<v Nic>after stopping judo, I actually
+took a pretty nasty tumble out
+
+468
+00:35:36.820 --> 00:35:39.610
+<v Nic>of my wheelchair. I was going
+down a hill, and my wheels
+
+469
+00:35:39.610 --> 00:35:44.230
+<v Nic>locked on a rock, my chair
+stopped. I was going down, and I
+
+470
+00:35:44.230 --> 00:35:49.255
+<v Nic>flew out of my chair, and I
+ended up doing a just a roll,
+
+471
+00:35:49.705 --> 00:35:50.245
+<v Nic>judo roll.
+
+472
+00:35:50.485 --> 00:35:51.565
+<v Mark>Yeah, you came just,
+
+473
+00:35:52.045 --> 00:35:57.235
+<v Nic>and that was it. Didn't get
+hurt. Some people that saw me
+
+474
+00:35:57.235 --> 00:36:02.395
+<v Nic>tumble said, "Oh my God, Nic,
+what the hell was that?" Looked
+
+475
+00:36:02.395 --> 00:36:06.205
+<v Nic>very spectacular to people
+outside. But for me, it just
+
+476
+00:36:06.235 --> 00:36:07.015
+<v Nic>came naturally.
+
+477
+00:36:07.650 --> 00:36:09.630
+<v Mark>Yeah, it was just another.
+How many times in your life had
+
+478
+00:36:09.660 --> 00:36:12.660
+<v Mark>you done that? And this was just
+one. Yeah, that's. I mean, I
+
+479
+00:36:12.750 --> 00:36:15.060
+<v Mark>think everybody should study at
+least the ukimi, which is the
+
+480
+00:36:15.060 --> 00:36:18.270
+<v Mark>falling part of judo in their
+life, because I can't tell you
+
+481
+00:36:18.330 --> 00:36:23.510
+<v Mark>how many times it's come into
+play for me, and if hopefully,
+
+482
+00:36:23.570 --> 00:36:26.120
+<v Mark>if you're a martial artist,
+you'll never have to use the
+
+483
+00:36:26.270 --> 00:36:30.140
+<v Mark>martial arts in your life,
+except for there's no way to to
+
+484
+00:36:31.610 --> 00:36:34.550
+<v Mark>avoid falling at some point in
+your life. So you will. I always
+
+485
+00:36:34.640 --> 00:36:36.440
+<v Mark>tell people, like tell my
+students, this is one of the
+
+486
+00:36:36.470 --> 00:36:37.190
+<v Mark>most important things.
+
+487
+00:36:37.760 --> 00:36:38.180
+<v Nic>Yeah, I'll teach
+
+488
+00:36:38.000 --> 00:36:40.640
+<v Mark>you, and I can remember
+once running with my wife, and I
+
+489
+00:36:40.640 --> 00:36:43.880
+<v Mark>tripped over a root, and it was
+just the same story. You know, I
+
+490
+00:36:43.880 --> 00:36:47.480
+<v Mark>went headfirst to the ground,
+but I rolled up out of it, stood
+
+491
+00:36:47.480 --> 00:36:49.670
+<v Mark>up, and she, "Oh my god, are you
+right? "I said. I looked at her,
+
+492
+00:36:49.670 --> 00:36:51.170
+<v Mark>just smiled, and she goes, "Oh
+yeah, I forgot. Let's keep
+
+493
+00:36:51.170 --> 00:36:51.500
+<v Mark>going,"
+
+494
+00:36:52.300 --> 00:36:52.450
+<v Nic>you know.
+
+495
+00:36:52.960 --> 00:36:56.020
+<v Mark>But but I probably fell
+four more times that day on the
+
+496
+00:36:56.080 --> 00:36:58.690
+<v Mark>mat, you know, in practice or
+whatever. So it was just another
+
+497
+00:36:58.840 --> 00:37:08.730
+<v Mark>moment of falling. So, swinging
+back into your your art a little
+
+498
+00:37:08.790 --> 00:37:11.370
+<v Mark>bit, right? We've talked about
+you know you sort of have
+
+499
+00:37:11.520 --> 00:37:14.010
+<v Mark>settled on these different
+things that that that resonate
+
+500
+00:37:14.070 --> 00:37:16.260
+<v Mark>with you, and they're all very
+different. This is what's
+
+501
+00:37:16.290 --> 00:37:18.510
+<v Mark>impressive, right? Is that
+photography and quilting could
+
+502
+00:37:19.260 --> 00:37:22.670
+<v Mark>we get much more opposite than
+that, right? And then, and then
+
+503
+00:37:22.760 --> 00:37:26.210
+<v Mark>these things like drawing and
+and watercolors kind of are
+
+504
+00:37:26.360 --> 00:37:28.280
+<v Mark>somewhere in the middle of that
+spectrum. So I think it's
+
+505
+00:37:28.400 --> 00:37:31.190
+<v Mark>wonderful that you figured out a
+way to kind of exercise this
+
+506
+00:37:31.310 --> 00:37:36.830
+<v Mark>full full spectrum of of
+expression within within art. Is
+
+507
+00:37:36.830 --> 00:37:43.030
+<v Mark>there anything that you is there
+anything that you you don't like
+
+508
+00:37:43.120 --> 00:37:47.740
+<v Mark>about your art, or anything that
+you wished you had leaned into
+
+509
+00:37:47.980 --> 00:37:51.550
+<v Mark>more in the as you were sort of
+coming up as an artist?
+
+510
+00:37:56.240 --> 00:38:03.020
+<v Nic>Several things. First, I
+wish I had persevered earlier. I
+
+511
+00:38:03.020 --> 00:38:08.660
+<v Nic>really picked up watercolors for
+the first time, and when was in
+
+512
+00:38:08.660 --> 00:38:15.830
+<v Nic>the late 90s? I wish I had kept
+at it back then. Yeah, because
+
+513
+00:38:15.830 --> 00:38:21.935
+<v Nic>by now I would be. I assume I
+would be happier with what I
+
+514
+00:38:21.935 --> 00:38:28.145
+<v Nic>produce. I am my own worst
+critic. I'm getting a lot of
+
+515
+00:38:28.145 --> 00:38:32.855
+<v Nic>great feedback. People love what
+I'm doing, and and it's good for
+
+516
+00:38:32.855 --> 00:38:39.665
+<v Nic>the ego. But when I look at what
+I do, I'm rarely satisfied with
+
+517
+00:38:39.665 --> 00:38:46.760
+<v Nic>what I've done. I see all the
+faults. People told me, "Hey,
+
+518
+00:38:46.760 --> 00:38:50.150
+<v Nic>your bird photography is great.
+Maybe you should sell calendars
+
+519
+00:38:50.150 --> 00:38:54.950
+<v Nic>or or sell your art." And I'm
+looking at everybody else that I
+
+520
+00:38:54.950 --> 00:38:57.380
+<v Nic>interact with that does bird
+photography, and I'm thinking,
+
+521
+00:38:57.380 --> 00:39:02.450
+<v Nic>"Well, a the market is flooded,
+and b I'm okay, and maybe I'm
+
+522
+00:39:02.450 --> 00:39:06.755
+<v Nic>better than people around me.
+But the reality is, I'm just a
+
+523
+00:39:06.755 --> 00:39:10.325
+<v Nic>very, very basic bird
+photographer compared to other
+
+524
+00:39:10.325 --> 00:39:18.605
+<v Nic>people. " So, from that
+perspective, I, you know, I like
+
+525
+00:39:18.605 --> 00:39:24.185
+<v Nic>to share the work I do, but I'm
+not often happy with the work I
+
+526
+00:39:24.185 --> 00:39:24.455
+<v Nic>do.
+
+527
+00:39:26.270 --> 00:39:29.240
+<v Mark>I'm I'm agreeing with you,
+Nic, because you're descri
+
+528
+00:39:29.420 --> 00:39:34.940
+<v Mark>you're describing what I feel
+just about every time I produce
+
+529
+00:39:35.030 --> 00:39:39.290
+<v Mark>something, and it makes me
+wonder if if we're wrong or if
+
+530
+00:39:39.290 --> 00:39:41.800
+<v Mark>we're right about that feeling.
+You know what I mean. If if if
+
+531
+00:39:41.860 --> 00:39:44.950
+<v Mark>everybody who's who's
+photographing birds or or or
+
+532
+00:39:45.070 --> 00:39:49.060
+<v Mark>sketching looks at their work
+and feels the same way, and
+
+533
+00:39:49.510 --> 00:39:52.270
+<v Mark>where I feel this the most in in
+that same sentiment of like I
+
+534
+00:39:52.330 --> 00:39:56.500
+<v Mark>wished I dug deeper when I was
+younger is with like figure
+
+535
+00:39:56.650 --> 00:39:59.890
+<v Mark>drawing. I learned to figure
+draw in school, but I kind of.
+
+536
+00:40:00.030 --> 00:40:02.700
+<v Mark>Left it in class, and I've come
+back to it at certain times, and
+
+537
+00:40:02.790 --> 00:40:04.680
+<v Mark>I'll do a drawing, and I'll be
+very happy with it, and then
+
+538
+00:40:04.710 --> 00:40:07.200
+<v Mark>I'll look at it the next day and
+be like, "What? Yeah, what did I
+
+539
+00:40:07.290 --> 00:40:08.100
+<v Mark>do? This is not good.
+
+540
+00:40:09.170 --> 00:40:14.480
+<v Nic>This is where, for me, art
+is about the process, not about
+
+541
+00:40:14.480 --> 00:40:21.290
+<v Nic>the outcome. I am much more
+satisfied with spending an hour
+
+542
+00:40:21.500 --> 00:40:27.470
+<v Nic>sketching a bridge than I am
+with the finished bridge sketch.
+
+543
+00:40:27.650 --> 00:40:30.170
+<v Mark>Yeah, that's a really
+great way to to think about it
+
+544
+00:40:30.170 --> 00:40:35.600
+<v Mark>and to to put it. What are you
+most happy with when you look at
+
+545
+00:40:35.600 --> 00:40:40.600
+<v Mark>it and you go, "This is in my
+art. I've accomplished. I'm so
+
+546
+00:40:40.720 --> 00:40:43.150
+<v Mark>glad I've accomplished fill in
+the blank.
+
+547
+00:40:46.150 --> 00:40:53.590
+<v Nic>With sketching, what I'm
+working on most right now is
+
+548
+00:40:54.010 --> 00:41:00.210
+<v Nic>perspective and values. So if I
+nail perspective and values on a
+
+549
+00:41:00.270 --> 00:41:10.110
+<v Nic>sketch, it makes me happy. With
+quilting, it's sharp seams,
+
+550
+00:41:12.150 --> 00:41:15.300
+<v Nic>points that are on points, and
+and when I say points that are
+
+551
+00:41:15.330 --> 00:41:19.470
+<v Nic>on points, is is the corners
+where two different or three or
+
+552
+00:41:19.650 --> 00:41:24.080
+<v Nic>four or five or six parts of
+fabrics are meeting that they're
+
+553
+00:41:24.170 --> 00:41:30.350
+<v Nic>meeting spot on. For bird
+photography, it's it's it's
+
+554
+00:41:32.240 --> 00:41:36.020
+<v Nic>getting close enough to the bird
+to be able to have the eye sharp
+
+555
+00:41:37.070 --> 00:41:40.070
+<v Nic>at about level. I don't want the
+birds to be all the way up or
+
+556
+00:41:40.280 --> 00:41:49.510
+<v Nic>all the way down, and I, I like
+to capture motion. A bald eagle
+
+557
+00:41:49.660 --> 00:41:53.410
+<v Nic>sitting on a branch doing
+nothing is impressive. They are
+
+558
+00:41:54.130 --> 00:42:00.960
+<v Nic>really big birds, but I've got
+hundreds of bald eagles sitting
+
+559
+00:42:01.050 --> 00:42:02.100
+<v Nic>on a branch doing nothing,
+
+560
+00:42:02.670 --> 00:42:02.820
+<v Mark>right?
+
+561
+00:42:02.960 --> 00:42:07.910
+<v Nic>And and I said last year
+when when I was out looking at
+
+562
+00:42:07.910 --> 00:42:11.180
+<v Nic>bald eagle migration, I said to
+somebody else, like oh yeah,
+
+563
+00:42:11.180 --> 00:42:13.850
+<v Nic>they're just sitting there,
+they're boring. And the person
+
+564
+00:42:13.850 --> 00:42:18.050
+<v Nic>says, what do you mean they're
+boring? Well, they are. What
+
+565
+00:42:18.050 --> 00:42:21.530
+<v Nic>we're waiting for is the action
+they're taking off. They're
+
+566
+00:42:21.530 --> 00:42:26.495
+<v Nic>splashing into water, grabbing a
+salmon. They're grabbing each
+
+567
+00:42:26.495 --> 00:42:29.705
+<v Nic>other and swirling. That's what
+you're looking for. It's for the
+
+568
+00:42:29.705 --> 00:42:34.415
+<v Nic>action, and what satisfies me
+most is when I have that action.
+
+569
+00:42:36.500 --> 00:42:38.840
+<v Mark>I think that yeah, what
+you described is is that
+
+570
+00:42:38.870 --> 00:42:42.670
+<v Mark>evolution, right? And it's the
+decisive moment. So when you
+
+571
+00:42:42.700 --> 00:42:45.610
+<v Mark>were first describing that, it
+was like, well, yeah, you know,
+
+572
+00:42:46.270 --> 00:42:49.360
+<v Mark>I don't know how jazzed I would
+be about capturing a bald eagle.
+
+573
+00:42:49.660 --> 00:42:53.560
+<v Mark>Probably pretty jazzed, you
+know, but just sitting there on
+
+574
+00:42:53.590 --> 00:42:56.830
+<v Mark>a branch. But then I also don't
+know how big of a deal it would
+
+575
+00:42:56.830 --> 00:43:02.850
+<v Mark>be to catch a bald eagle eagle
+soaring overhead, but to capture
+
+576
+00:43:02.910 --> 00:43:07.200
+<v Mark>a bald eagle in that moment when
+it's just about to take off and
+
+577
+00:43:07.290 --> 00:43:13.050
+<v Mark>it goes through that expression
+or whatever it is where it's not
+
+578
+00:43:13.140 --> 00:43:15.630
+<v Mark>sitting on the branch and it's
+not in flight, but it's
+
+579
+00:43:15.990 --> 00:43:19.590
+<v Mark>somewhere in that moment in
+between. I think that when the
+
+580
+00:43:20.100 --> 00:43:24.410
+<v Mark>term decisive moment was coined.
+It was moments like that that
+
+581
+00:43:24.740 --> 00:43:27.200
+<v Mark>that they were thinking about.
+That there's a particular thing
+
+582
+00:43:27.440 --> 00:43:30.590
+<v Mark>about only at that moment could
+you click the shutter and
+
+583
+00:43:30.620 --> 00:43:33.950
+<v Mark>capture that. If they're in
+flight, you could click the
+
+584
+00:43:33.980 --> 00:43:36.020
+<v Mark>shutter 1000 times. It's going
+to look very similar. Or if
+
+585
+00:43:36.080 --> 00:43:36.950
+<v Mark>they're sitting there, you know.
+
+586
+00:43:37.580 --> 00:43:37.970
+<v Nic>That's right.
+
+587
+00:43:38.120 --> 00:43:44.110
+<v Mark>So I I completely I
+completely understand, you know,
+
+588
+00:43:44.440 --> 00:43:46.540
+<v Mark>and I think there's something
+when you hit that, like you feel
+
+589
+00:43:46.630 --> 00:43:50.530
+<v Mark>it, you know it, and it's it's
+it's very very satisfying.
+
+590
+00:43:51.070 --> 00:43:55.870
+<v Nic>It it it's it's learning
+the behavior of the bird too,
+
+591
+00:43:56.740 --> 00:44:01.000
+<v Nic>because you can capture that
+great photo by sheer luck, or
+
+592
+00:44:02.260 --> 00:44:05.070
+<v Nic>you can know. Oh well, this bird
+has been sitting there for this
+
+593
+00:44:05.220 --> 00:44:09.510
+<v Nic>long. It's starting to shuffle a
+little bit on the branch this
+
+594
+00:44:09.720 --> 00:44:13.380
+<v Nic>way, and oh yeah, I know this is
+coming. I need to be ready to
+
+595
+00:44:13.410 --> 00:44:14.010
+<v Nic>take that photo.
+
+596
+00:44:14.790 --> 00:44:14.850
+<v Mark>Yeah,
+
+597
+00:44:15.810 --> 00:44:16.020
+<v Nic>and it's
+
+598
+00:44:16.080 --> 00:44:19.530
+<v Mark>almost almost athletic in
+that sense of of you know if
+
+599
+00:44:19.620 --> 00:44:23.000
+<v Mark>you're hitting a shot when
+people are trying to defend you
+
+600
+00:44:23.030 --> 00:44:26.030
+<v Mark>in basketball-it's recognizing
+the movements in the moment to
+
+601
+00:44:26.090 --> 00:44:30.200
+<v Mark>take the shot. It's a very
+similar thing, and to your
+
+602
+00:44:30.290 --> 00:44:33.650
+<v Mark>point, it's the process. It's
+all the work that goes before it
+
+603
+00:44:33.740 --> 00:44:38.810
+<v Mark>to allow you to do that. That
+that you do it for. If you had
+
+604
+00:44:39.020 --> 00:44:45.610
+<v Mark>to, if you and I were going to
+meet on a deserted island and
+
+605
+00:44:46.120 --> 00:44:49.690
+<v Mark>you were only able to bring one
+piece of artwork with you to
+
+606
+00:44:49.870 --> 00:44:54.400
+<v Mark>show me, what would that be?
+I've never seen any of your
+
+607
+00:44:54.430 --> 00:44:57.910
+<v Mark>artwork, but you have to bring
+one one thing to show me. What
+
+608
+00:44:57.940 --> 00:44:58.150
+<v Mark>would it be?
+
+609
+00:45:00.480 --> 00:45:01.200
+<v Nic>One of my quilts.
+
+610
+00:45:02.850 --> 00:45:03.780
+<v Mark>Oh, that's very
+interesting.
+
+611
+00:45:04.530 --> 00:45:10.530
+<v Nic>Because I can't help being
+pragmatic and practical about
+
+612
+00:45:10.650 --> 00:45:13.890
+<v Nic>life, so I'm going to show you
+this quilt, and we're on a
+
+613
+00:45:13.920 --> 00:45:17.070
+<v Nic>deserted island, and we need to
+stay warm. So we're going to
+
+614
+00:45:17.160 --> 00:45:19.650
+<v Nic>wrap up in my art and stay warm.
+
+615
+00:45:20.280 --> 00:45:23.030
+<v Mark>That is a fantastic
+answer. I absolutely love that.
+
+616
+00:45:23.510 --> 00:45:25.670
+<v Mark>I'm thinking it's going to be
+like a picture or something, and
+
+617
+00:45:25.700 --> 00:45:30.200
+<v Mark>you're like, "No, we got to stay
+warm. The so let's let's reverse
+
+618
+00:45:30.260 --> 00:45:32.000
+<v Mark>that. I'm coming over to your
+house, and every piece of
+
+619
+00:45:32.060 --> 00:45:35.270
+<v Mark>artwork you've ever done is
+laying out on the floor. What do
+
+620
+00:45:35.330 --> 00:45:39.110
+<v Mark>you what do you before I get
+there? What do you hide so that
+
+621
+00:45:39.170 --> 00:45:41.020
+<v Mark>there is no way I will ever see
+it.
+
+622
+00:45:42.940 --> 00:45:43.870
+<v Nic>My secret sketchbook.
+
+623
+00:45:45.850 --> 00:45:46.210
+<v Mark>Enough said.
+
+624
+00:45:47.000 --> 00:45:53.030
+<v Nic>I I have a sketchbook where
+I experiment, ink, colored
+
+625
+00:45:53.030 --> 00:45:59.690
+<v Nic>pencil, gouache, watercolor,
+brush pens, whatever. I just do
+
+626
+00:45:59.690 --> 00:46:03.500
+<v Nic>stuff in there, and it's for me
+only. I will never show that to
+
+627
+00:46:03.500 --> 00:46:09.980
+<v Nic>anyone, and that relieves a lot
+of the anxiety about
+
+628
+00:46:10.025 --> 00:46:11.495
+<v Nic>performance. So...
+
+629
+00:46:11.855 --> 00:46:17.225
+<v Mark>Are you hiding the
+imperfection in your art in that
+
+630
+00:46:17.225 --> 00:46:21.245
+<v Mark>case, or are you hiding the
+parts of your brain that are
+
+631
+00:46:21.245 --> 00:46:26.195
+<v Mark>coming out in that art, or both.
+
+632
+00:46:26.270 --> 00:46:34.430
+<v Nic>A bit of both, but a lot of
+hiding my brain. You wanted to
+
+633
+00:46:34.490 --> 00:46:38.930
+<v Nic>explore my brain earlier, and I
+nearly said, "Oh well, it's not
+
+634
+00:46:38.960 --> 00:46:44.380
+<v Nic>a very pretty place, and that
+secret sketchbook allows me to
+
+635
+00:46:46.090 --> 00:46:50.320
+<v Nic>to express the often dark
+thoughts that I have that I
+
+636
+00:46:50.440 --> 00:46:56.140
+<v Nic>don't want to a burden people
+with or b make myself too
+
+637
+00:46:56.290 --> 00:46:57.100
+<v Nic>vulnerable about.
+
+638
+00:46:59.920 --> 00:47:04.290
+<v Mark>And that brings me back to
+your attraction towards that
+
+639
+00:47:04.500 --> 00:47:09.390
+<v Mark>urban esthetic, which you you
+called human, right? Because you
+
+640
+00:47:09.570 --> 00:47:13.110
+<v Mark>you said you know you don't want
+to take a picture of a a rusty
+
+641
+00:47:13.890 --> 00:47:15.990
+<v Mark>fence in a brick wall. You want
+to take a picture of a rusty
+
+642
+00:47:16.080 --> 00:47:19.770
+<v Mark>fence in a brick wall with a
+person leaning into it that's
+
+643
+00:47:19.860 --> 00:47:22.850
+<v Mark>pensive, or with a person
+hitting it with a hammer, or you
+
+644
+00:47:22.880 --> 00:47:26.240
+<v Mark>want that human human element in
+there, and I think sometimes
+
+645
+00:47:26.330 --> 00:47:31.040
+<v Mark>those it it makes sense to me.
+Your answer makes sense to me
+
+646
+00:47:31.130 --> 00:47:33.800
+<v Mark>because I think sometimes those
+urban landscapes and that
+
+647
+00:47:34.310 --> 00:47:41.350
+<v Mark>locational art and that freedom
+is this the surfacing of some of
+
+648
+00:47:41.380 --> 00:47:47.980
+<v Mark>that darkness, you know, like if
+you're painting a still life or
+
+649
+00:47:48.100 --> 00:47:51.730
+<v Mark>nature or you're photographing a
+bird, it's not doing that. But
+
+650
+00:47:51.730 --> 00:47:55.570
+<v Mark>when you're so deeply into the
+human condition that you're in a
+
+651
+00:47:55.690 --> 00:47:58.810
+<v Mark>place that is 100% of a human
+environment, with 100% of a
+
+652
+00:47:58.810 --> 00:48:01.320
+<v Mark>human reacting to that
+environment, you're starting to
+
+653
+00:48:01.560 --> 00:48:07.800
+<v Mark>surface the that that that
+depth. So I think that there's a
+
+654
+00:48:07.860 --> 00:48:11.700
+<v Mark>relationship between those
+things. Well, I hope that if we
+
+655
+00:48:11.760 --> 00:48:14.130
+<v Mark>end up on a deserted island,
+that you bring that quilt
+
+656
+00:48:14.220 --> 00:48:19.170
+<v Mark>because that sounds wonderful.
+And I hope not to ever stumble
+
+657
+00:48:19.200 --> 00:48:22.820
+<v Mark>upon your secret sketchbook
+because that doesn't something I
+
+658
+00:48:22.970 --> 00:48:26.720
+<v Mark>want to even get into, Nic. But
+I hope that the things that you
+
+659
+00:48:26.810 --> 00:48:30.140
+<v Mark>need to surface out of that
+sketchbook and into your regular
+
+660
+00:48:30.290 --> 00:48:33.590
+<v Mark>art, I I think that part of the
+process is finding out how to do
+
+661
+00:48:33.710 --> 00:48:34.820
+<v Mark>that too. Yeah, you know,
+
+662
+00:48:35.150 --> 00:48:42.340
+<v Nic>yeah. There's there's
+certainly things that I'm
+
+663
+00:48:42.490 --> 00:48:47.050
+<v Nic>figuring out as I'm doing
+doodles in my secret sketchbook
+
+664
+00:48:47.200 --> 00:48:50.860
+<v Nic>that actually come out of there
+and that I'm using in in
+
+665
+00:48:51.370 --> 00:48:54.400
+<v Nic>everyday things that I'm happy
+to share with with other people.
+
+666
+00:48:56.680 --> 00:49:00.100
+<v Mark>Well, I'm gonna also say
+secret sketchbook. Great great
+
+667
+00:49:00.130 --> 00:49:02.310
+<v Mark>title for a novel, not a bad
+band name either.
+
+668
+00:49:05.670 --> 00:49:13.830
+<v Nic>I have so much musical
+talent in me that if I played
+
+669
+00:49:13.890 --> 00:49:18.150
+<v Nic>musical instrument, I would kill
+all the vegetation around me.
+
+670
+00:49:18.330 --> 00:49:21.860
+<v Nic>You know, they they say music
+like plants like music. Well, my
+
+671
+00:49:21.980 --> 00:49:22.760
+<v Nic>music, they wouldn't.
+
+672
+00:49:23.150 --> 00:49:25.760
+<v Mark>I'm I'm right with you. I
+yeah. Don't ask me to sing.
+
+673
+00:49:25.970 --> 00:49:31.970
+<v Mark>Don't ask me to keep rhythm. I'm
+not going to do it. I think
+
+674
+00:49:32.030 --> 00:49:36.020
+<v Mark>we're we're we're getting close
+to the end of our time. Nic, is
+
+675
+00:49:36.170 --> 00:49:38.450
+<v Mark>there anything that we didn't
+cover, or anything that you kind
+
+676
+00:49:38.450 --> 00:49:44.680
+<v Mark>of want to bring up about you,
+your artwork? any of it that
+
+677
+00:49:44.680 --> 00:49:47.260
+<v Mark>that that you think is important
+that we didn't cross over.
+
+678
+00:49:49.750 --> 00:49:59.830
+<v Nic>Yeah, I would like for
+people to think about me as a
+
+679
+00:49:59.830 --> 00:50:04.540
+<v Nic>multifaceted kind of person. I'm
+not just that disabled guy. I'm
+
+680
+00:50:04.540 --> 00:50:09.160
+<v Nic>not just that angry crip. I'm
+not just this digital
+
+681
+00:50:09.160 --> 00:50:17.845
+<v Nic>accessibility expert. I'm I'm a
+husband. I'm a son. I'm I'm I'm
+
+682
+00:50:17.845 --> 00:50:24.565
+<v Nic>human, and part of that humanity
+means that I'm going to be doing
+
+683
+00:50:24.565 --> 00:50:27.325
+<v Nic>sketching, I'm doing to be
+quilting, and I'm doing
+
+684
+00:50:27.325 --> 00:50:31.975
+<v Nic>photography. And who knows?
+Maybe, maybe a year down the
+
+685
+00:50:31.975 --> 00:50:35.440
+<v Nic>road, I'm gonna say, "Hey,
+there's a new creative thing
+
+686
+00:50:35.440 --> 00:50:38.800
+<v Nic>I've just heard about, and I
+want to try that. And I'm hoping
+
+687
+00:50:38.800 --> 00:50:43.630
+<v Nic>that people that see me bouncing
+about from one to another to
+
+688
+00:50:43.630 --> 00:50:50.650
+<v Nic>another to another type of
+creative practice. See it as
+
+689
+00:50:50.650 --> 00:50:54.460
+<v Nic>exploring creativity rather than
+being aimless and not sticking
+
+690
+00:50:54.460 --> 00:50:59.485
+<v Nic>to something, because maybe the
+practice I'm using right now is
+
+691
+00:50:59.485 --> 00:51:02.545
+<v Nic>different than the one I'm using
+six months down the road, but
+
+692
+00:51:03.025 --> 00:51:07.525
+<v Nic>I'm still practicing creativity
+rather than not sticking to one
+
+693
+00:51:07.525 --> 00:51:07.825
+<v Nic>thing.
+
+694
+00:51:09.180 --> 00:51:13.140
+<v Mark>One of the sayings that we
+have in the martial arts that my
+
+695
+00:51:13.200 --> 00:51:14.850
+<v Mark>group of people have in the
+martial arts is: we say,
+
+696
+00:51:14.910 --> 00:51:17.790
+<v Mark>"There's nothing better than
+being a white belt. Everybody
+
+697
+00:51:17.880 --> 00:51:21.380
+<v Mark>wants to get to that black belt,
+and we say the most fun that we
+
+698
+00:51:21.500 --> 00:51:24.530
+<v Mark>have is being a white belt, and
+this oftentimes brings us to
+
+699
+00:51:24.530 --> 00:51:27.410
+<v Mark>study other disciplines. Right?
+You said you did judo, you said
+
+700
+00:51:27.500 --> 00:51:31.550
+<v Mark>you did tai chi, and I've got a
+bullet list, and I stick with
+
+701
+00:51:32.450 --> 00:51:35.480
+<v Mark>ones, but I also try other ones,
+and I think it's that same
+
+702
+00:51:35.900 --> 00:51:41.170
+<v Mark>thing, Nic. Like you, art is a
+process before it's a final
+
+703
+00:51:41.200 --> 00:51:46.330
+<v Mark>product, it's about the journey.
+It's about the creation, and
+
+704
+00:51:46.540 --> 00:51:49.480
+<v Mark>sometimes the most satisfying
+form of that is when you've got
+
+705
+00:51:49.660 --> 00:51:53.380
+<v Mark>something brand new, a brand new
+skill you're trying to acquire,
+
+706
+00:51:53.470 --> 00:51:56.530
+<v Mark>a brand new medium you're trying
+to figure out how to work with,
+
+707
+00:51:57.160 --> 00:52:03.990
+<v Mark>but something that is returns
+you to the beginning and causes
+
+708
+00:52:04.140 --> 00:52:06.990
+<v Mark>you to rediscover from that
+perspective.
+
+709
+00:52:07.560 --> 00:52:07.620
+<v Nic>Yeah.
+
+710
+00:52:08.070 --> 00:52:11.040
+<v Mark>So I don't think I don't
+know if I'm sure you're talking
+
+711
+00:52:11.130 --> 00:52:13.590
+<v Mark>from a place of experience when
+you say you hope people think of
+
+712
+00:52:13.590 --> 00:52:18.930
+<v Mark>you that way, but I, to me, it
+just makes sense. It makes a lot
+
+713
+00:52:18.960 --> 00:52:23.810
+<v Mark>of sense, and I think that it's
+really one of the ways that we
+
+714
+00:52:23.900 --> 00:52:26.510
+<v Mark>discover-we don't discover who
+we are and the things that we're
+
+715
+00:52:26.600 --> 00:52:31.070
+<v Mark>good at. We discover who we are
+and how we interact and react to
+
+716
+00:52:31.160 --> 00:52:35.720
+<v Mark>the things we're not good at, or
+to adversity, or or novelty, or
+
+717
+00:52:35.780 --> 00:52:36.260
+<v Mark>whatever. So,
+
+718
+00:52:36.980 --> 00:52:37.550
+<v Nic>and I appreciate
+
+719
+00:52:37.850 --> 00:52:38.150
+<v Mark>you do that.
+
+720
+00:52:39.140 --> 00:52:40.610
+<v Nic>There's growth in
+discomfort.
+
+721
+00:52:42.890 --> 00:52:48.100
+<v Mark>Yeah. Yep, 100% Then
+that's where again, maybe we're
+
+722
+00:52:48.310 --> 00:52:50.830
+<v Mark>a lot of like, like people say,
+"You want to go on vacation?
+
+723
+00:52:50.860 --> 00:52:52.840
+<v Mark>Let's go to you know the all
+inclusive. I'm like, "Can we go
+
+724
+00:52:52.990 --> 00:52:55.270
+<v Mark>right in the middle of town? Can
+we go find those people that
+
+725
+00:52:55.270 --> 00:52:56.890
+<v Mark>don't want us to be there? I
+want to hang out with them,
+
+726
+00:52:57.040 --> 00:53:00.520
+<v Mark>right? It's there is there is
+comfort for me in discomfort
+
+727
+00:53:00.580 --> 00:53:01.000
+<v Mark>sometimes.
+
+728
+00:53:01.570 --> 00:53:01.630
+<v Nic>Yeah,
+
+729
+00:53:01.960 --> 00:53:04.620
+<v Mark>you know, into having your
+having the edge of your blade
+
+730
+00:53:04.710 --> 00:53:07.620
+<v Mark>ground against a little bit,
+that that's what makes it
+
+731
+00:53:07.650 --> 00:53:13.410
+<v Mark>sharper. Well, Nic, I feel like
+we could do 10 more of these,
+
+732
+00:53:13.620 --> 00:53:20.310
+<v Mark>and I still wouldn't get to the
+center of who you are entirely.
+
+733
+00:53:21.150 --> 00:53:23.450
+<v Mark>Nor do I think I ever want to be
+there because of the discovery
+
+734
+00:53:23.450 --> 00:53:24.050
+<v Mark>is the point.
+
+735
+00:53:24.590 --> 00:53:24.650
+<v Nic>Yeah,
+
+736
+00:53:25.280 --> 00:53:28.310
+<v Mark>this was amazing, and I'd
+love to keep going. But I know
+
+737
+00:53:28.400 --> 00:53:29.390
+<v Mark>we've got to. We've got to.
+
+738
+00:53:30.590 --> 00:53:34.430
+<v Nic>I had a wonderful time, and
+I'm so glad I picked you to
+
+739
+00:53:34.550 --> 00:53:36.680
+<v Nic>interview me. This was so much
+fun.
+
+740
+00:53:37.370 --> 00:53:39.830
+<v Mark>I'm so glad that you
+picked me too, and it was an
+
+741
+00:53:39.890 --> 00:53:43.960
+<v Mark>absolute honor. And if you if
+you feel like you've got more of
+
+742
+00:53:43.990 --> 00:53:47.260
+<v Mark>a story, I'd be honored to step
+back into this role anytime.
+
+743
+00:53:48.550 --> 00:53:49.390
+<v Nic>Mark, thanks a lot.
+
+744
+00:53:50.000 --> 00:54:05.210
+<v Mark>Thank you.
+
+745
+00:54:05.210 --> 00:54:08.510
+<v Nic>If you enjoyed this
+episode, if you were inspired in
+
+746
+00:54:08.510 --> 00:54:12.320
+<v Nic>any way, or if you learned
+something, please leave a rating
+
+747
+00:54:12.320 --> 00:54:17.075
+<v Nic>or review on Apple Podcasts, on
+Spotify, or whatever podcast
+
+748
+00:54:17.075 --> 00:54:22.265
+<v Nic>aggregator you use. Ratings and
+reviews really do help. Thank
+
+749
+00:54:22.265 --> 00:54:26.885
+<v Nic>you. And that's it. I'm Nic
+Steenhout. This is the work
+
+750
+00:54:26.885 --> 00:54:31.895
+<v Nic>between. If this sounds like the
+kind of conversation you like,
+
+751
+00:54:31.895 --> 00:54:35.705
+<v Nic>subscribe, and I'll see you in
+the next episode.
