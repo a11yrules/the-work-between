@@ -19,6 +19,12 @@ tags:
 - sketching
 - digital-accessibility
 - watercolor
+- adhd
+- mobility
+
+quote_1: "For me, art is about the process, not about the outcome. I am much more satisfied with spending an hour sketching a bridge than I am with the finished bridge sketch."
+quote_2: "There's growth in discomfort."
+quote_3: "A quilt is not something you put on a wall or put in a box and forget about. A quilt, you use it. When it wears out, well, you make another one."
 
 links:
   - label: "Business website"
@@ -89,7 +95,7 @@ links:
 
 {% assign episodes = site.posts | where: "guest", page.title %}
 {% if episodes.size > 0 %}
-## Featured conversation
+## Featured conversations
 
   {% for post in episodes %}
   <img src="{{ post.local_cover_art}}" alt="" class="featured-conversation-image" />
