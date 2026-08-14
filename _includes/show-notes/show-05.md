@@ -35,6 +35,7 @@ Mark Miller works in digital accessibility and inclusion. He is also a photograp
 
 ### Links
 
+- [Inclusion Impact](http://Inclusionimpact.co) - Mark's accessibility consulting website.
 - [The Accessibility Breakdown](https://inclusionimpact.co/podcasts/the-accessibility-breakdown/) — Mark's accessibility podcast, co-hosted with Justin Stockton
 - [National Quilt Museum](https://quiltmuseum.org/) — Paducah, Kentucky, the museum Nic and his wife visited before he started quilting
 - [Episode with Mia](https://theworkbetween.show/episodes/mia-seljubac-on-watercolor-and-game-development/)
