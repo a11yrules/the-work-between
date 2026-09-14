@@ -29,7 +29,7 @@ cover_art: /img/covers/show-06-nic-steenhout-3000.jpg
 local_cover_art: /img/covers/show-06-nic-steenhout-800.jpg
 episode_image_linkedin: /img/covers/show-06-nic-steenhout-linkedin.jpg
 
-topics: ["Disability", "Urban Sketching", "Learning Styles]
+topics: ["Disability", "Urban Sketching", "Learning Styles"]
 
 guest: "Nic Steenhout"
 
