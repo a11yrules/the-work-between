@@ -1,4 +1,3 @@
-### Transcripts
 I provide transcript reviewed for accuracy by a human for every episode at the time of publishing. There&#x27;s a text-only transcript that you could read if audio isn&#x27;t the best  media for you. There&#x27;s also a time transcript you can follow along while listening if that works better for you. You can access those directly on the podcast&#x27;s website if they aren&#x27;t displayed by your podcast aggregator, that&#x27;s the workbetween dot show.
 
 ### Episode overview
