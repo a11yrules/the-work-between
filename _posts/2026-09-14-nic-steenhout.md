@@ -11,7 +11,7 @@ episode_type: full
 episode_number: 06
 
 # Audio Information
-audio_file: 06-nic-steenhout-sketching.mp3
+audio_file: 06-nic-on-urban-sketching.mp3
 audio_type: "audio/mpeg"
 file_size: 36118352 # file size in bytes (required for podcast aggregators)
 transcript_vtt: /assets/transcripts/show-06.vtt
