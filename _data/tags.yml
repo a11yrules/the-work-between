@@ -93,3 +93,11 @@
 - slug: mobility
   label: Mobility
   description: "Guests and episodes discussing mobility, physical disability, and how movement — or its limits — shapes creative practice and daily life."
+
+- slug: disability
+  label: Disability
+  description: "Guests and episodes discussing disability, access, and how disabled people's experiences shape creative practice and working life."
+
+- slug: learning-styles
+  label: Learning styles
+  description: "Guests and episodes exploring how people learn creative skills, including the tools, environments, scaffolding, and accommodations that support them."
