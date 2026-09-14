@@ -1,39 +1,39 @@
 ---
 layout: podcast
-title: "Nic Steenhout on quilting, sketching, and photography"
+title: "Nic Steenhout on learning urban sketching"
 published: true
 type: podcast
-summary: "Mark Miller turns the tables and interviews Nic about his own creative practice. They talk about sketching, quilting and bird photography, why making things helps quiet Nic’s mind, and why the process matters more to him than the finished work. The conversation also touches on martial arts, self-criticism, vulnerability, and wanting to be seen as more than the disabled accessibility guy."
+summary: "Nic Steenhout uses this solo episode to push back on standard urban sketching advice: draw from life, use ink, skip photos. He argues that advice assumes a non-disabled body and a brain that can tune out a busy street. Speaking from his own experience as a disabled sketcher, he separates scaffolding (photos, pencils, things you use while learning and can drop later) from accommodation (wheelchair access, noise control, things that don't go away once you've improved)."
 
-permalink: /episodes/nic-steenhout-on-quilting-sketching-and-photography/
+permalink: /episodes/nic-steenhout-on-learning-urban-sketching/
 # Podcast Episode Metadata
 episode_type: full
-episode_number: 05
+episode_number: 06
 
 # Audio Information
-audio_file: 05-nic-steenhout-sketching.mp3
+audio_file: 06-nic-steenhout-sketching.mp3
 audio_type: "audio/mpeg"
-file_size: 130917728 # file size in bytes (required for podcast aggregators)
-transcript_vtt: /assets/transcripts/show-05.vtt
-transcript: transcripts/show-05.html
+file_size: 36118352 # file size in bytes (required for podcast aggregators)
+transcript_vtt: /assets/transcripts/show-06.vtt
+transcript: transcripts/show-06.html
 
 # Duration
-duration: "PT54M33S"
-duration_formatted: "54:33"
+duration: "PT15M03S"
+duration_formatted: "15:03"
 
 # Series
 series: "The Work Between"
 
 # Episode Artwork
-cover_art: /img/covers/show-05-nic-steenhout-3000.jpg
-local_cover_art: /img/covers/show-05-nic-steenhout-800.jpg
-episode_image_linkedin: /img/covers/show-05-nic-steenhout-linkedin.jpg
+cover_art: /img/covers/show-06-nic-steenhout-3000.jpg
+local_cover_art: /img/covers/show-06-nic-steenhout-800.jpg
+episode_image_linkedin: /img/covers/show-06-nic-steenhout-linkedin.jpg
 
-topics: ["Quilting", "Sketching", "Photography"]
+topics: ["Disability", "Urban Sketching", "Learning Styles]
 
 guest: "Nic Steenhout"
 
-date: 2026-08-13
+date: 2026-09-14
 
 # Author/Host
 author: "Nic Steenhout"
@@ -41,16 +41,12 @@ author: "Nic Steenhout"
 # Content Rating
 explicit: false
 
-show-notes: /show-notes/show-05.md
+show-notes: /show-notes/show-06.md
 # Categories/Tags
 tags:
-- photography
-- quilting
-- sketching
-- digital-accessibility
-- watercolor
-- adhd
-- mobility
+- disability
+- urban-sketching
+- learning-styles
 ---
 
 <details>
